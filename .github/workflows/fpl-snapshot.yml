@@ -19,16 +19,15 @@ jobs:
   snapshot:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
       - name: Hent FPL-data
         env:
           FPL_ENTRY_ID: "1561629"
-          ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
         run: python scripts/fetch_fpl.py
 
       - name: Commit endringer

@@ -27,7 +27,8 @@ jobs:
 
       - name: Hent FPL-data
         env:
-          FPL_ENTRY_ID: ${{ vars.FPL_ENTRY_ID }}
+          FPL_ENTRY_ID: "1561629"
+          ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
         run: python scripts/fetch_fpl.py
 
       - name: Commit endringer

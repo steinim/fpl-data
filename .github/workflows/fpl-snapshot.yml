@@ -1,3 +1,12 @@
+name: Diagnose
+  env:
+    FPL_ENTRY_ID: "1561629"
+  run: |
+    echo "entry=[$FPL_ENTRY_ID] len=${#FPL_ENTRY_ID}"
+    ls -la
+    ls -la scripts || echo "scripts/ finnes ikke"
+
+
 name: FPL snapshot
 
 on:

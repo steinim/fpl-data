@@ -1,0 +1,16 @@
+slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_points,bps,bonus
+1,Kinsky,Spurs,GKP,1,False,False,90,1,1,4,0
+2,N.Williams,Nott'm Forest,DEF,1,False,False,90,6,6,16,0
+3,Calafiori,Arsenal,DEF,1,False,False,90,11,11,30,2
+4,Shaw,Man Utd,DEF,1,False,False,72,2,2,12,0
+5,Gibbs-White,Nott'm Forest,MID,1,False,False,90,13,13,36,3
+6,B.Fernandes,Man Utd,MID,2,True,False,90,23,46,87,3
+7,Tzolis,Arsenal,MID,1,False,False,45,0,0,1,0
+8,Mbeumo,Man Utd,MID,1,False,False,90,11,11,37,2
+9,Calvert-Lewin,Leeds,FWD,1,False,False,90,8,8,31,2
+10,Haaland,Man City,FWD,1,False,True,90,13,13,60,3
+11,João Pedro,Chelsea,FWD,1,False,False,90,9,9,44,2
+12,Verbruggen,Brighton,GKP,0,False,False,90,0,0,-1,0
+13,Slater,Hull City,MID,0,False,False,90,2,0,6,0
+14,Davis,Ipswich Town,DEF,0,False,False,90,6,0,1,0
+15,Diop,Ipswich Town,DEF,0,False,False,90,2,0,7,0

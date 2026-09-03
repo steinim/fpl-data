@@ -1,0 +1,43 @@
+name: FPL snapshot
+
+on:
+  schedule:
+    # UTC. 01:45 fanger prisendringene (som settes ca. 01:30 UK-tid).
+    - cron: "45 1,7,13,19 * * *"
+    # Tettere under kampvinduet fre-man, for aa fange live-poeng og bonus.
+    - cron: "20 12,15,17,19,21 * * 5,6,0,1"
+  workflow_dispatch:
+
+concurrency:
+  group: fpl-snapshot
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Hent FPL-data
+        env:
+          FPL_ENTRY_ID: ${{ vars.FPL_ENTRY_ID }}
+        run: python scripts/fetch_fpl.py
+
+      - name: Commit endringer
+        run: |
+          git config user.name "fpl-snapshot"
+          git config user.email "actions@github.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "ingen endringer"
+          else
+            git commit -m "snapshot $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

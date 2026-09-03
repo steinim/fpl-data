@@ -1,10 +1,4 @@
 name: FPL snapshot
-  env:
-    FPL_ENTRY_ID: "1561629"
-  run: |
-    echo "entry=[$FPL_ENTRY_ID] len=${#FPL_ENTRY_ID}"
-    ls -la
-    ls -la scripts || echo "scripts/ finnes ikke"
 
 on:
   schedule:
@@ -30,6 +24,14 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
+
+      - name: Diagnose
+        env:
+          FPL_ENTRY_ID: "1561629"
+        run: |
+          echo "entry=[$FPL_ENTRY_ID] len=${#FPL_ENTRY_ID}"
+          ls -la
+          ls -la scripts || echo "scripts/ finnes ikke"
 
       - name: Hent FPL-data
         env:

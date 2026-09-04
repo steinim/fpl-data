@@ -19,7 +19,7 @@ id,event,kickoff_time,home,away,home_score,away_score,finished,fdr_home,fdr_away
 19,2,2026-08-30T13:00:00Z,Sunderland,Fulham,1,0,True,2,3
 18,2,2026-08-30T15:30:00Z,Man Utd,Ipswich Town,5,2,True,2,4
 20,2,2026-08-31T19:00:00Z,Aston Villa,Arsenal,0,1,True,4,4
-21,3,2026-09-04T19:00:00Z,Ipswich Town,Liverpool,,,False,4,2
+21,3,2026-09-04T19:00:00Z,Ipswich Town,Liverpool,0,2,False,4,2
 27,3,2026-09-05T11:30:00Z,Newcastle,Bournemouth,,,False,3,3
 22,3,2026-09-05T14:00:00Z,Brentford,Sunderland,,,False,2,3
 23,3,2026-09-05T14:00:00Z,Brighton,Leeds,,,False,2,3

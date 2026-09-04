@@ -1,8 +1,8 @@
 id,name,deadline_time,finished,data_checked,is_current,is_next,average_entry_score,highest_score,most_captained,chip_plays
 1,Gameweek 1,2026-08-21T17:30:00Z,True,True,False,False,50,131,411,"[{""chip_name"": ""bboost"", ""num_played"": 814606}, {""chip_name"": ""3xc"", ""num_played"": 250816}]"
-2,Gameweek 2,2026-08-28T17:30:00Z,True,True,True,False,81,161,411,"[{""chip_name"": ""bboost"", ""num_played"": 338660}, {""chip_name"": ""freehit"", ""num_played"": 78863}, {""chip_name"": ""wildcard"", ""num_played"": 279227}, {""chip_name"": ""3xc"", ""num_played"": 233946}]"
-3,Gameweek 3,2026-09-04T17:30:00Z,False,False,False,True,0,,,[]
-4,Gameweek 4,2026-09-12T12:30:00Z,False,False,False,False,0,,,[]
+2,Gameweek 2,2026-08-28T17:30:00Z,True,True,False,False,81,161,411,"[{""chip_name"": ""bboost"", ""num_played"": 338660}, {""chip_name"": ""freehit"", ""num_played"": 78863}, {""chip_name"": ""wildcard"", ""num_played"": 279227}, {""chip_name"": ""3xc"", ""num_played"": 233946}]"
+3,Gameweek 3,2026-09-04T17:30:00Z,False,False,True,False,0,,411,"[{""chip_name"": ""bboost"", ""num_played"": 144735}, {""chip_name"": ""freehit"", ""num_played"": 421239}, {""chip_name"": ""wildcard"", ""num_played"": 709478}, {""chip_name"": ""3xc"", ""num_played"": 1787071}]"
+4,Gameweek 4,2026-09-12T12:30:00Z,False,False,False,True,0,,,[]
 5,Gameweek 5,2026-09-18T17:30:00Z,False,False,False,False,0,,,[]
 6,Gameweek 6,2026-10-10T10:00:00Z,False,False,False,False,0,,,[]
 7,Gameweek 7,2026-10-17T10:00:00Z,False,False,False,False,0,,,[]

@@ -7450,10 +7450,10 @@
   "code": 2645221,
   "event": 3,
   "finished": false,
-  "finished_provisional": false,
+  "finished_provisional": true,
   "id": 21,
   "kickoff_time": "2026-09-04T19:00:00Z",
-  "minutes": 34,
+  "minutes": 90,
   "provisional_start_time": false,
   "pulse_id": 0,
   "started": true,
@@ -7496,11 +7496,24 @@
    {
     "a": [
      {
+      "element": 358,
+      "value": 1
+     },
+     {
+      "element": 362,
+      "value": 1
+     },
+     {
       "element": 372,
       "value": 1
      }
     ],
-    "h": [],
+    "h": [
+     {
+      "element": 591,
+      "value": 1
+     }
+    ],
     "identifier": "yellow_cards"
    },
    {
@@ -7512,13 +7525,13 @@
     "a": [
      {
       "element": 350,
-      "value": 2
+      "value": 5
      }
     ],
     "h": [
      {
       "element": 564,
-      "value": 2
+      "value": 5
      }
     ],
     "identifier": "saves"
@@ -7545,60 +7558,207 @@
     "a": [
      {
       "element": 379,
-      "value": 58
+      "value": 61
      },
      {
       "element": 367,
-      "value": 28
+      "value": 42
      },
      {
       "element": 350,
-      "value": 10
+      "value": 35
      },
      {
       "element": 356,
-      "value": 9
+      "value": 31
      },
      {
       "element": 362,
-      "value": 8
-     },
-     {
-      "element": 368,
-      "value": 7
+      "value": 27
      },
      {
       "element": 579,
-      "value": 4
+      "value": 26
      },
      {
       "element": 358,
-      "value": 3
+      "value": 22
+     },
+     {
+      "element": 368,
+      "value": 20
+     },
+     {
+      "element": 372,
+      "value": 16
      },
      {
       "element": 366,
-      "value": 3
+      "value": 14
      },
      {
       "element": 377,
+      "value": 9
+     },
+     {
+      "element": 627,
+      "value": 4
+     },
+     {
+      "element": 375,
+      "value": 3
+     },
+     {
+      "element": 381,
+      "value": 3
+     },
+     {
+      "element": 371,
+      "value": 2
+     }
+    ],
+    "h": [
+     {
+      "element": 619,
+      "value": 24
+     },
+     {
+      "element": 591,
+      "value": 16
+     },
+     {
+      "element": 315,
+      "value": 14
+     },
+     {
+      "element": 267,
+      "value": 13
+     },
+     {
+      "element": 564,
+      "value": 13
+     },
+     {
+      "element": 259,
+      "value": 9
+     },
+     {
+      "element": 562,
+      "value": 9
+     },
+     {
+      "element": 316,
+      "value": 8
+     },
+     {
+      "element": 306,
+      "value": 5
+     },
+     {
+      "element": 323,
+      "value": 5
+     },
+     {
+      "element": 304,
+      "value": 4
+     },
+     {
+      "element": 592,
+      "value": 4
+     },
+     {
+      "element": 640,
+      "value": 4
+     },
+     {
+      "element": 313,
+      "value": 3
+     },
+     {
+      "element": 305,
+      "value": 2
+     }
+    ],
+    "identifier": "bps"
+   },
+   {
+    "a": [
+     {
+      "element": 372,
+      "value": 12
+     },
+     {
+      "element": 367,
+      "value": 10
+     },
+     {
+      "element": 368,
+      "value": 9
+     },
+     {
+      "element": 579,
+      "value": 8
+     },
+     {
+      "element": 362,
+      "value": 7
+     },
+     {
+      "element": 356,
+      "value": 5
+     },
+     {
+      "element": 358,
+      "value": 4
+     },
+     {
+      "element": 366,
+      "value": 4
+     },
+     {
+      "element": 377,
+      "value": 4
+     },
+     {
+      "element": 371,
+      "value": 3
+     },
+     {
+      "element": 379,
       "value": 3
      }
     ],
     "h": [
      {
-      "element": 315,
-      "value": 9
+      "element": 619,
+      "value": 19
      },
      {
-      "element": 619,
+      "element": 259,
+      "value": 10
+     },
+     {
+      "element": 304,
       "value": 8
      },
      {
-      "element": 591,
-      "value": 7
+      "element": 315,
+      "value": 6
+     },
+     {
+      "element": 305,
+      "value": 5
+     },
+     {
+      "element": 306,
+      "value": 5
      },
      {
       "element": 562,
+      "value": 5
+     },
+     {
+      "element": 591,
       "value": 5
      },
      {
@@ -7607,109 +7767,14 @@
      },
      {
       "element": 316,
-      "value": 4
-     },
-     {
-      "element": 564,
-      "value": -1
-     },
-     {
-      "element": 259,
-      "value": -2
-     },
-     {
-      "element": 304,
-      "value": -3
-     },
-     {
-      "element": 305,
-      "value": -4
-     },
-     {
-      "element": 306,
-      "value": -4
-     }
-    ],
-    "identifier": "bps"
-   },
-   {
-    "a": [
-     {
-      "element": 367,
-      "value": 7
-     },
-     {
-      "element": 372,
-      "value": 6
-     },
-     {
-      "element": 356,
       "value": 3
      },
      {
-      "element": 377,
+      "element": 313,
       "value": 2
      },
      {
-      "element": 579,
-      "value": 2
-     },
-     {
-      "element": 358,
-      "value": 1
-     },
-     {
-      "element": 362,
-      "value": 1
-     },
-     {
-      "element": 366,
-      "value": 1
-     },
-     {
-      "element": 368,
-      "value": 1
-     },
-     {
-      "element": 379,
-      "value": 1
-     }
-    ],
-    "h": [
-     {
-      "element": 259,
-      "value": 5
-     },
-     {
-      "element": 304,
-      "value": 5
-     },
-     {
-      "element": 619,
-      "value": 5
-     },
-     {
-      "element": 305,
-      "value": 2
-     },
-     {
-      "element": 315,
-      "value": 2
-     },
-     {
-      "element": 316,
-      "value": 2
-     },
-     {
-      "element": 562,
-      "value": 2
-     },
-     {
-      "element": 306,
-      "value": 1
-     },
-     {
-      "element": 591,
+      "element": 323,
       "value": 1
      }
     ],

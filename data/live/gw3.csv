@@ -1,20 +1,34 @@
 id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,saves,defensive_contribution,bonus,bps,yellow_cards,red_cards,total_points
-379,Isak,Liverpool,FWD,9.0,38,2,0,0,0,0,1,3,58,0,0,12
-367,Gakpo,Liverpool,MID,7.1,38,0,2,0,0,0,7,2,28,0,0,9
-350,A.Becker,Liverpool,GKP,5.5,38,0,0,0,0,2,0,1,10,0,0,2
-619,Palacios,Ipswich Town,MID,5.0,38,0,0,0,2,0,6,1,10,0,0,2
-267,Lukić,Ipswich Town,MID,5.0,38,0,0,0,2,0,0,0,4,0,0,1
-315,Fatawu,Ipswich Town,MID,5.5,38,0,0,0,2,0,2,0,9,0,0,1
-316,Emersonn,Ipswich Town,FWD,5.5,38,0,0,0,2,0,2,0,4,0,0,1
-356,Virgil,Liverpool,DEF,6.5,38,0,0,0,0,0,3,0,9,0,0,1
-358,Kerkez,Liverpool,DEF,5.5,38,0,0,0,0,0,1,0,3,0,0,1
-362,Jacquet,Liverpool,DEF,5.0,38,0,0,0,0,0,1,0,8,0,0,1
-366,Wirtz,Liverpool,MID,7.5,38,0,0,0,0,0,1,0,2,0,0,1
-368,Szoboszlai,Liverpool,MID,7.0,38,0,0,0,0,0,3,0,6,0,0,1
-377,Munoz,Liverpool,MID,6.5,38,0,0,0,0,0,2,0,3,0,0,1
-562,Maeda,Ipswich Town,MID,5.5,38,0,0,0,2,0,3,0,5,0,0,1
-579,Araujo,Liverpool,DEF,5.4,38,0,0,0,0,0,2,0,4,0,0,1
-591,Enciso,Ipswich Town,MID,5.5,38,0,0,0,2,0,1,0,6,0,0,1
+379,Isak,Liverpool,FWD,9.0,63,2,0,1,0,0,3,3,61,0,0,13
+367,Gakpo,Liverpool,MID,7.1,90,0,2,1,0,0,10,2,42,0,0,11
+350,A.Becker,Liverpool,GKP,5.5,90,0,0,1,0,5,0,1,35,0,0,8
+356,Virgil,Liverpool,DEF,6.5,90,0,0,1,0,0,5,0,31,0,0,6
+579,Araujo,Liverpool,DEF,5.4,90,0,0,1,0,0,8,0,26,0,0,6
+358,Kerkez,Liverpool,DEF,5.5,90,0,0,1,0,0,4,0,22,1,0,5
+362,Jacquet,Liverpool,DEF,5.0,90,0,0,1,0,0,7,0,27,1,0,5
+372,Mac Allister,Liverpool,MID,5.5,83,0,0,1,0,0,12,0,16,1,0,4
+619,Palacios,Ipswich Town,MID,5.0,77,0,0,0,2,0,19,0,24,0,0,4
+259,Diop,Ipswich Town,DEF,4.0,90,0,0,0,2,0,10,0,9,0,0,3
+366,Wirtz,Liverpool,MID,7.5,90,0,0,1,0,0,4,0,14,0,0,3
+368,Szoboszlai,Liverpool,MID,7.0,90,0,0,1,0,0,9,0,20,0,0,3
+377,Munoz,Liverpool,MID,6.5,63,0,0,1,0,0,4,0,9,0,0,3
+267,Lukić,Ipswich Town,MID,5.0,90,0,0,0,2,0,4,0,13,0,0,2
+315,Fatawu,Ipswich Town,MID,5.5,78,0,0,0,2,0,6,0,14,0,0,2
+316,Emersonn,Ipswich Town,FWD,5.5,65,0,0,0,2,0,3,0,8,0,0,2
+562,Maeda,Ipswich Town,MID,5.5,65,0,0,0,2,0,5,0,9,0,0,2
+564,Scherpen,Ipswich Town,GKP,4.5,90,0,0,0,2,5,0,0,13,0,0,2
+304,O'Shea,Ipswich Town,DEF,4.0,90,0,0,0,2,0,8,0,4,0,0,1
+305,Davis,Ipswich Town,DEF,4.0,90,0,0,0,2,0,5,0,2,0,0,1
+306,Greaves,Ipswich Town,DEF,4.0,90,0,0,0,2,0,5,0,5,0,0,1
+313,Clarke,Ipswich Town,MID,5.5,24,0,0,0,0,0,2,0,3,0,0,1
+323,McAteer,Ipswich Town,MID,4.5,11,0,0,0,0,0,1,0,5,0,0,1
+371,Gravenberch,Liverpool,MID,6.0,26,0,0,0,0,0,3,0,2,0,0,1
+375,Nyoni,Liverpool,MID,5.0,6,0,0,0,0,0,0,0,3,0,0,1
+381,Koumas,Liverpool,MID,5.0,1,0,0,0,0,0,0,0,3,0,0,1
+591,Enciso,Ipswich Town,MID,5.5,90,0,0,0,2,0,5,0,16,1,0,1
+592,Ouattara,Ipswich Town,DEF,4.0,12,0,0,0,0,0,0,0,4,0,0,1
+627,Barcola,Liverpool,MID,8.0,26,0,0,0,0,0,0,0,4,0,0,1
+640,Flemming,Ipswich Town,FWD,5.5,24,0,0,0,0,0,0,0,4,0,0,1
 1,Raya,Arsenal,GKP,6.0,0,0,0,0,0,0,0,0,0,0,0,0
 2,Arrizabalaga,Arsenal,GKP,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 3,Meslier,Arsenal,GKP,5.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -273,7 +287,6 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 256,Tete,Fulham,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 257,Bassey,Fulham,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 258,Castagne,Fulham,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-259,Diop,Ipswich Town,DEF,4.0,38,0,0,0,2,0,6,0,-2,0,0,0
 260,Wilson,Leeds,MID,6.4,0,0,0,0,0,0,0,0,0,0,0,0
 261,Iwobi,Fulham,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 262,Smith Rowe,Fulham,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
@@ -317,16 +330,12 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 301,Palmer,Ipswich Town,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 302,Button,Ipswich Town,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 303,Kipré,Ipswich Town,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
-304,O'Shea,Ipswich Town,DEF,4.0,38,0,0,0,2,0,5,0,-3,0,0,0
-305,Davis,Ipswich Town,DEF,4.0,38,0,0,0,2,0,2,0,-3,0,0,0
-306,Greaves,Ipswich Town,DEF,4.0,38,0,0,0,2,0,1,0,-4,0,0,0
 307,Johnson,Ipswich Town,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 308,Furlong,Ipswich Town,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 309,Núñez,Ipswich Town,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 310,Matusiwa,Ipswich Town,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 311,Burns,Ipswich Town,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 312,Taylor,Ipswich Town,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-313,Clarke,Ipswich Town,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 314,Ogbene,Ipswich Town,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 317,Hirst,Ipswich Town,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 318,Philogene,Ipswich Town,MID,5.4,0,0,0,0,0,0,0,0,0,0,0,0
@@ -334,7 +343,6 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 320,Akpom,Ipswich Town,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 321,Walle Egeli,Ipswich Town,FWD,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 322,Al-Hamadi,Ipswich Town,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
-323,McAteer,Ipswich Town,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 324,Mehmeti,Ipswich Town,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 325,Darlow,Man Utd,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 326,Perri,Leeds,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
@@ -375,15 +383,11 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 365,Ramsay,Liverpool,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 369,Ngumoha,Liverpool,MID,5.9,0,0,0,0,0,0,0,0,0,0,0,0
 370,Chiesa,Liverpool,MID,5.4,0,0,0,0,0,0,0,0,0,0,0,0
-371,Gravenberch,Liverpool,MID,6.0,0,0,0,0,0,0,0,0,0,0,0,0
-372,Mac Allister,Liverpool,MID,5.5,38,0,0,0,0,0,7,0,1,1,0,0
 373,C.Jones,Liverpool,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 374,Endo,Liverpool,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
-375,Nyoni,Liverpool,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 376,Bajcetic,Liverpool,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 378,McConnell,Liverpool,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 380,Ekitiké,Liverpool,FWD,7.5,0,0,0,0,0,0,0,0,0,0,0,0
-381,Koumas,Liverpool,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 382,Danns,Liverpool,FWD,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 383,Elliott,Liverpool,MID,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 384,Donnarumma,Man City,GKP,5.5,0,0,0,0,0,0,0,0,0,0,0,0
@@ -565,7 +569,6 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 560,Penders,Chelsea,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 561,Anselmino,Chelsea,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 563,Morita,Hull City,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
-564,Scherpen,Ipswich Town,GKP,4.5,38,0,0,0,2,2,0,0,0,0,0,0
 565,M.Sangaré,Brentford,MID,5.7,0,0,0,0,0,0,0,0,0,0,0,0
 566,Silva,Bournemouth,DEF,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 567,Horníček,Newcastle,GKP,5.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -591,7 +594,6 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 588,Khalaili,Crystal Palace,DEF,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 589,Gourna-Douath,Hull City,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 590,Benda,Nott'm Forest,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-592,Ouattara,Ipswich Town,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 593,Dedić,Newcastle,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 594,David,Brighton,FWD,6.0,0,0,0,0,0,0,0,0,0,0,0,0
 595,Gozo,Crystal Palace,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -625,7 +627,6 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 624,Cozier-Duberry,Brighton,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 625,Cairns,Leeds,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 626,Zepa,Fulham,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-627,Barcola,Liverpool,MID,8.0,0,0,0,0,0,0,0,0,0,0,0,0
 628,Allan,Man City,MID,6.0,0,0,0,0,0,0,0,0,0,0,0,0
 629,Zetterer,Leeds,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 630,Harwood-Bellis,Aston Villa,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
@@ -638,7 +639,6 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 637,Vaz,Hull City,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 638,Norton-Cuffy,Hull City,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 639,Andrés,Brighton,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
-640,Flemming,Ipswich Town,FWD,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 641,Bard,Leeds,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 642,Thomas,Hull City,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 643,Chilwell,Crystal Palace,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0

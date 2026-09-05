@@ -166,14 +166,14 @@
       "total": 197
      },
      {
-      "entry_percentile_rank": 75,
+      "entry_percentile_rank": 70,
       "last_rank": 0,
       "league_id": 314,
       "phase": 3,
-      "rank": 7603857,
-      "rank_count": 10409958,
-      "rank_sort": 7762884,
-      "total": 0
+      "rank": 7067527,
+      "rank_count": 10409362,
+      "rank_sort": 7084261,
+      "total": 31
      }
     ],
     "admin_entry": null,
@@ -202,14 +202,14 @@
    {
     "active_phases": [
      {
-      "entry_percentile_rank": 55,
+      "entry_percentile_rank": 60,
       "last_rank": 54115,
       "league_id": 321,
       "phase": 1,
-      "rank": 63941,
-      "rank_count": 125044,
-      "rank_sort": 64290,
-      "total": 166
+      "rank": 74503,
+      "rank_count": 125043,
+      "rank_sort": 74836,
+      "total": 197
      },
      {
       "entry_percentile_rank": 75,
@@ -231,7 +231,7 @@
     "entry_can_invite": false,
     "entry_can_leave": false,
     "entry_last_rank": 54115,
-    "entry_percentile_rank": 55,
+    "entry_percentile_rank": 60,
     "entry_rank": 72421,
     "featured_entry_ids": [],
     "has_cup": true,
@@ -240,7 +240,7 @@
     "max_entries": null,
     "name": "Top 1% 25/26 League",
     "rank": null,
-    "rank_count": 125044,
+    "rank_count": 125043,
     "scoring": "c",
     "short_name": "top-1%",
     "start_event": 1
@@ -248,14 +248,14 @@
    {
     "active_phases": [
      {
-      "entry_percentile_rank": 35,
+      "entry_percentile_rank": 40,
       "last_rank": 288801,
       "league_id": 322,
       "phase": 1,
-      "rank": 379525,
-      "rank_count": 1224244,
-      "rank_sort": 381651,
-      "total": 166
+      "rank": 461017,
+      "rank_count": 1224216,
+      "rank_sort": 462804,
+      "total": 197
      },
      {
       "entry_percentile_rank": 75,
@@ -277,8 +277,8 @@
     "entry_can_invite": false,
     "entry_can_leave": false,
     "entry_last_rank": 288801,
-    "entry_percentile_rank": 35,
-    "entry_rank": 442623,
+    "entry_percentile_rank": 40,
+    "entry_rank": 442622,
     "featured_entry_ids": [],
     "has_cup": true,
     "id": 322,
@@ -286,7 +286,7 @@
     "max_entries": null,
     "name": "Top 10% 25/26 League",
     "rank": null,
-    "rank_count": 1224244,
+    "rank_count": 1224216,
     "scoring": "c",
     "short_name": "top-10%",
     "start_event": 1
@@ -294,14 +294,14 @@
    {
     "active_phases": [
      {
-      "entry_percentile_rank": 40,
+      "entry_percentile_rank": 45,
       "last_rank": 8010,
       "league_id": 6057,
       "phase": 1,
-      "rank": 10472,
-      "rank_count": 28556,
-      "rank_sort": 10551,
-      "total": 166
+      "rank": 12342,
+      "rank_count": 28568,
+      "rank_sort": 12395,
+      "total": 197
      },
      {
       "entry_percentile_rank": 75,
@@ -323,7 +323,7 @@
     "entry_can_invite": false,
     "entry_can_leave": true,
     "entry_last_rank": 8010,
-    "entry_percentile_rank": 40,
+    "entry_percentile_rank": 45,
     "entry_rank": 11985,
     "featured_entry_ids": [],
     "has_cup": true,
@@ -332,7 +332,7 @@
     "max_entries": null,
     "name": "LazyFPL Newsletter",
     "rank": null,
-    "rank_count": 28556,
+    "rank_count": 28568,
     "scoring": "c",
     "short_name": null,
     "start_event": 1
@@ -340,14 +340,14 @@
    {
     "active_phases": [
      {
-      "entry_percentile_rank": 35,
+      "entry_percentile_rank": 40,
       "last_rank": 145,
       "league_id": 123362,
       "phase": 1,
-      "rank": 189,
+      "rank": 219,
       "rank_count": 551,
-      "rank_sort": 189,
-      "total": 166
+      "rank_sort": 220,
+      "total": 197
      },
      {
       "entry_percentile_rank": 75,
@@ -369,7 +369,7 @@
     "entry_can_invite": false,
     "entry_can_leave": true,
     "entry_last_rank": 145,
-    "entry_percentile_rank": 35,
+    "entry_percentile_rank": 40,
     "entry_rank": 213,
     "featured_entry_ids": [],
     "has_cup": true,
@@ -684,7 +684,7 @@
  "player_region_name": "Norway",
  "started_event": 1,
  "summary_event_points": 32,
- "summary_event_rank": 6753409,
+ "summary_event_rank": 6753402,
  "summary_overall_points": 198,
  "summary_overall_rank": 1175966,
  "years_active": 6

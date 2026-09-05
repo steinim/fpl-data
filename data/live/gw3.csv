@@ -1,33 +1,33 @@
 id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,saves,defensive_contribution,bonus,bps,yellow_cards,red_cards,total_points
 379,Isak,Liverpool,FWD,9.0,63,2,0,1,0,0,3,3,61,0,0,13
-367,Gakpo,Liverpool,MID,7.1,90,0,2,1,0,0,10,2,42,0,0,11
+367,Gakpo,Liverpool,MID,7.1,90,0,2,1,0,0,10,2,43,0,0,11
 350,A.Becker,Liverpool,GKP,5.5,90,0,0,1,0,5,0,1,35,0,0,8
-356,Virgil,Liverpool,DEF,6.5,90,0,0,1,0,0,5,0,31,0,0,6
-579,Araujo,Liverpool,DEF,5.4,90,0,0,1,0,0,8,0,26,0,0,6
-358,Kerkez,Liverpool,DEF,5.5,90,0,0,1,0,0,4,0,22,1,0,5
-362,Jacquet,Liverpool,DEF,5.0,90,0,0,1,0,0,7,0,27,1,0,5
-372,Mac Allister,Liverpool,MID,5.5,83,0,0,1,0,0,12,0,16,1,0,4
+579,Araujo,Liverpool,DEF,5.4,90,0,0,1,0,0,10,0,27,0,0,8
+356,Virgil,Liverpool,DEF,6.5,90,0,0,1,0,0,7,0,32,0,0,6
+358,Kerkez,Liverpool,DEF,5.5,90,0,0,1,0,0,5,0,23,1,0,5
+362,Jacquet,Liverpool,DEF,5.0,90,0,0,1,0,0,9,0,28,1,0,5
 619,Palacios,Ipswich Town,MID,5.0,77,0,0,0,2,0,19,0,24,0,0,4
-259,Diop,Ipswich Town,DEF,4.0,90,0,0,0,2,0,10,0,9,0,0,3
+259,Diop,Ipswich Town,DEF,4.0,90,0,0,0,2,0,11,0,10,0,0,3
+304,O'Shea,Ipswich Town,DEF,4.0,90,0,0,0,2,0,11,0,5,0,0,3
 366,Wirtz,Liverpool,MID,7.4,90,0,0,1,0,0,4,0,14,0,0,3
 368,Szoboszlai,Liverpool,MID,7.0,90,0,0,1,0,0,9,0,20,0,0,3
 377,Munoz,Liverpool,MID,6.5,63,0,0,1,0,0,4,0,9,0,0,3
 267,Lukić,Ipswich Town,MID,5.0,90,0,0,0,2,0,4,0,13,0,0,2
 315,Fatawu,Ipswich Town,MID,5.5,78,0,0,0,2,0,6,0,14,0,0,2
 316,Emersonn,Ipswich Town,FWD,5.5,65,0,0,0,2,0,3,0,8,0,0,2
+372,Mac Allister,Liverpool,MID,5.5,83,0,0,1,0,0,11,0,14,1,0,2
 562,Maeda,Ipswich Town,MID,5.4,65,0,0,0,2,0,5,0,9,0,0,2
 564,Scherpen,Ipswich Town,GKP,4.5,90,0,0,0,2,5,0,0,13,0,0,2
-304,O'Shea,Ipswich Town,DEF,4.0,90,0,0,0,2,0,8,0,4,0,0,1
-305,Davis,Ipswich Town,DEF,4.0,90,0,0,0,2,0,5,0,2,0,0,1
-306,Greaves,Ipswich Town,DEF,4.0,90,0,0,0,2,0,5,0,5,0,0,1
+305,Davis,Ipswich Town,DEF,4.0,90,0,0,0,2,0,6,0,4,0,0,1
+306,Greaves,Ipswich Town,DEF,4.0,90,0,0,0,2,0,7,0,6,0,0,1
 313,Clarke,Ipswich Town,MID,5.5,24,0,0,0,0,0,2,0,3,0,0,1
 323,McAteer,Ipswich Town,MID,4.5,11,0,0,0,0,0,1,0,5,0,0,1
-371,Gravenberch,Liverpool,MID,6.0,26,0,0,0,0,0,3,0,2,0,0,1
+371,Gravenberch,Liverpool,MID,6.0,26,0,0,0,0,0,2,0,2,0,0,1
 375,Nyoni,Liverpool,MID,4.9,6,0,0,0,0,0,0,0,3,0,0,1
 381,Koumas,Liverpool,MID,5.0,1,0,0,0,0,0,0,0,3,0,0,1
 591,Enciso,Ipswich Town,MID,5.5,90,0,0,0,2,0,5,0,16,1,0,1
 592,Ouattara,Ipswich Town,DEF,4.0,12,0,0,0,0,0,0,0,4,0,0,1
-627,Barcola,Liverpool,MID,8.0,26,0,0,0,0,0,0,0,4,0,0,1
+627,Barcola,Liverpool,MID,8.0,26,0,0,0,0,0,0,0,5,0,0,1
 640,Flemming,Ipswich Town,FWD,5.5,24,0,0,0,0,0,0,0,4,0,0,1
 1,Raya,Arsenal,GKP,6.0,0,0,0,0,0,0,0,0,0,0,0,0
 2,Arrizabalaga,Arsenal,GKP,4.9,0,0,0,0,0,0,0,0,0,0,0,0

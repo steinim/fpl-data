@@ -1,87 +1,100 @@
 id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,saves,defensive_contribution,bonus,bps,yellow_cards,red_cards,total_points
 204,Mitchell,Crystal Palace,DEF,4.5,73,2,0,0,2,0,6,2,31,0,0,15
-330,Bogle,Leeds,DEF,4.5,60,1,0,1,0,0,1,3,30,1,0,14
+330,Bogle,Leeds,DEF,4.5,60,1,0,1,0,0,2,3,30,1,0,14
 379,Isak,Liverpool,FWD,9.0,63,2,0,1,0,0,3,3,61,0,0,13
 453,Barnes,Newcastle,MID,6.0,90,1,1,0,2,0,6,2,37,0,0,12
-504,Vuskovic,Brighton,DEF,5.0,90,1,0,0,1,0,10,2,29,0,0,12
+504,Vuskovic,Brighton,DEF,5.0,90,1,0,0,1,0,10,2,27,0,0,12
 367,Gakpo,Liverpool,MID,7.1,90,0,2,1,0,0,10,2,43,0,0,11
 68,Tavernier,Bournemouth,MID,6.0,88,1,0,0,2,0,9,3,43,0,0,10
 69,Scott,Bournemouth,MID,6.0,90,0,2,0,2,0,11,2,37,0,0,10
-268,King,Fulham,MID,5.5,90,1,0,0,3,0,7,3,40,0,0,10
+268,King,Fulham,MID,5.5,90,1,0,0,3,0,7,3,38,0,0,10
+597,Suzuki,Aston Villa,GKP,5.0,90,0,0,1,0,4,0,3,37,0,0,10
 98,Janelt,Brentford,MID,5.0,90,1,0,0,1,0,11,3,32,1,0,9
 411,Haaland,Man City,FWD,15.5,90,1,0,1,0,0,7,3,40,0,0,9
-499,Pedro Porro,Spurs,DEF,5.5,90,0,0,1,0,0,4,3,32,0,0,9
+503,Van de Ven,Spurs,DEF,5.0,90,0,0,1,0,0,9,3,30,0,0,9
 112,Van Hecke,Spurs,DEF,4.9,90,0,0,1,0,0,4,2,29,0,0,8
+282,Giles,Hull City,DEF,4.0,90,0,0,1,0,0,4,2,30,0,0,8
 350,A.Becker,Liverpool,GKP,5.5,90,0,0,1,0,5,0,1,35,0,0,8
+388,Guéhi,Man City,DEF,6.0,90,0,0,1,0,0,9,2,31,0,0,8
 391,Gvardiol,Man City,DEF,5.6,90,0,0,1,0,0,8,2,31,0,0,8
-474,Jair Cunha,Nott'm Forest,DEF,4.5,90,0,0,1,0,0,11,0,22,0,0,8
+472,Murillo,Nott'm Forest,DEF,5.5,89,0,0,1,0,0,10,0,25,0,0,8
+474,Jair Cunha,Nott'm Forest,DEF,4.5,90,0,0,1,0,0,12,0,24,0,0,8
 542,E.Le Fée,Sunderland,MID,5.9,90,1,0,0,1,0,6,1,25,0,0,8
-570,Palacios,Fulham,MID,5.5,61,1,0,0,2,0,0,1,27,0,0,8
+570,Palacios,Fulham,MID,5.5,60,1,0,0,2,0,0,1,27,0,0,8
 579,Araujo,Liverpool,DEF,5.4,90,0,0,1,0,0,10,0,27,0,0,8
+586,Mendy,Hull City,DEF,4.0,70,0,0,1,0,0,10,0,24,0,0,8
+33,Mings,Aston Villa,DEF,4.5,90,0,0,1,0,0,5,1,28,0,0,7
+36,Maatsen,Aston Villa,DEF,4.5,74,0,0,1,0,0,3,1,28,0,0,7
 96,Damsgaard,Brentford,MID,5.5,85,0,1,0,1,0,4,2,30,0,0,7
 384,Donnarumma,Man City,GKP,5.5,90,0,0,1,0,3,0,0,29,0,0,7
-388,Guéhi,Man City,DEF,6.0,90,0,0,1,0,0,9,1,30,0,0,7
+469,N.Williams,Nott'm Forest,DEF,5.0,90,0,0,1,0,0,6,1,28,0,0,7
 471,Milenković,Nott'm Forest,DEF,5.5,90,0,0,1,0,0,11,0,27,1,0,7
-503,Van de Ven,Spurs,DEF,5.0,90,0,0,1,0,0,8,1,28,0,0,7
+499,Pedro Porro,Spurs,DEF,5.5,90,0,0,1,0,0,4,1,28,0,0,7
 643,Chilwell,Crystal Palace,DEF,4.5,16,1,0,0,0,0,0,0,20,0,0,7
+32,Cash,Aston Villa,DEF,4.5,84,0,0,1,0,0,1,0,23,0,0,6
+37,Lindelöf,Aston Villa,DEF,4.5,90,0,0,1,0,0,4,0,27,0,0,6
+277,Egan,Hull City,DEF,4.0,90,0,0,1,0,0,7,0,18,0,0,6
+280,Coyle,Hull City,DEF,4.0,63,0,0,1,0,0,0,0,19,0,0,6
 356,Virgil,Liverpool,DEF,6.5,90,0,0,1,0,0,7,0,32,0,0,6
 390,Rúben,Man City,DEF,5.5,90,0,0,1,0,0,3,0,25,0,0,6
 397,Semenyo,Man City,MID,8.5,90,0,1,1,0,0,4,0,26,0,0,6
 456,J.Ramsey,Newcastle,MID,4.9,27,1,0,0,0,0,4,0,22,0,0,6
 467,Sels,Nott'm Forest,GKP,5.0,90,0,0,1,0,0,0,0,21,0,0,6
-469,N.Williams,Nott'm Forest,DEF,5.0,90,0,0,1,0,0,6,0,27,0,0,6
-472,Murillo,Nott'm Forest,DEF,5.5,89,0,0,1,0,0,9,0,24,0,0,6
 496,Kinsky,Spurs,GKP,4.5,90,0,0,1,0,1,0,0,24,0,0,6
-116,Dunk,Brighton,DEF,4.5,90,0,0,0,1,0,13,1,20,0,0,5
+572,Tzolakis,Hull City,GKP,4.6,90,0,0,1,0,1,0,0,26,0,0,6
+116,Dunk,Brighton,DEF,4.5,90,0,0,0,1,0,12,1,20,0,0,5
 211,Yeremy,Crystal Palace,MID,5.5,88,0,1,0,2,0,5,0,25,0,0,5
 214,Kamada,Crystal Palace,MID,5.0,88,0,1,0,2,0,4,0,21,0,0,5
+279,Ajayi,Hull City,DEF,4.1,90,0,0,1,0,0,6,0,17,1,0,5
+286,Belloumi,Hull City,MID,5.0,81,0,0,1,0,0,12,0,15,0,0,5
 345,Tanaka,Leeds,MID,4.9,72,0,1,0,1,0,8,0,18,0,0,5
 358,Kerkez,Liverpool,DEF,5.5,90,0,0,1,0,0,5,0,23,1,0,5
 362,Jacquet,Liverpool,DEF,5.0,90,0,0,1,0,0,9,0,28,1,0,5
 393,Khusanov,Man City,DEF,5.5,90,0,0,1,0,0,6,0,22,1,0,5
 455,Tonali,Spurs,MID,5.4,90,0,0,1,0,0,12,0,22,0,0,5
 506,Udogie,Spurs,DEF,4.5,60,0,0,1,0,0,3,0,16,1,0,5
-516,Bentancur,Spurs,MID,5.5,90,0,0,1,0,0,18,0,13,0,0,5
-597,Suzuki,Aston Villa,GKP,5.0,45,0,0,0,0,3,0,3,13,0,0,5
+516,Bentancur,Spurs,MID,5.5,90,0,0,1,0,0,17,0,14,0,0,5
 73,Adams,Bournemouth,MID,5.0,75,0,0,0,1,0,12,0,15,0,0,4
-115,De Cuyper,Brighton,DEF,4.7,76,0,1,0,1,0,3,0,11,1,0,4
-173,Thomas,Coventry City,DEF,4.0,90,0,0,0,1,0,12,0,20,0,0,4
-224,Nketiah,Crystal Palace,FWD,5.5,45,0,1,0,2,0,2,0,15,0,0,4
+115,De Cuyper,Brighton,DEF,4.7,76,0,1,0,1,0,2,0,17,1,0,4
+173,Thomas,Coventry City,DEF,4.0,90,0,0,0,1,0,12,0,19,0,0,4
+224,Nketiah,Crystal Palace,FWD,5.5,45,0,1,0,2,0,2,0,16,0,0,4
 332,Justin,Leeds,DEF,4.5,90,0,0,0,1,0,10,0,9,0,0,4
 334,Muharemović,Leeds,DEF,5.0,90,0,0,0,1,0,13,0,10,0,0,4
 449,Hall,Newcastle,DEF,5.1,89,0,1,0,2,0,6,0,20,0,0,4
 532,Ballard,Sunderland,DEF,5.0,90,0,0,0,1,0,10,0,12,0,0,4
 533,Mukiele,Sunderland,DEF,5.5,90,0,0,0,1,0,14,0,15,0,0,4
 553,Isidor,Sunderland,FWD,5.5,26,0,1,0,0,0,2,0,15,0,0,4
-580,Charles,Fulham,MID,5.0,78,0,0,0,3,0,12,0,18,0,0,4
 598,Elvedi,Leeds,DEF,4.5,90,0,0,0,1,0,10,0,12,0,0,4
 619,Palacios,Ipswich Town,MID,5.0,77,0,0,0,2,0,19,0,24,0,0,4
+41,Buendía,Aston Villa,MID,6.0,74,0,0,1,0,0,2,0,2,0,0,3
+45,McGinn,Aston Villa,MID,5.4,90,0,0,1,0,0,5,0,6,0,0,3
+46,Barkley,Aston Villa,MID,5.0,90,0,0,1,0,0,6,0,16,0,0,3
+47,Kamara,Aston Villa,MID,5.0,90,0,0,1,0,0,10,0,20,0,0,3
+51,George Hemmings,Aston Villa,MID,4.5,74,0,0,1,0,0,7,0,8,0,0,3
 91,Pinnock,Coventry City,DEF,4.5,90,0,0,0,1,0,13,0,3,1,0,3
 109,Verbruggen,Brighton,GKP,4.5,90,0,0,0,1,3,0,0,17,0,0,3
-153,Disasi,Crystal Palace,DEF,4.5,90,0,0,0,2,0,13,0,12,0,0,3
+153,Disasi,Crystal Palace,DEF,4.5,90,0,0,0,2,0,13,0,14,0,0,3
 155,Enzo,Man City,MID,6.9,75,0,0,1,0,0,3,0,17,0,0,3
 175,van Ewijk,Coventry City,DEF,4.0,90,0,0,0,1,0,11,0,5,1,0,3
-203,Canvot,Crystal Palace,DEF,4.9,90,0,0,0,2,0,10,0,4,0,0,3
 237,Ndiaye,Man City,MID,5.9,86,0,0,1,0,0,5,0,12,0,0,3
 259,Diop,Ipswich Town,DEF,4.0,90,0,0,0,2,0,11,0,10,0,0,3
-286,Belloumi,Hull City,MID,5.0,45,0,0,0,0,0,6,2,11,0,0,3
+290,Slater,Hull City,MID,4.5,90,0,0,1,0,0,6,0,10,0,0,3
 304,O'Shea,Ipswich Town,DEF,4.0,90,0,0,0,2,0,11,0,5,0,0,3
 336,Okafor,Leeds,MID,5.9,61,0,0,1,0,0,0,0,9,0,0,3
 366,Wirtz,Liverpool,MID,7.4,90,0,0,1,0,0,4,0,14,0,0,3
 368,Szoboszlai,Liverpool,MID,7.0,90,0,0,1,0,0,9,0,20,0,0,3
 377,Munoz,Liverpool,MID,6.5,63,0,0,1,0,0,4,0,9,0,0,3
-385,Trafford,Leeds,GKP,5.0,90,0,0,0,1,4,0,0,17,0,0,3
-399,Cherki,Man City,MID,7.8,65,0,0,1,0,0,4,0,23,0,0,3
-403,Sávio,Spurs,MID,6.5,60,0,0,1,0,0,0,0,14,0,0,3
+385,Trafford,Leeds,GKP,5.0,90,0,0,0,1,4,0,0,18,0,0,3
+399,Cherki,Man City,MID,7.8,65,0,0,1,0,0,3,0,23,0,0,3
+403,Sávio,Spurs,MID,6.5,60,0,0,1,0,0,0,0,15,0,0,3
 480,Gibbs-White,Nott'm Forest,MID,7.9,90,0,0,1,0,0,7,0,3,0,0,3
 481,Anderson,Man City,MID,6.4,90,0,0,1,0,0,11,0,23,0,0,3
-514,Tel,Spurs,MID,5.9,73,0,0,1,0,0,2,0,9,0,0,3
-519,Gallagher,Spurs,MID,5.4,83,0,0,1,0,0,10,0,22,0,0,3
+514,Tel,Spurs,MID,5.9,73,0,0,1,0,0,2,0,11,0,0,3
+519,Gallagher,Spurs,MID,5.4,83,0,0,1,0,0,11,0,23,0,0,3
 544,Xhaka,Sunderland,MID,5.5,90,0,0,0,1,0,14,0,15,1,0,3
-558,Schlager,Nott'm Forest,MID,5.0,90,0,0,1,0,0,10,0,20,0,0,3
-588,Khalaili,Crystal Palace,DEF,5.0,90,0,0,0,2,0,10,0,2,0,0,3
-37,Lindelöf,Aston Villa,DEF,4.5,45,0,0,0,0,0,1,1,10,0,0,2
-46,Barkley,Aston Villa,MID,5.0,45,0,0,0,0,0,3,1,10,0,0,2
+558,Schlager,Nott'm Forest,MID,5.0,90,0,0,1,0,0,10,0,18,0,0,3
+576,Stroud,Hull City,MID,5.0,62,0,0,1,0,0,2,0,5,0,0,3
+588,Khalaili,Crystal Palace,DEF,5.0,90,0,0,0,2,0,10,0,6,0,0,3
 67,Rayan,Bournemouth,MID,6.5,88,0,0,0,2,0,2,0,8,0,0,2
 79,Evanilson,Bournemouth,FWD,6.0,90,0,0,0,2,0,7,0,4,0,0,2
 82,Kelleher,Brentford,GKP,5.0,90,0,0,0,1,2,0,0,10,0,0,2
@@ -96,7 +109,8 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 114,Boscagli,Brighton,DEF,4.5,90,0,0,0,1,0,4,0,17,0,0,2
 127,Gomez,Brighton,MID,5.0,90,0,0,0,1,0,9,0,13,0,0,2
 129,Ayari,Brighton,MID,5.4,90,0,0,0,1,0,3,0,18,0,0,2
-138,Kostoulas,Brighton,FWD,5.5,90,0,0,0,1,0,9,0,12,0,0,2
+138,Kostoulas,Brighton,FWD,5.5,90,0,0,0,1,0,8,0,9,0,0,2
+166,N.Jackson,Aston Villa,FWD,6.5,84,0,0,1,0,0,2,0,10,0,0,2
 167,Delap,Nott'm Forest,FWD,5.5,73,0,0,1,0,0,5,0,6,0,0,2
 176,Dasilva,Coventry City,DEF,4.0,84,0,0,0,1,0,7,0,10,0,0,2
 182,Amenda,Coventry City,DEF,4.0,90,0,0,0,1,0,3,0,4,0,0,2
@@ -108,18 +122,19 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 261,Iwobi,Fulham,MID,5.5,82,0,0,0,3,0,4,0,15,0,0,2
 264,Bobb,Fulham,MID,5.5,78,0,0,0,3,0,4,0,17,0,0,2
 267,Lukić,Ipswich Town,MID,5.0,90,0,0,0,2,0,4,0,13,0,0,2
+295,McBurnie,Hull City,FWD,5.5,90,0,0,1,0,0,3,0,4,0,0,2
 315,Fatawu,Ipswich Town,MID,5.5,78,0,0,0,2,0,6,0,14,0,0,2
 316,Emersonn,Ipswich Town,FWD,5.5,65,0,0,0,2,0,3,0,8,0,0,2
 331,Gudmundsson,Leeds,DEF,4.5,90,0,0,0,1,0,5,0,9,0,0,2
 335,Stach,Leeds,MID,6.0,90,0,0,0,1,0,6,0,7,0,0,2
-338,Ampadu,Leeds,MID,5.5,90,0,0,0,1,0,11,0,11,0,0,2
+338,Ampadu,Leeds,MID,5.5,90,0,0,0,1,0,11,0,13,0,0,2
 372,Mac Allister,Liverpool,MID,5.5,83,0,0,1,0,0,11,0,14,1,0,2
-401,Marmoush,Spurs,FWD,7.0,83,0,0,1,0,0,0,0,2,0,0,2
+401,Marmoush,Spurs,FWD,7.0,83,0,0,1,0,0,0,0,6,0,0,2
 405,N.Gonzalez,Newcastle,MID,5.5,76,0,0,0,2,0,7,0,11,0,0,2
 459,L.Miley,Newcastle,MID,5.5,62,0,0,0,2,0,4,0,11,0,0,2
 460,Willock,Newcastle,MID,5.0,62,0,0,0,2,0,3,0,6,0,0,2
-486,McAtee,Nott'm Forest,MID,5.5,90,0,0,1,0,0,7,0,20,1,0,2
-492,Awoniyi,Coventry City,FWD,5.5,70,0,0,0,1,0,5,0,5,0,0,2
+486,McAtee,Nott'm Forest,MID,5.5,90,0,0,1,0,0,7,0,22,1,0,2
+492,Awoniyi,Coventry City,FWD,5.5,70,0,0,0,1,0,5,0,6,0,0,2
 501,Danso,Sunderland,DEF,5.0,90,0,0,0,1,0,7,0,11,0,0,2
 529,Roefs,Sunderland,GKP,5.0,90,0,0,0,1,1,0,0,11,0,0,2
 536,Reinildo,Sunderland,DEF,4.5,90,0,0,0,1,0,8,0,14,0,0,2
@@ -130,16 +145,12 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 564,Scherpen,Ipswich Town,GKP,4.5,90,0,0,0,2,5,0,0,13,0,0,2
 567,Horníček,Newcastle,GKP,5.0,90,0,0,0,2,4,0,0,12,0,0,2
 569,Gonzalo,Fulham,FWD,6.0,90,0,0,0,3,0,7,0,10,0,0,2
-572,Tzolakis,Hull City,GKP,4.6,45,0,0,0,0,1,0,1,10,0,0,2
+580,Charles,Fulham,MID,5.0,78,0,0,0,3,0,11,0,18,0,0,2
+589,Gourna-Douath,Hull City,MID,5.0,81,0,0,1,0,0,11,0,7,1,0,2
 605,Yalcouyé,Brighton,MID,4.5,90,0,0,0,1,0,5,0,16,0,0,2
-644,Timber,Crystal Palace,MID,5.0,73,0,0,0,2,0,5,0,7,0,0,2
-32,Cash,Aston Villa,DEF,4.5,45,0,0,0,0,0,1,0,5,0,0,1
-33,Mings,Aston Villa,DEF,4.5,45,0,0,0,0,0,4,0,6,0,0,1
-36,Maatsen,Aston Villa,DEF,4.5,45,0,0,0,0,0,2,0,5,0,0,1
-41,Buendía,Aston Villa,MID,6.0,45,0,0,0,0,0,1,0,3,0,0,1
-45,McGinn,Aston Villa,MID,5.4,45,0,0,0,0,0,2,0,3,0,0,1
-47,Kamara,Aston Villa,MID,5.0,45,0,0,0,0,0,7,0,9,0,0,1
-51,George Hemmings,Aston Villa,MID,4.5,45,0,0,0,0,0,6,0,1,0,0,1
+644,Timber,Crystal Palace,MID,5.0,73,0,0,0,2,0,6,0,8,0,0,2
+52,Alysson,Aston Villa,MID,5.0,15,0,0,0,0,0,1,0,3,0,0,1
+56,Abraham,Aston Villa,FWD,5.5,5,0,0,0,0,0,1,0,3,0,0,1
 57,Petrović,Bournemouth,GKP,4.5,90,0,0,0,2,0,0,0,0,0,0,1
 60,Hill,Bournemouth,DEF,5.5,90,0,0,0,2,0,6,0,4,0,0,1
 70,Kluivert,Bournemouth,MID,6.0,75,0,0,0,1,0,4,0,6,1,0,1
@@ -155,29 +166,25 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 108,Wilson,Brentford,FWD,5.5,4,0,0,0,0,0,1,0,2,0,0,1
 119,Costinha,Brighton,DEF,4.5,12,0,0,0,0,0,1,0,7,0,0,1
 124,Groß,Brighton,MID,5.5,90,0,0,0,1,0,4,0,-1,1,0,1
-166,N.Jackson,Aston Villa,FWD,6.5,45,0,0,0,0,0,1,0,2,0,0,1
+160,Garnacho,Aston Villa,MID,5.9,15,0,0,0,0,0,0,0,4,0,0,1
 190,Tchaouna,Coventry City,MID,5.5,27,0,0,0,0,0,1,0,9,0,0,1
 194,Thomas-Asante,Coventry City,FWD,5.0,19,0,0,0,0,0,3,0,6,0,0,1
 195,Simms,Coventry City,FWD,5.0,19,0,0,0,0,0,0,0,3,0,0,1
 201,Muñoz,Nott'm Forest,DEF,5.4,31,0,0,0,0,0,1,0,5,0,0,1
-202,Richards,Crystal Palace,DEF,5.0,90,0,0,0,2,0,9,0,7,0,0,1
+202,Richards,Crystal Palace,DEF,5.0,90,0,0,0,2,0,9,0,8,0,0,1
+203,Canvot,Crystal Palace,DEF,4.9,90,0,0,0,2,0,9,0,4,0,0,1
 207,Mingueza,Crystal Palace,DEF,4.4,1,0,0,0,0,0,1,0,4,0,0,1
 212,Hughes,Crystal Palace,MID,4.5,16,0,0,0,0,0,3,0,3,0,0,1
 222,Strand Larsen,Crystal Palace,FWD,6.0,45,0,0,0,0,0,4,0,4,0,0,1
 250,Leno,Fulham,GKP,4.5,90,0,0,0,3,2,0,0,8,0,0,1
-253,Andersen,Fulham,DEF,5.0,90,0,0,0,3,0,7,0,6,0,0,1
+253,Andersen,Fulham,DEF,5.0,90,0,0,0,3,0,7,0,8,0,0,1
 254,Robinson,Fulham,DEF,4.5,78,0,0,0,3,0,5,0,7,0,0,1
-257,Bassey,Fulham,DEF,4.5,90,0,0,0,3,0,3,0,1,0,0,1
-258,Castagne,Fulham,DEF,4.5,90,0,0,0,3,0,6,0,-1,0,0,1
+257,Bassey,Fulham,DEF,4.5,90,0,0,0,3,0,2,0,2,0,0,1
+258,Castagne,Fulham,DEF,4.5,90,0,0,0,3,0,7,0,-1,0,0,1
 262,Smith Rowe,Fulham,MID,5.4,11,0,0,0,0,0,0,0,3,0,0,1
-265,Berge,Fulham,MID,5.0,28,0,0,0,1,0,2,0,9,0,0,1
+265,Berge,Fulham,MID,5.0,29,0,0,0,1,0,2,0,9,0,0,1
 269,Sessegnon,Fulham,DEF,4.5,11,0,0,0,0,0,1,0,3,0,0,1
 271,Muniz,Fulham,FWD,5.5,7,0,0,0,0,0,0,0,5,0,0,1
-277,Egan,Hull City,DEF,4.0,45,0,0,0,0,0,3,0,3,0,0,1
-280,Coyle,Hull City,DEF,4.0,45,0,0,0,0,0,0,0,4,0,0,1
-282,Giles,Hull City,DEF,4.0,45,0,0,0,0,0,0,0,7,0,0,1
-290,Slater,Hull City,MID,4.5,45,0,0,0,0,0,2,0,4,0,0,1
-295,McBurnie,Hull City,FWD,5.5,45,0,0,0,0,0,0,0,4,0,0,1
 305,Davis,Ipswich Town,DEF,4.0,90,0,0,0,2,0,6,0,4,0,0,1
 306,Greaves,Ipswich Town,DEF,4.0,90,0,0,0,2,0,7,0,6,0,0,1
 313,Clarke,Ipswich Town,MID,5.5,24,0,0,0,0,0,2,0,3,0,0,1
@@ -198,32 +205,36 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 462,Steur,Newcastle,MID,5.0,13,0,0,0,0,0,2,0,3,0,0,1
 464,Wissa,Newcastle,FWD,6.1,90,0,0,0,2,0,3,0,7,1,0,1
 473,Aina,Nott'm Forest,DEF,4.5,58,0,0,0,0,0,7,0,8,0,0,1
-483,Ndoye,Nott'm Forest,MID,5.5,58,0,0,0,0,0,6,0,5,0,0,1
+483,Ndoye,Nott'm Forest,MID,5.5,58,0,0,0,0,0,5,0,5,0,0,1
 490,Wood,Nott'm Forest,FWD,5.9,16,0,0,0,0,0,0,0,3,0,0,1
 491,Igor Jesus,Nott'm Forest,FWD,5.9,31,0,0,0,0,0,1,0,3,0,0,1
 502,Robertson,Spurs,DEF,4.5,29,0,0,0,0,0,1,0,3,0,0,1
-512,Kudus,Spurs,MID,6.5,29,0,0,0,0,0,3,0,9,0,0,1
-526,Solanke,Spurs,FWD,5.9,6,0,0,0,0,0,1,0,2,0,0,1
+512,Kudus,Spurs,MID,6.5,29,0,0,0,0,0,3,0,13,0,0,1
+526,Solanke,Spurs,FWD,5.9,6,0,0,0,0,0,1,0,-1,0,0,1
 534,Hume,Sunderland,DEF,4.5,26,0,0,0,0,0,2,0,8,0,0,1
 545,Sadiki,Sunderland,MID,5.0,73,0,0,0,1,0,3,0,16,1,0,1
 566,Silva,Bournemouth,DEF,5.0,90,0,0,0,2,0,8,0,8,0,0,1
+574,Hjertø-Dahl,Hull City,MID,4.9,8,0,0,0,0,0,1,0,4,0,0,1
 575,Yirenkyi,Coventry City,MID,5.0,27,0,0,0,0,0,6,0,4,0,0,1
-576,Stroud,Hull City,MID,5.0,45,0,0,0,0,0,2,0,3,0,0,1
 578,Mudryk,Spurs,MID,5.4,16,0,0,0,0,0,0,0,3,0,0,1
 581,Diomande,Nott'm Forest,DEF,5.4,1,0,0,0,0,0,0,0,3,0,0,1
 584,Hamer,Coventry City,MID,5.5,5,0,0,0,0,0,2,0,1,0,0,1
-586,Mendy,Hull City,DEF,4.0,45,0,0,0,0,0,7,0,6,0,0,1
-589,Gourna-Douath,Hull City,MID,5.0,45,0,0,0,0,0,6,0,6,0,0,1
+585,Herrington,Hull City,DEF,4.0,19,0,0,0,0,0,2,0,2,0,0,1
 591,Enciso,Ipswich Town,MID,5.5,90,0,0,0,2,0,5,0,16,1,0,1
 592,Ouattara,Ipswich Town,DEF,4.0,12,0,0,0,0,0,0,0,4,0,0,1
 593,Dedić,Newcastle,DEF,4.5,90,0,0,0,2,0,1,0,3,0,0,1
+596,Ruggeri,Aston Villa,DEF,4.5,15,0,0,0,0,0,1,0,3,0,0,1
 608,Jebbison,Bournemouth,FWD,5.0,1,0,0,0,0,0,0,0,4,0,0,1
+611,Wan-Bissaka,Aston Villa,DEF,4.5,5,0,0,0,0,0,1,0,3,0,0,1
 616,Bouaddi,Man City,MID,5.5,14,0,0,0,0,0,5,0,5,0,0,1
+617,Cho,Hull City,MID,5.0,8,0,0,0,0,0,0,0,2,0,0,1
 621,McAidoo,Man City,MID,4.5,3,0,0,0,0,0,4,0,5,0,0,1
 627,Barcola,Liverpool,MID,8.0,26,0,0,0,0,0,0,0,5,0,0,1
 634,Fernandez-Pardo,Newcastle,FWD,6.0,27,0,0,0,0,0,1,0,4,0,0,1
 635,Larsson,Fulham,MID,5.0,11,0,0,0,0,0,1,0,3,0,0,1
+638,Norton-Cuffy,Hull City,DEF,4.0,26,0,0,0,0,0,1,0,3,0,0,1
 640,Flemming,Ipswich Town,FWD,5.5,24,0,0,0,0,0,0,0,4,0,0,1
+642,Thomas,Hull City,MID,5.5,27,0,0,0,0,0,0,0,4,0,0,1
 646,Fofana,Sunderland,MID,5.5,16,0,0,0,0,0,0,0,4,0,0,1
 647,Osorio,Crystal Palace,MID,5.5,1,0,0,0,0,0,1,0,2,0,0,1
 1,Raya,Arsenal,GKP,6.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -268,11 +279,9 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 48,Onana,Aston Villa,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 49,Iling Jr,Aston Villa,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 50,Burrowes,Aston Villa,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-52,Alysson,Aston Villa,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 53,Manzambi,Aston Villa,MID,5.9,0,0,0,0,0,0,0,0,0,0,0,0
 54,Gomes,Aston Villa,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 55,Watkins,Aston Villa,FWD,7.8,0,0,0,0,0,0,0,0,0,0,0,0
-56,Abraham,Aston Villa,FWD,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 58,Forster,Bournemouth,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 59,Dennis,Bournemouth,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 61,Truffert,Bournemouth,DEF,5.5,90,0,0,0,2,0,6,0,-3,1,0,0
@@ -334,7 +343,6 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 157,Estêvão,Chelsea,MID,6.4,0,0,0,0,0,0,0,0,0,0,0,0
 158,Gittens,Chelsea,MID,5.9,0,0,0,0,0,0,0,0,0,0,0,0
 159,Caicedo,Chelsea,MID,5.4,0,0,0,0,0,0,0,0,0,0,0,0
-160,Garnacho,Aston Villa,MID,5.9,0,0,0,0,0,0,0,0,0,0,0,0
 161,Lavia,Chelsea,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 162,Andrey Santos,Man Utd,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 163,D.Essugo,Chelsea,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
@@ -413,7 +421,6 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 275,Cartwright,Hull City,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 276,Lo-Tutala,Hull City,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 278,Hughes,Hull City,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
-279,Ajayi,Hull City,DEF,4.1,45,0,0,0,0,0,4,0,0,1,0,0
 281,Drameh,Hull City,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 283,Jacob,Hull City,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 284,McCarthy,Hull City,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -599,16 +606,13 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 568,Barco,Chelsea,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 571,Florentino,Ipswich Town,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 573,Sanchez,Bournemouth,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-574,Hjertø-Dahl,Hull City,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 577,Tomiyasu,Crystal Palace,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 582,Madjo,Aston Villa,FWD,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 583,Chavarria,Chelsea,DEF,4.9,0,0,0,0,0,0,0,0,0,0,0,0
-585,Herrington,Hull City,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 587,Rulli,Man City,GKP,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 590,Benda,Nott'm Forest,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 594,David,Brighton,FWD,6.0,13,0,0,0,0,0,0,0,-7,1,0,0
 595,Gozo,Crystal Palace,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
-596,Ruggeri,Aston Villa,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 599,Cherif,Coventry City,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 600,Osman,Brighton,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 601,Williams-Barnett,Spurs,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
@@ -619,12 +623,10 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 607,Lynch,Aston Villa,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 609,Shahar,Newcastle,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 610,De Fougerolles,Fulham,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
-611,Wan-Bissaka,Aston Villa,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 612,Methalie,Sunderland,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 613,Ahoka,Sunderland,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 614,Hadjam,Brighton,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 615,Di Gregorio,Bournemouth,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-617,Cho,Hull City,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 618,Goretzka,Aston Villa,MID,6.0,0,0,0,0,0,0,0,0,0,0,0,0
 620,Diouf,Brentford,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 622,Braithwaite,Man City,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -640,14 +642,13 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 633,Ahanor,Crystal Palace,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 636,Ángel,Fulham,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 637,Vaz,Hull City,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
-638,Norton-Cuffy,Hull City,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 639,Andrés,Brighton,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 641,Bard,Leeds,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-642,Thomas,Hull City,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 645,Mouzakitis,Hull City,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 648,Bahoya,Leeds,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 649,Maitland-Niles,Everton,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 650,Affengruber,Fulham,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 651,J.Angulo,Sunderland,FWD,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 652,Azeez,Brighton,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
+653,Samba,Man City,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 445,Thiaw,Newcastle,DEF,5.0,90,0,0,0,2,0,3,0,0,0,0,-1

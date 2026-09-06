@@ -2,11 +2,11 @@ slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_poin
 1,Verbruggen,Brighton,GKP,1,False,False,90,3,3,17,0
 2,N.Williams,Nott'm Forest,DEF,1,False,False,90,7,7,28,1
 3,Calafiori,Arsenal,DEF,1,False,False,0,0,0,0,0
-4,Shaw,Man Utd,DEF,1,False,False,0,0,0,0,0
+4,Shaw,Man Utd,DEF,1,False,False,90,4,4,22,0
 5,Gibbs-White,Nott'm Forest,MID,1,False,False,90,3,3,3,0
-6,B.Fernandes,Man Utd,MID,1,False,True,0,0,0,0,0
+6,B.Fernandes,Man Utd,MID,1,False,True,90,2,2,11,0
 7,Tzolis,Arsenal,MID,1,False,False,0,0,0,0,0
-8,Mbeumo,Man Utd,MID,1,False,False,0,0,0,0,0
+8,Mbeumo,Man Utd,MID,1,False,False,90,8,8,29,1
 9,Calvert-Lewin,Leeds,FWD,1,False,False,72,1,1,0,0
 10,Haaland,Man City,FWD,2,True,False,90,9,18,40,3
 11,João Pedro,Chelsea,FWD,1,False,False,0,0,0,0,0

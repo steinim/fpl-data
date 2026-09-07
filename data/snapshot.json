@@ -1,10 +1,11 @@
 {
  "current_event": 3,
  "entry_id": "1561629",
- "fetched_at": "2026-09-07T06:37:19+00:00",
+ "fetched_at": "2026-09-07T13:40:43+00:00",
  "finished_events": [
   1,
-  2
+  2,
+  3
  ],
  "next_event": 4
 }

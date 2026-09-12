@@ -1,0 +1,59 @@
+name: xgstat snapshot
+
+on:
+  schedule:
+    # UTC. 06:15 -- etter at gaarsdagens kamper har satt seg.
+    # xGI, rating og def actions endrer seg bare naar kamper er spilt, saa
+    # daglig holder. Live-poeng og prisendringer daekkes av fpl-snapshot.
+    - cron: "15 6 * * *"
+  workflow_dispatch:
+
+# Samme gruppe som fpl-snapshot. Begge committer til data/ paa main og skal
+# aldri kjoere samtidig -- ellers kolliderer de paa push.
+concurrency:
+  group: fpl-snapshot
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  xgstat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      # UVERIFISERT: skriptet er bekreftet mot xgstat fra Steins egen maskin,
+      # ikke fra en GitHub-runner. Runner-IPer er delte datasenter-IPer, og
+      # Vercel-kanten svarer allerede 429 paa forespoersler som ikke ser ut
+      # som en nettleser. Feiler dette med 429 eller 403 fra runneren, er det
+      # IP-en og ikke headerne -- da maa hoestingen kjoeres lokalt i stedet.
+      # Foerste vellykkede kjoering foerer denne kommentaren ut av fila.
+      - name: Diagnose
+        run: python scripts/fetch_xgstat.py --diag
+
+      - name: Hent xgstat-data
+        env:
+          XGSTAT_PAUSE: "3"      # hoeflig fra en delt datasenter-IP
+        run: python scripts/fetch_xgstat.py
+
+      - name: Commit endringer
+        run: |
+          git config user.name "xgstat-snapshot"
+          git config user.email "actions@github.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "ingen endringer"
+            exit 0
+          fi
+          git commit -m "xgstat $(date -u +'%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            echo "push forsok $i feilet, proever igjen"
+            sleep 5
+          done
+          exit 1

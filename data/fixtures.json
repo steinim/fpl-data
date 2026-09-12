@@ -11179,7 +11179,7 @@
     "a": [
      {
       "element": 480,
-      "value": 39
+      "value": 42
      },
      {
       "element": 491,
@@ -11191,15 +11191,11 @@
      },
      {
       "element": 201,
-      "value": 20
+      "value": 23
      },
      {
       "element": 467,
-      "value": 20
-     },
-     {
-      "element": 558,
-      "value": 20
+      "value": 19
      },
      {
       "element": 472,
@@ -11210,15 +11206,19 @@
       "value": 18
      },
      {
-      "element": 581,
-      "value": 13
-     },
-     {
-      "element": 469,
-      "value": 9
+      "element": 558,
+      "value": 18
      },
      {
       "element": 473,
+      "value": 11
+     },
+     {
+      "element": 581,
+      "value": 10
+     },
+     {
+      "element": 469,
       "value": 9
      },
      {
@@ -11244,10 +11244,6 @@
       "value": 24
      },
      {
-      "element": 46,
-      "value": 17
-     },
-     {
       "element": 47,
       "value": 17
      },
@@ -11256,16 +11252,20 @@
       "value": 17
      },
      {
+      "element": 46,
+      "value": 14
+     },
+     {
       "element": 611,
       "value": 11
      },
      {
       "element": 41,
-      "value": 7
+      "value": 8
      },
      {
       "element": 36,
-      "value": 6
+      "value": 7
      },
      {
       "element": 631,
@@ -11276,12 +11276,12 @@
       "value": 4
      },
      {
-      "element": 51,
+      "element": 56,
       "value": 4
      },
      {
-      "element": 56,
-      "value": 4
+      "element": 51,
+      "value": 3
      },
      {
       "element": 53,
@@ -11298,7 +11298,7 @@
     "a": [
      {
       "element": 558,
-      "value": 15
+      "value": 16
      },
      {
       "element": 581,
@@ -11310,7 +11310,7 @@
      },
      {
       "element": 486,
-      "value": 11
+      "value": 12
      },
      {
       "element": 473,
@@ -11348,31 +11348,31 @@
     "h": [
      {
       "element": 611,
-      "value": 13
+      "value": 12
      },
      {
       "element": 45,
-      "value": 7
+      "value": 9
      },
      {
       "element": 46,
       "value": 7
      },
      {
+      "element": 33,
+      "value": 5
+     },
+     {
+      "element": 41,
+      "value": 5
+     },
+     {
       "element": 47,
       "value": 5
      },
      {
-      "element": 33,
-      "value": 4
-     },
-     {
-      "element": 41,
-      "value": 4
-     },
-     {
       "element": 36,
-      "value": 3
+      "value": 4
      },
      {
       "element": 37,

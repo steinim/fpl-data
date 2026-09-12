@@ -29,10 +29,10 @@ id,event,kickoff_time,home,away,home_score,away_score,finished,fdr_home,fdr_away
 25,3,2026-09-05T16:30:00Z,Hull City,Aston Villa,0,0,True,3,2
 30,3,2026-09-06T13:00:00Z,Everton,Man Utd,2,2,True,4,3
 29,3,2026-09-06T15:30:00Z,Arsenal,Chelsea,2,1,True,4,5
-31,4,2026-09-12T14:00:00Z,Aston Villa,Nott'm Forest,0,1,False,3,4
+31,4,2026-09-12T14:00:00Z,Aston Villa,Nott'm Forest,1,2,False,3,4
 32,4,2026-09-12T14:00:00Z,Bournemouth,Brentford,2,2,False,3,3
 33,4,2026-09-12T14:00:00Z,Chelsea,Hull City,2,2,False,2,4
-34,4,2026-09-12T14:00:00Z,Crystal Palace,Ipswich Town,1,2,False,2,3
+34,4,2026-09-12T14:00:00Z,Crystal Palace,Ipswich Town,2,3,False,2,3
 35,4,2026-09-12T14:00:00Z,Liverpool,Fulham,0,0,False,2,4
 37,4,2026-09-12T16:30:00Z,Spurs,Everton,,,False,3,3
 36,4,2026-09-12T19:00:00Z,Sunderland,Arsenal,,,False,4,3

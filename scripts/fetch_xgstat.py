@@ -150,11 +150,15 @@ class TableParser(HTMLParser):
 
 def _body(resp):
     raw = resp.read()
-    enc = (resp.headers.get("Content-Encoding") or "").lower()
+    enc = (resp.headers.get("Content-Encoding") or "").strip().lower()
     if "gzip" in enc:
         raw = gzip.decompress(raw)
     elif "deflate" in enc:
         raw = zlib.decompress(raw, -zlib.MAX_WBITS)
+    elif enc and enc != "identity":
+        # Vi ber aldri om br. Faar vi det likevel, skal det smelle her og ikke
+        # forplante seg som «tom tabell» tre steg lenger nede.
+        raise RuntimeError(f"ukjent Content-Encoding: {enc!r}")
     return raw.decode("utf-8", "replace")
 
 
@@ -171,6 +175,18 @@ def _explain(e):
         pass
 
 
+def _challenged(e):
+    """Vercel Attack Challenge Mode -- en JS-utfordring, ikke en koe.
+
+    Verifisert 12. september 2026 fra en GitHub-runner (pdx1): foerste kall ga
+    429 med X-Vercel-Mitigated: challenge og «Vercel Security Checkpoint» i
+    kroppen. Den loeser seg ikke opp av seg selv, saa gjentatte forsoek er bare
+    stoey mot en side som allerede har sagt nei. Avbryt umiddelbart.
+    """
+    h = getattr(e, "headers", None) or {}
+    return bool(h.get("X-Vercel-Mitigated") or h.get("X-Vercel-Challenge-Token"))
+
+
 def get(url, tries=5):
     last = None
     for n in range(tries):
@@ -182,6 +198,12 @@ def get(url, tries=5):
             last = e
             if e.code == 404:
                 print(f"  {url}: HTTP 404, gir opp")
+                return None
+            if _challenged(e):
+                print(f"  {url}: HTTP {e.code} -- Vercel-utfordring "
+                      f"(X-Vercel-Mitigated: {(e.headers or {}).get('X-Vercel-Mitigated')})")
+                print("    Denne IP-en maa loese en JS-utfordring. Det gjoer ikke dette")
+                print("    skriptet. Kjoer hoestingen fra en maskin som slipper gjennom.")
                 return None
             print(f"  {url}: forsok {n + 1}/{tries} feilet (HTTP {e.code})")
             if n == 0:
@@ -202,7 +224,12 @@ def get(url, tries=5):
 
 
 def diag():
-    """python3 scripts/fetch_xgstat.py --diag -- ett kall, full utskrift."""
+    """Ett kall, full utskrift. Returnerer 0 bare naar kallet faktisk lyktes.
+
+    Rettet 12. september: denne returnerte tidligere None uansett utfall, saa
+    Diagnose-steget i workflowen ble groent selv naar kallet ble blokkert.
+    Et diagnosesteg som ikke kan feile er verre enn ingen -- det gir falsk ro.
+    """
     url = f"{BASE}/competitions/{COMPETITION}/fpl?perPage={PER_PAGE}&page=1"
     proxies = {k: v for k, v in os.environ.items() if k.lower().endswith("_proxy")}
     print(f"proxy-env: {proxies or '(ingen)'}")
@@ -211,14 +238,20 @@ def diag():
         req = urllib.request.Request(url, headers=HEADERS)
         with urllib.request.urlopen(req, timeout=45) as r:
             html = _body(r)
-        print(f"HTTP {r.status}, {len(html)} tegn, "
-              f"x-vercel-cache={r.headers.get('x-vercel-cache')}, "
-              f"rader={html.count('data-row-id')}")
+            status, cache = r.status, r.headers.get("x-vercel-cache")
     except urllib.error.HTTPError as e:
-        print(f"HTTP {e.code}")
+        print(f"❌ HTTP {e.code}")
         _explain(e)
+        return 1
     except Exception as e:
-        print(f"feil: {e}")
+        print(f"❌ feil: {type(e).__name__}: {e}")
+        return 1
+    rows = html.count("data-row-id")
+    print(f"HTTP {status}, {len(html)} tegn, x-vercel-cache={cache}, rader={rows}")
+    if rows == 0:
+        print("❌ 200 OK, men ingen rader i markupen -- siden kan ha endret seg")
+        return 1
+    return 0
 
 
 # ------------------------------------------------------------------ normalisering
@@ -318,11 +351,18 @@ def scrape(table):
         url = f"{BASE}{path}?perPage={PER_PAGE}&page={page}"
         html = get(url)
         if html is None:
-            break
+            # Skriv ALDRI en delvis tabell. En avkortet fil med riktige felter
+            # er farligere enn ingen fil -- den ser komplett ut.
+            print(f"  {table}: side {page} kunne ikke hentes. Avbryter uten aa skrive fil "
+                  f"({len(rows)} rader ville blitt kastet bort).")
+            return None
         p = TableParser()
         p.feed(html)
         if not p.rows:
-            break
+            if page == 1:
+                print(f"  {table}: side 1 ga 0 rader -- markupen kan ha endret seg")
+                return None
+            break      # normal slutt paa pagineringen
         if expected is None:
             expected = len(p.rows[0]["cells"])
         for row in p.rows:
@@ -364,16 +404,17 @@ def scrape(table):
 
 def main():
     if "--diag" in sys.argv[1:]:
-        diag()
-        return
-    ok = 0
+        return diag()
+    failed = []
     for table in ("fpl", "players"):
         print(f"{table}:")
-        if scrape(table):
-            ok += 1
-    if ok == 0:
-        sys.exit("xgstat: ingen tabeller hentet")
+        if not scrape(table):
+            failed.append(table)
+    if failed:
+        print(f"\n❌ feilet: {', '.join(failed)}")
+        return 1
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

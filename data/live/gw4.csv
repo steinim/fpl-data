@@ -92,7 +92,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 161,Lavia,Chelsea,MID,5.0,68,0,0,0,2,0,9,0,14,0,0,2
 199,Benitez,Crystal Palace,GKP,4.5,90,0,0,0,3,3,0,0,3,0,0,2
 201,Muñoz,Nott'm Forest,DEF,5.4,90,0,0,0,1,0,7,0,23,0,0,2
-202,Richards,Crystal Palace,DEF,5.0,90,0,0,0,3,0,12,0,1,1,0,2
+202,Richards,Crystal Palace,DEF,5.0,90,0,0,0,3,0,13,0,2,1,0,2
 210,Wharton,Crystal Palace,MID,5.5,76,0,0,0,2,0,5,0,13,0,0,2
 236,Dewsbury-Hall,Everton,MID,6.5,90,0,0,1,0,0,6,0,16,1,0,2
 249,Barry,Everton,FWD,5.6,90,0,0,1,0,0,2,0,5,0,0,2
@@ -144,7 +144,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 149,Colwill,Chelsea,DEF,4.9,90,0,0,0,2,0,6,0,8,0,0,1
 157,Estêvão,Chelsea,MID,6.3,4,0,0,0,0,0,1,0,6,0,0,1
 200,Lacroix,Chelsea,DEF,6.0,4,0,0,0,0,0,3,0,4,0,0,1
-204,Mitchell,Crystal Palace,DEF,4.5,76,0,0,0,2,0,1,0,2,0,0,1
+204,Mitchell,Crystal Palace,DEF,4.5,76,0,0,0,2,0,1,0,6,0,0,1
 211,Yeremy,Crystal Palace,MID,5.5,36,0,0,0,1,0,1,0,4,0,0,1
 212,Hughes,Crystal Palace,MID,4.5,13,0,0,0,1,0,4,0,6,0,0,1
 213,Lerma,Crystal Palace,MID,4.9,6,0,0,0,1,0,1,0,3,0,0,1
@@ -162,7 +162,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 304,O'Shea,Ipswich Town,DEF,4.0,90,0,0,0,2,0,9,0,5,0,0,1
 306,Greaves,Ipswich Town,DEF,4.0,87,0,0,0,2,0,6,0,7,0,0,1
 313,Clarke,Ipswich Town,MID,5.4,62,0,0,0,1,0,2,0,8,1,0,1
-315,Fatawu,Ipswich Town,MID,5.5,61,0,0,0,1,0,7,0,4,1,0,1
+315,Fatawu,Ipswich Town,MID,5.5,61,0,0,0,1,0,7,0,6,1,0,1
 318,Philogene,Ipswich Town,MID,5.4,28,0,0,0,1,0,3,0,6,0,0,1
 357,Frimpong,Liverpool,DEF,5.4,18,0,0,0,0,0,4,0,12,0,0,1
 358,Kerkez,Liverpool,DEF,5.4,45,0,0,0,0,0,3,0,6,0,0,1

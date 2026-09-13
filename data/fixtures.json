@@ -13772,7 +13772,7 @@
     "a": [
      {
       "element": 124,
-      "value": 57
+      "value": 56
      },
      {
       "element": 115,
@@ -13783,16 +13783,16 @@
       "value": 40
      },
      {
+      "element": 109,
+      "value": 39
+     },
+     {
       "element": 116,
       "value": 39
      },
      {
-      "element": 109,
-      "value": 38
-     },
-     {
       "element": 129,
-      "value": 37
+      "value": 38
      },
      {
       "element": 605,
@@ -13812,7 +13812,7 @@
      },
      {
       "element": 639,
-      "value": 12
+      "value": 10
      },
      {
       "element": 127,
@@ -13832,7 +13832,7 @@
      },
      {
       "element": 600,
-      "value": 3
+      "value": 2
      }
     ],
     "h": [
@@ -13910,10 +13910,6 @@
       "value": 9
      },
      {
-      "element": 124,
-      "value": 7
-     },
-     {
       "element": 129,
       "value": 7
      },
@@ -13926,8 +13922,16 @@
       "value": 6
      },
      {
+      "element": 124,
+      "value": 6
+     },
+     {
       "element": 605,
       "value": 6
+     },
+     {
+      "element": 328,
+      "value": 4
      },
      {
       "element": 639,
@@ -13938,12 +13942,12 @@
       "value": 3
      },
      {
-      "element": 328,
-      "value": 3
-     },
-     {
       "element": 113,
       "value": 2
+     },
+     {
+      "element": 115,
+      "value": 1
      },
      {
       "element": 119,
@@ -14018,10 +14022,10 @@
   "code": 2645232,
   "event": 4,
   "finished": false,
-  "finished_provisional": false,
+  "finished_provisional": true,
   "id": 39,
   "kickoff_time": "2026-09-13T15:30:00Z",
-  "minutes": 71,
+  "minutes": 90,
   "provisional_start_time": false,
   "pulse_id": 0,
   "started": true,
@@ -14062,8 +14066,22 @@
     "identifier": "penalties_missed"
    },
    {
-    "a": [],
-    "h": [],
+    "a": [
+     {
+      "element": 155,
+      "value": 1
+     },
+     {
+      "element": 391,
+      "value": 1
+     }
+    ],
+    "h": [
+     {
+      "element": 418,
+      "value": 1
+     }
+    ],
     "identifier": "yellow_cards"
    },
    {
@@ -14080,7 +14098,7 @@
     "a": [
      {
       "element": 384,
-      "value": 2
+      "value": 3
      }
     ],
     "h": [
@@ -14102,7 +14120,7 @@
       "value": 2
      },
      {
-      "element": 388,
+      "element": 389,
       "value": 1
      }
     ],
@@ -14113,47 +14131,51 @@
     "a": [
      {
       "element": 391,
-      "value": 40
+      "value": 38
      },
      {
       "element": 411,
-      "value": 37
-     },
-     {
-      "element": 388,
-      "value": 26
-     },
-     {
-      "element": 384,
-      "value": 24
+      "value": 36
      },
      {
       "element": 389,
-      "value": 24
+      "value": 34
+     },
+     {
+      "element": 384,
+      "value": 29
+     },
+     {
+      "element": 388,
+      "value": 27
      },
      {
       "element": 390,
-      "value": 23
-     },
-     {
-      "element": 481,
-      "value": 15
+      "value": 24
      },
      {
       "element": 155,
-      "value": 13
+      "value": 19
+     },
+     {
+      "element": 481,
+      "value": 18
      },
      {
       "element": 237,
-      "value": 9
+      "value": 15
      },
      {
       "element": 397,
-      "value": 6
+      "value": 7
      },
      {
       "element": 399,
       "value": 4
+     },
+     {
+      "element": 387,
+      "value": 3
      },
      {
       "element": 398,
@@ -14162,7 +14184,15 @@
     ],
     "h": [
      {
+      "element": 415,
+      "value": 19
+     },
+     {
       "element": 432,
+      "value": 19
+     },
+     {
+      "element": 426,
       "value": 17
      },
      {
@@ -14170,35 +14200,23 @@
       "value": 15
      },
      {
-      "element": 426,
+      "element": 419,
       "value": 14
      },
      {
-      "element": 419,
-      "value": 12
-     },
-     {
-      "element": 415,
-      "value": 9
-     },
-     {
-      "element": 418,
-      "value": 9
-     },
-     {
       "element": 427,
-      "value": 7
+      "value": 9
      },
      {
       "element": 428,
+      "value": 8
+     },
+     {
+      "element": 417,
       "value": 7
      },
      {
       "element": 429,
-      "value": 7
-     },
-     {
-      "element": 417,
       "value": 6
      },
      {
@@ -14206,7 +14224,15 @@
       "value": 5
      },
      {
+      "element": 418,
+      "value": 4
+     },
+     {
       "element": 439,
+      "value": 4
+     },
+     {
+      "element": 440,
       "value": 4
      }
     ],
@@ -14215,32 +14241,32 @@
    {
     "a": [
      {
-      "element": 155,
-      "value": 9
+      "element": 481,
+      "value": 13
      },
      {
       "element": 389,
-      "value": 9
+      "value": 11
      },
      {
-      "element": 481,
-      "value": 9
+      "element": 155,
+      "value": 10
      },
      {
       "element": 237,
-      "value": 8
-     },
-     {
-      "element": 391,
-      "value": 6
-     },
-     {
-      "element": 390,
-      "value": 5
+      "value": 10
      },
      {
       "element": 388,
-      "value": 3
+      "value": 7
+     },
+     {
+      "element": 390,
+      "value": 7
+     },
+     {
+      "element": 391,
+      "value": 7
      },
      {
       "element": 397,
@@ -14248,7 +14274,7 @@
      },
      {
       "element": 411,
-      "value": 2
+      "value": 3
      },
      {
       "element": 399,
@@ -14258,14 +14284,30 @@
     "h": [
      {
       "element": 432,
-      "value": 11
+      "value": 13
      },
      {
       "element": 415,
-      "value": 10
+      "value": 12
+     },
+     {
+      "element": 426,
+      "value": 7
+     },
+     {
+      "element": 419,
+      "value": 6
      },
      {
       "element": 43,
+      "value": 5
+     },
+     {
+      "element": 418,
+      "value": 5
+     },
+     {
+      "element": 427,
       "value": 5
      },
      {
@@ -14273,32 +14315,20 @@
       "value": 5
      },
      {
-      "element": 418,
-      "value": 4
-     },
-     {
       "element": 417,
       "value": 3
      },
      {
-      "element": 419,
+      "element": 440,
       "value": 3
      },
      {
-      "element": 426,
+      "element": 428,
       "value": 2
      },
      {
-      "element": 427,
-      "value": 1
-     },
-     {
-      "element": 428,
-      "value": 1
-     },
-     {
       "element": 439,
-      "value": 1
+      "value": 2
      }
     ],
     "identifier": "defensive_contribution"

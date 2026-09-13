@@ -13066,15 +13066,15 @@
      },
      {
       "element": 236,
-      "value": 18
+      "value": 16
+     },
+     {
+      "element": 209,
+      "value": 13
      },
      {
       "element": 242,
       "value": 13
-     },
-     {
-      "element": 209,
-      "value": 10
      },
      {
       "element": 244,
@@ -13100,7 +13100,7 @@
     "h": [
      {
       "element": 502,
-      "value": 31
+      "value": 30
      },
      {
       "element": 496,
@@ -13108,11 +13108,11 @@
      },
      {
       "element": 112,
-      "value": 26
+      "value": 27
      },
      {
       "element": 503,
-      "value": 26
+      "value": 27
      },
      {
       "element": 403,
@@ -13173,7 +13173,7 @@
      },
      {
       "element": 233,
-      "value": 10
+      "value": 11
      },
      {
       "element": 230,
@@ -13222,16 +13222,16 @@
     ],
     "h": [
      {
+      "element": 112,
+      "value": 13
+     },
+     {
       "element": 455,
       "value": 11
      },
      {
       "element": 522,
       "value": 11
-     },
-     {
-      "element": 112,
-      "value": 10
      },
      {
       "element": 516,
@@ -13242,11 +13242,11 @@
       "value": 6
      },
      {
-      "element": 401,
-      "value": 5
+      "element": 503,
+      "value": 6
      },
      {
-      "element": 503,
+      "element": 401,
       "value": 5
      },
      {
@@ -13262,12 +13262,12 @@
       "value": 4
      },
      {
-      "element": 502,
+      "element": 515,
       "value": 3
      },
      {
-      "element": 515,
-      "value": 3
+      "element": 502,
+      "value": 2
      },
      {
       "element": 512,
@@ -13417,7 +13417,7 @@
      },
      {
       "element": 452,
-      "value": 2
+      "value": 1
      }
     ],
     "h": [],
@@ -13435,7 +13435,7 @@
      },
      {
       "element": 452,
-      "value": 30
+      "value": 29
      },
      {
       "element": 12,
@@ -13451,7 +13451,7 @@
      },
      {
       "element": 8,
-      "value": 20
+      "value": 18
      },
      {
       "element": 31,
@@ -13489,7 +13489,7 @@
     "h": [
      {
       "element": 544,
-      "value": 20
+      "value": 19
      },
      {
       "element": 545,
@@ -13505,14 +13505,14 @@
      },
      {
       "element": 501,
-      "value": 5
-     },
-     {
-      "element": 541,
-      "value": 5
+      "value": 6
      },
      {
       "element": 542,
+      "value": 6
+     },
+     {
+      "element": 541,
       "value": 5
      },
      {
@@ -13528,16 +13528,12 @@
       "value": 1
      },
      {
-      "element": 532,
-      "value": -1
-     },
-     {
       "element": 533,
-      "value": -6
+      "value": -5
      },
      {
       "element": 536,
-      "value": -13
+      "value": -12
      }
     ],
     "identifier": "bps"
@@ -13549,16 +13545,16 @@
       "value": 11
      },
      {
-      "element": 12,
-      "value": 9
-     },
-     {
       "element": 13,
-      "value": 9
+      "value": 10
      },
      {
       "element": 31,
-      "value": 9
+      "value": 8
+     },
+     {
+      "element": 12,
+      "value": 7
      },
      {
       "element": 15,
@@ -13591,16 +13587,12 @@
      {
       "element": 26,
       "value": 2
-     },
-     {
-      "element": 7,
-      "value": 1
      }
     ],
     "h": [
      {
       "element": 544,
-      "value": 12
+      "value": 11
      },
      {
       "element": 545,
@@ -13640,7 +13632,7 @@
      },
      {
       "element": 553,
-      "value": 2
+      "value": 1
      }
     ],
     "identifier": "defensive_contribution"

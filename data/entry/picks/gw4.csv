@@ -7,7 +7,7 @@ slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_poin
 6,B.Fernandes,Man Utd,MID,1,False,True,90,2,2,17,0
 7,Ødegaard,Arsenal,MID,1,False,False,84,3,3,26,0
 8,Mbeumo,Man Utd,MID,1,False,False,90,2,2,9,0
-9,Calvert-Lewin,Leeds,FWD,1,False,False,0,0,0,0,0
+9,Calvert-Lewin,Leeds,FWD,1,False,False,77,10,10,37,2
 10,Haaland,Man City,FWD,2,True,False,90,9,18,36,3
 11,João Pedro,Chelsea,FWD,1,False,False,90,12,12,44,3
 12,Kinsky,Spurs,GKP,0,False,False,90,7,0,29,0

@@ -8,7 +8,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 116,Dunk,Brighton,DEF,4.5,90,1,0,1,0,0,6,0,39,0,0,12
 165,João Pedro,Chelsea,FWD,7.8,90,1,1,0,2,0,2,3,44,0,0,12
 316,Emersonn,Ipswich Town,FWD,5.5,62,1,1,0,1,0,2,3,45,0,0,12
-115,De Cuyper,Brighton,DEF,4.8,90,0,1,1,0,0,1,2,41,0,0,11
+115,De Cuyper,Brighton,DEF,4.9,90,0,1,1,0,0,1,2,41,0,0,11
 233,Mykolenko,Everton,DEF,4.5,90,0,0,1,0,0,11,3,38,0,0,11
 391,Gvardiol,Man City,DEF,5.7,90,0,1,1,0,0,7,3,36,1,0,11
 138,Kostoulas,Brighton,FWD,5.5,83,1,1,1,0,0,7,1,40,0,0,10
@@ -316,7 +316,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 66,Soler,Bournemouth,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 71,Cook,Bournemouth,MID,5.0,8,0,0,0,0,0,2,0,-1,1,0,0
 74,Brooks,Bournemouth,MID,5.0,7,0,0,0,0,0,3,0,-1,1,0,0
-76,Tóth.A,Bournemouth,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
+76,Tóth.A,Bournemouth,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 77,Adli,Bournemouth,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 78,Kroupi.Jr,Bournemouth,MID,7.4,0,0,0,0,0,0,0,0,0,0,0,0
 80,Enes Ünal,Bournemouth,FWD,5.5,0,0,0,0,0,0,0,0,0,0,0,0

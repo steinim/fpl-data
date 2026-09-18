@@ -1,26 +1,33 @@
 id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,saves,defensive_contribution,bonus,bps,yellow_cards,red_cards,total_points
-568,Barco,Chelsea,MID,5.4,40,0,0,0,0,0,8,3,15,0,0,4
-102,Yarmoliuk,Brentford,MID,4.8,40,0,0,0,0,0,9,2,11,0,0,3
-87,Ajer,Brentford,DEF,4.5,40,0,0,0,0,0,4,1,10,0,0,2
-28,Martinez,Chelsea,GKP,5.0,40,0,0,0,0,1,0,0,5,0,0,1
-40,Rogers,Chelsea,MID,7.7,40,0,0,0,0,0,5,0,5,0,0,1
-82,Kelleher,Brentford,GKP,5.0,40,0,0,0,0,2,0,0,9,0,0,1
-86,Lewis-Potter,Brentford,MID,5.5,40,0,0,0,0,0,4,0,6,0,0,1
-88,Kayode,Brentford,DEF,4.6,40,0,0,0,0,0,1,0,3,0,0,1
-93,Schuster,Brentford,DEF,4.5,40,0,0,0,0,0,5,0,4,0,0,1
-94,Schade,Brentford,MID,6.1,40,0,0,0,0,0,3,0,6,0,0,1
-96,Damsgaard,Brentford,MID,5.4,40,0,0,0,0,0,3,0,1,0,0,1
-98,Janelt,Brentford,MID,5.0,40,0,0,0,0,0,2,0,4,0,0,1
-101,Henderson,Chelsea,MID,4.9,40,0,0,0,0,0,3,0,4,0,0,1
-105,Anthony,Brentford,MID,5.9,40,0,0,0,0,0,0,0,5,0,0,1
-106,Thiago,Brentford,FWD,7.8,40,0,0,0,0,0,1,0,0,0,0,1
-136,Welbeck,Chelsea,FWD,5.9,40,0,0,0,0,0,3,0,6,0,0,1
-145,Fofana,Chelsea,DEF,5.0,40,0,0,0,0,0,7,0,9,0,0,1
-149,Colwill,Chelsea,DEF,4.9,40,0,0,0,0,0,4,0,4,0,0,1
-154,Palmer,Chelsea,MID,9.7,40,0,0,0,0,0,3,0,5,0,0,1
-156,Neto,Chelsea,MID,6.5,40,0,0,0,0,0,1,0,5,0,0,1
-200,Lacroix,Chelsea,DEF,6.0,40,0,0,0,0,0,2,0,4,0,0,1
-583,Chavarria,Chelsea,DEF,4.9,40,0,0,0,0,0,3,0,3,0,0,1
+93,Schuster,Brentford,DEF,4.5,90,0,1,1,0,0,16,3,43,0,0,14
+105,Anthony,Brentford,MID,5.9,80,1,0,1,0,0,2,2,31,0,0,10
+94,Schade,Brentford,MID,6.1,90,0,2,1,0,0,7,0,27,0,0,9
+87,Ajer,Brentford,DEF,4.5,90,0,0,1,0,0,9,1,29,0,0,7
+82,Kelleher,Brentford,GKP,5.0,90,0,0,1,0,2,0,0,27,0,0,6
+88,Kayode,Brentford,DEF,4.6,68,0,0,1,0,0,2,0,20,0,0,6
+100,Carvalho,Brentford,MID,5.0,3,1,0,0,0,0,0,0,23,0,0,6
+106,Thiago,Brentford,FWD,7.8,90,1,0,1,0,0,3,0,26,1,0,5
+145,Fofana,Chelsea,DEF,5.0,70,0,0,0,1,0,15,0,11,0,0,4
+86,Lewis-Potter,Brentford,MID,5.5,80,0,0,1,0,0,8,0,15,0,0,3
+96,Damsgaard,Brentford,MID,5.4,86,0,0,1,0,0,9,0,13,0,0,3
+98,Janelt,Brentford,MID,5.0,90,0,0,1,0,0,9,0,13,0,0,3
+102,Yarmoliuk,Brentford,MID,4.8,68,0,0,1,0,0,11,0,18,0,0,3
+200,Lacroix,Chelsea,DEF,6.0,90,0,0,0,3,0,12,0,-1,0,0,3
+28,Martinez,Chelsea,GKP,5.0,90,0,0,0,3,3,0,0,7,0,0,2
+40,Rogers,Chelsea,MID,7.7,90,0,0,0,3,0,8,0,17,0,0,2
+101,Henderson,Chelsea,MID,4.9,90,0,0,0,3,0,10,0,16,0,0,2
+136,Welbeck,Chelsea,FWD,5.9,70,0,0,0,1,0,4,0,8,0,0,2
+154,Palmer,Chelsea,MID,9.7,90,0,0,0,3,0,6,0,21,0,0,2
+156,Neto,Chelsea,MID,6.5,86,0,0,0,2,0,6,0,13,0,0,2
+568,Barco,Chelsea,MID,5.4,86,0,0,0,2,0,9,0,21,0,0,2
+90,Hickey,Brentford,DEF,4.5,21,0,0,0,0,0,4,0,5,0,0,1
+95,O.Dango,Brentford,MID,6.3,9,0,0,0,0,0,0,0,2,0,0,1
+149,Colwill,Chelsea,DEF,4.9,90,0,0,0,3,0,7,0,1,0,0,1
+157,Estêvão,Chelsea,MID,6.3,3,0,0,0,1,0,0,0,3,0,0,1
+164,Quenda,Chelsea,MID,5.3,19,0,0,0,2,0,0,0,3,0,0,1
+583,Chavarria,Chelsea,DEF,4.9,90,0,0,0,3,0,9,0,7,0,0,1
+620,Diouf,Brentford,DEF,4.5,9,0,0,0,0,0,1,0,3,0,0,1
+662,Nicoll-Jazuli,Chelsea,MID,4.5,3,0,0,0,1,0,2,0,5,0,0,1
 1,Raya,Arsenal,GKP,6.0,0,0,0,0,0,0,0,0,0,0,0,0
 2,Arrizabalaga,Arsenal,GKP,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 3,Meslier,Arsenal,GKP,4.9,0,0,0,0,0,0,0,0,0,0,0,0
@@ -104,13 +111,10 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 84,Collins,Brentford,DEF,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 85,Van den Berg,Brentford,DEF,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 89,Henry,Brentford,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
-90,Hickey,Brentford,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 91,Pinnock,Coventry City,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 92,Ji-soo,Brentford,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-95,O.Dango,Brentford,MID,6.3,0,0,0,0,0,0,0,0,0,0,0,0
 97,Jensen,Brentford,MID,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 99,Milambo,Brentford,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
-100,Carvalho,Brentford,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 103,Dasilva,Brentford,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 104,Onyeka,Coventry City,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 107,Furo,Brentford,FWD,4.5,0,0,0,0,0,0,0,0,0,0,0,0
@@ -154,18 +158,16 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 147,Tosin,Spurs,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 148,Hato,Chelsea,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 150,M.Sarr,Chelsea,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-151,Acheampong,Chelsea,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
+151,Acheampong,Chelsea,DEF,4.5,19,0,0,0,2,0,1,0,-4,0,0,0
 152,Palestra,Chelsea,DEF,5.3,0,0,0,0,0,0,0,0,0,0,0,0
 153,Disasi,Crystal Palace,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 155,Enzo,Man City,MID,6.9,0,0,0,0,0,0,0,0,0,0,0,0
-157,Estêvão,Chelsea,MID,6.3,0,0,0,0,0,0,0,0,0,0,0,0
 158,Gittens,Chelsea,MID,5.9,0,0,0,0,0,0,0,0,0,0,0,0
 159,Caicedo,Chelsea,MID,5.3,0,0,0,0,0,0,0,0,0,0,0,0
 160,Garnacho,Aston Villa,MID,5.8,0,0,0,0,0,0,0,0,0,0,0,0
 161,Lavia,Chelsea,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 162,Andrey Santos,Man Utd,MID,4.8,0,0,0,0,0,0,0,0,0,0,0,0
 163,D.Essugo,Chelsea,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-164,Quenda,Chelsea,MID,5.3,0,0,0,0,0,0,0,0,0,0,0,0
 165,João Pedro,Chelsea,FWD,7.8,0,0,0,0,0,0,0,0,0,0,0,0
 166,N.Jackson,Aston Villa,FWD,6.5,0,0,0,0,0,0,0,0,0,0,0,0
 167,Delap,Nott'm Forest,FWD,5.5,0,0,0,0,0,0,0,0,0,0,0,0
@@ -565,7 +567,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 562,Maeda,Ipswich Town,MID,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 563,Morita,Hull City,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 564,Scherpen,Ipswich Town,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-565,M.Sangaré,Brentford,MID,5.7,0,0,0,0,0,0,0,0,0,0,0,0
+565,M.Sangaré,Brentford,MID,5.7,21,0,0,0,0,0,3,0,0,1,0,0
 566,Silva,Bournemouth,DEF,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 567,Horníček,Newcastle,GKP,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 569,Gonzalo,Fulham,FWD,6.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -618,7 +620,6 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 617,Cho,Hull City,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 618,Goretzka,Aston Villa,MID,5.9,0,0,0,0,0,0,0,0,0,0,0,0
 619,Palacios,Ipswich Town,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
-620,Diouf,Brentford,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 621,McAidoo,Man City,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 622,Braithwaite,Man City,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 623,Bentley,Coventry City,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -658,3 +659,5 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 657,Nunes,Brentford,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 658,Ibrahim,Brighton,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 659,Miley,Newcastle,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
+660,Fredrick,Brentford,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+661,Balcombe,Brentford,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0

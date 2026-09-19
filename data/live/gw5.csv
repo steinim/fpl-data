@@ -1,34 +1,35 @@
 id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,saves,defensive_contribution,bonus,bps,yellow_cards,red_cards,total_points
 176,Dasilva,Coventry City,DEF,4.0,90,1,0,1,0,0,4,3,38,0,0,15
 93,Schuster,Brentford,DEF,4.5,90,0,1,1,0,0,16,3,43,0,0,14
-124,Groß,Brighton,MID,5.7,90,1,1,1,0,0,5,3,49,0,0,14
+124,Groß,Brighton,MID,5.7,90,1,1,1,0,0,5,3,47,0,0,14
 229,Tarkowski,Everton,DEF,6.1,90,0,1,1,0,0,12,3,43,0,0,14
 53,Manzambi,Aston Villa,MID,5.9,71,1,1,1,0,0,7,2,45,0,0,13
 449,Hall,Newcastle,DEF,5.2,90,1,0,0,1,0,10,3,38,0,0,13
 41,Buendía,Aston Villa,MID,5.9,90,1,0,0,2,0,15,3,50,0,0,12
 110,Rushworth,Coventry City,GKP,4.5,90,0,1,1,0,2,0,3,38,0,0,12
 105,Anthony,Brentford,MID,5.9,80,1,0,1,0,0,2,2,31,0,0,10
-138,Kostoulas,Brighton,FWD,5.5,75,1,1,1,0,0,3,2,39,1,0,10
+138,Kostoulas,Brighton,FWD,5.5,75,1,1,1,0,0,4,2,40,1,0,10
 460,Willock,Newcastle,MID,5.0,86,1,0,0,1,0,6,3,38,0,0,10
 94,Schade,Brentford,MID,6.1,90,0,2,1,0,0,7,0,27,0,0,9
 173,Thomas,Coventry City,DEF,4.0,90,0,0,1,0,0,13,1,37,0,0,9
 453,Barnes,Newcastle,MID,6.1,90,0,2,0,1,0,9,1,34,0,0,9
-639,Andrés,Brighton,MID,5.5,84,1,0,1,0,0,9,1,27,0,0,9
 91,Pinnock,Coventry City,DEF,4.5,90,0,0,1,0,0,18,0,24,0,0,8
 127,Gomez,Brighton,MID,5.0,85,0,1,1,0,0,13,0,19,0,0,8
 226,Pickford,Everton,GKP,5.5,90,0,0,1,0,4,0,1,34,0,0,8
 230,Branthwaite,Everton,DEF,5.5,90,0,0,1,0,0,14,0,27,0,0,8
-504,Vuskovic,Brighton,DEF,5.0,90,0,0,1,0,0,12,0,25,0,0,8
+504,Vuskovic,Brighton,DEF,5.0,90,0,0,1,0,0,12,0,27,0,0,8
+639,Andrés,Brighton,MID,5.5,84,1,0,1,0,0,9,0,27,0,0,8
 649,Maitland-Niles,Everton,DEF,4.5,90,0,0,1,0,0,8,2,39,0,0,8
 87,Ajer,Brentford,DEF,4.5,90,0,0,1,0,0,9,1,29,0,0,7
-109,Verbruggen,Brighton,GKP,4.5,90,0,0,1,0,2,0,1,27,0,0,7
 45,McGinn,Aston Villa,MID,5.4,83,0,1,1,0,0,6,0,19,0,0,6
 47,Kamara,Aston Villa,MID,5.0,83,0,1,1,0,0,6,0,26,0,0,6
 82,Kelleher,Brentford,GKP,5.0,90,0,0,1,0,2,0,0,27,0,0,6
 88,Kayode,Brentford,DEF,4.6,68,0,0,1,0,0,2,0,20,0,0,6
 100,Carvalho,Brentford,MID,5.0,3,1,0,0,0,0,0,0,23,0,0,6
+109,Verbruggen,Brighton,GKP,4.5,90,0,0,1,0,2,0,0,27,0,0,6
 112,Van Hecke,Spurs,DEF,4.9,90,1,0,0,3,0,9,0,17,1,0,6
 114,Boscagli,Brighton,DEF,4.5,90,0,0,1,0,0,7,0,25,0,0,6
+115,De Cuyper,Brighton,DEF,4.9,90,0,0,1,0,0,7,1,30,1,0,6
 166,N.Jackson,Aston Villa,FWD,6.5,87,1,0,0,1,0,4,1,31,1,0,6
 249,Barry,Everton,FWD,5.6,90,1,0,1,0,0,5,0,28,0,0,6
 519,Gallagher,Spurs,MID,5.3,6,1,0,0,0,0,4,0,24,0,0,6
@@ -36,8 +37,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 617,Cho,Hull City,MID,5.0,27,1,0,0,0,0,0,0,25,0,0,6
 656,Mfuni,Coventry City,DEF,4.0,90,0,0,1,0,0,8,0,26,0,0,6
 106,Thiago,Brentford,FWD,7.8,90,1,0,1,0,0,3,0,26,1,0,5
-113,F.Kadıoğlu,Brighton,DEF,4.4,75,0,0,1,0,0,2,0,20,1,0,5
-115,De Cuyper,Brighton,DEF,4.9,90,0,0,1,0,0,6,0,26,1,0,5
+113,F.Kadıoğlu,Brighton,DEF,4.4,75,0,0,1,0,0,3,0,18,1,0,5
 183,Rudoni,Coventry City,MID,4.9,73,0,0,1,0,0,13,0,14,0,0,5
 233,Mykolenko,Everton,DEF,4.6,90,0,0,1,0,0,6,0,29,1,0,5
 328,Struijk,Brighton,DEF,4.9,85,0,0,1,0,0,6,0,24,1,0,5
@@ -59,7 +59,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 98,Janelt,Brentford,MID,5.0,90,0,0,1,0,0,9,0,13,0,0,3
 102,Yarmoliuk,Brentford,MID,4.8,68,0,0,1,0,0,10,0,19,0,0,3
 104,Onyeka,Coventry City,MID,4.9,90,0,0,1,0,0,9,0,11,0,0,3
-129,Ayari,Brighton,MID,5.4,90,0,0,1,0,0,7,0,4,0,0,3
+129,Ayari,Brighton,MID,5.4,90,0,0,1,0,0,7,0,7,0,0,3
 184,Grimes,Coventry City,MID,4.9,90,0,0,1,0,0,10,0,12,0,0,3
 200,Lacroix,Chelsea,DEF,5.9,90,0,0,0,3,0,12,0,-1,0,0,3
 209,Johnson,Everton,MID,5.9,65,0,0,1,0,0,8,0,6,0,0,3
@@ -110,14 +110,14 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 634,Fernandez-Pardo,Newcastle,FWD,6.0,73,0,0,0,1,0,2,0,7,0,0,2
 642,Thomas,Hull City,MID,5.5,62,0,0,0,2,0,3,0,2,0,0,2
 1,Raya,Arsenal,GKP,6.0,90,0,0,0,3,2,0,0,6,0,0,1
-4,Gabriel,Arsenal,DEF,8.0,90,0,0,0,3,0,9,0,7,0,0,1
-8,Calafiori,Arsenal,DEF,5.8,90,0,0,0,3,0,5,0,-2,0,0,1
-13,Rice,Arsenal,MID,7.4,90,0,0,0,3,0,7,0,13,1,0,1
+4,Gabriel,Arsenal,DEF,8.0,90,0,0,0,3,0,9,0,6,0,0,1
+8,Calafiori,Arsenal,DEF,5.8,90,0,0,0,3,0,5,0,-3,0,0,1
+13,Rice,Arsenal,MID,7.4,90,0,0,0,3,0,8,0,13,1,0,1
 14,Eze,Arsenal,MID,6.3,17,0,0,0,0,0,0,0,5,0,0,1
 17,Merino,Arsenal,MID,5.8,30,0,0,0,0,0,4,0,4,0,0,1
-19,Zubimendi,Arsenal,MID,5.3,30,0,0,0,0,0,2,0,4,0,0,1
-20,Dowman,Arsenal,MID,5.3,9,0,0,0,0,0,0,0,5,0,0,1
-25,Gyökeres,Arsenal,FWD,7.2,17,0,0,0,0,0,0,0,4,0,0,1
+19,Zubimendi,Arsenal,MID,5.3,30,0,0,0,0,0,1,0,2,0,0,1
+20,Dowman,Arsenal,MID,5.3,9,0,0,0,0,0,0,0,4,0,0,1
+25,Gyökeres,Arsenal,FWD,7.2,17,0,0,0,0,0,0,0,5,0,0,1
 31,Konsa,Arsenal,DEF,4.6,90,0,0,0,3,0,4,0,2,0,0,1
 37,Lindelöf,Aston Villa,DEF,4.5,90,0,0,0,2,0,6,0,1,0,0,1
 46,Barkley,Aston Villa,MID,5.0,6,0,0,0,2,0,4,0,3,0,0,1
@@ -127,7 +127,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 95,O.Dango,Brentford,MID,6.3,9,0,0,0,0,0,0,0,2,0,0,1
 119,Costinha,Brighton,DEF,4.5,14,0,0,0,0,0,1,0,2,0,0,1
 120,Svoboda,Brighton,DEF,5.0,4,0,0,0,0,0,1,0,5,0,0,1
-125,Georginio,Brighton,FWD,5.4,14,0,0,0,0,0,2,0,4,0,0,1
+125,Georginio,Brighton,FWD,5.4,14,0,0,0,0,0,2,0,1,0,0,1
 126,O'Riley,Brighton,MID,5.4,4,0,0,0,0,0,2,0,2,0,0,1
 149,Colwill,Chelsea,DEF,4.8,90,0,0,0,3,0,7,0,1,0,0,1
 157,Estêvão,Chelsea,MID,6.3,3,0,0,0,1,0,0,0,3,0,0,1
@@ -169,7 +169,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 583,Chavarria,Chelsea,DEF,4.9,90,0,0,0,3,0,9,0,7,0,0,1
 585,Herrington,Hull City,DEF,4.0,90,0,0,0,2,0,8,0,11,0,0,1
 589,Gourna-Douath,Hull City,MID,5.0,12,0,0,0,0,0,1,0,5,0,0,1
-605,Yalcouyé,Brighton,MID,4.5,5,0,0,0,0,0,1,0,6,0,0,1
+605,Yalcouyé,Brighton,MID,4.5,5,0,0,0,0,0,1,0,9,0,0,1
 611,Wan-Bissaka,Aston Villa,DEF,4.5,45,0,0,0,0,0,6,0,6,0,0,1
 620,Diouf,Brentford,DEF,4.5,9,0,0,0,0,0,1,0,3,0,0,1
 631,Mbaye,Aston Villa,MID,6.0,6,0,0,0,2,0,0,0,2,0,0,1

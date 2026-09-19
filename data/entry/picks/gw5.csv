@@ -1,9 +1,9 @@
 slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_points,bps,bonus
 1,Kinsky,Spurs,GKP,1,False,False,90,2,2,5,0
-2,N.Williams,Nott'm Forest,DEF,1,False,False,16,1,1,4,0
+2,N.Williams,Nott'm Forest,DEF,1,False,False,90,2,2,19,0
 3,Calafiori,Arsenal,DEF,1,False,False,90,1,1,-2,0
 4,Egan,Hull City,DEF,1,False,False,77,1,1,2,0
-5,Gibbs-White,Nott'm Forest,MID,1,False,False,16,1,1,4,0
+5,Gibbs-White,Nott'm Forest,MID,1,False,False,90,2,2,25,0
 6,B.Fernandes,Man Utd,MID,1,False,True,0,0,0,0,0
 7,Ødegaard,Arsenal,MID,1,False,False,72,2,2,10,0
 8,Mbeumo,Man Utd,MID,1,False,False,0,0,0,0,0

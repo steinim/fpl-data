@@ -16710,12 +16710,12 @@
    {
     "a": [
      {
-      "element": 110,
+      "element": 176,
       "value": 3
      },
      {
-      "element": 176,
-      "value": 3
+      "element": 110,
+      "value": 2
      },
      {
       "element": 173,
@@ -16728,11 +16728,11 @@
    {
     "a": [
      {
-      "element": 110,
-      "value": 38
+      "element": 176,
+      "value": 40
      },
      {
-      "element": 176,
+      "element": 110,
       "value": 38
      },
      {
@@ -16741,31 +16741,31 @@
      },
      {
       "element": 656,
-      "value": 26
+      "value": 27
      },
      {
       "element": 91,
       "value": 24
      },
      {
+      "element": 184,
+      "value": 17
+     },
+     {
+      "element": 183,
+      "value": 16
+     },
+     {
       "element": 194,
       "value": 16
      },
      {
-      "element": 183,
-      "value": 14
-     },
-     {
-      "element": 184,
-      "value": 12
-     },
-     {
       "element": 104,
-      "value": 11
+      "value": 10
      },
      {
       "element": 575,
-      "value": 11
+      "value": 10
      },
      {
       "element": 186,
@@ -16794,16 +16794,16 @@
       "value": 19
      },
      {
+      "element": 486,
+      "value": 17
+     },
+     {
       "element": 472,
       "value": 16
      },
      {
-      "element": 486,
-      "value": 16
-     },
-     {
       "element": 558,
-      "value": 15
+      "value": 16
      },
      {
       "element": 467,
@@ -16811,7 +16811,7 @@
      },
      {
       "element": 167,
-      "value": 8
+      "value": 9
      },
      {
       "element": 201,
@@ -16830,6 +16830,10 @@
       "value": 4
      },
      {
+      "element": 491,
+      "value": 4
+     },
+     {
       "element": 581,
       "value": 4
      },
@@ -16840,10 +16844,6 @@
      {
       "element": 488,
       "value": 3
-     },
-     {
-      "element": 491,
-      "value": 3
      }
     ],
     "identifier": "bps"
@@ -16852,7 +16852,7 @@
     "a": [
      {
       "element": 91,
-      "value": 18
+      "value": 19
      },
      {
       "element": 194,
@@ -16880,7 +16880,7 @@
      },
      {
       "element": 575,
-      "value": 6
+      "value": 5
      },
      {
       "element": 176,
@@ -16902,7 +16902,7 @@
     "h": [
      {
       "element": 472,
-      "value": 10
+      "value": 11
      },
      {
       "element": 167,

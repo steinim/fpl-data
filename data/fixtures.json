@@ -14963,7 +14963,7 @@
      },
      {
       "element": 102,
-      "value": 18
+      "value": 19
      },
      {
       "element": 86,
@@ -14971,7 +14971,7 @@
      },
      {
       "element": 96,
-      "value": 13
+      "value": 15
      },
      {
       "element": 98,
@@ -15049,24 +15049,24 @@
       "value": 16
      },
      {
+      "element": 96,
+      "value": 10
+     },
+     {
       "element": 102,
-      "value": 11
+      "value": 10
+     },
+     {
+      "element": 86,
+      "value": 9
      },
      {
       "element": 87,
       "value": 9
      },
      {
-      "element": 96,
-      "value": 9
-     },
-     {
       "element": 98,
       "value": 9
-     },
-     {
-      "element": 86,
-      "value": 8
      },
      {
       "element": 94,

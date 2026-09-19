@@ -8,10 +8,10 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 100,Carvalho,Brentford,MID,5.0,3,1,0,0,0,0,0,0,23,0,0,6
 106,Thiago,Brentford,FWD,7.8,90,1,0,1,0,0,3,0,26,1,0,5
 145,Fofana,Chelsea,DEF,5.0,70,0,0,0,1,0,15,0,11,0,0,4
-86,Lewis-Potter,Brentford,MID,5.5,80,0,0,1,0,0,8,0,15,0,0,3
-96,Damsgaard,Brentford,MID,5.4,86,0,0,1,0,0,9,0,13,0,0,3
+86,Lewis-Potter,Brentford,MID,5.5,80,0,0,1,0,0,9,0,15,0,0,3
+96,Damsgaard,Brentford,MID,5.4,86,0,0,1,0,0,10,0,15,0,0,3
 98,Janelt,Brentford,MID,5.0,90,0,0,1,0,0,9,0,13,0,0,3
-102,Yarmoliuk,Brentford,MID,4.8,68,0,0,1,0,0,11,0,18,0,0,3
+102,Yarmoliuk,Brentford,MID,4.8,68,0,0,1,0,0,10,0,19,0,0,3
 200,Lacroix,Chelsea,DEF,5.9,90,0,0,0,3,0,12,0,-1,0,0,3
 28,Martinez,Chelsea,GKP,5.0,90,0,0,0,3,3,0,0,7,0,0,2
 40,Rogers,Chelsea,MID,7.7,90,0,0,0,3,0,8,0,17,0,0,2

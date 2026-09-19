@@ -1,5 +1,5 @@
 slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_points,bps,bonus
-1,Kinsky,Spurs,GKP,1,False,False,0,0,0,0,0
+1,Kinsky,Spurs,GKP,1,False,False,31,1,1,9,0
 2,N.Williams,Nott'm Forest,DEF,1,False,False,0,0,0,0,0
 3,Calafiori,Arsenal,DEF,1,False,False,0,0,0,0,0
 4,Egan,Hull City,DEF,1,False,False,0,0,0,0,0

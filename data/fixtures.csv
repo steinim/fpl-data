@@ -48,7 +48,7 @@ id,event,kickoff_time,home,away,home_score,away_score,finished,fdr_home,fdr_away
 49,5,2026-09-20T13:00:00Z,Bournemouth,Liverpool,0,1,False,4,3
 44,5,2026-09-20T13:00:00Z,Leeds,Crystal Palace,0,0,False,3,3
 45,5,2026-09-20T13:00:00Z,Man City,Sunderland,5,3,False,2,5
-50,5,2026-09-20T15:30:00Z,Fulham,Man Utd,1,0,False,4,3
+50,5,2026-09-20T15:30:00Z,Fulham,Man Utd,1,1,False,4,3
 51,6,2026-10-10T11:30:00Z,Arsenal,Leeds,,,False,2,5
 52,6,2026-10-10T14:00:00Z,Aston Villa,Brentford,,,False,3,4
 53,6,2026-10-10T14:00:00Z,Chelsea,Bournemouth,,,False,3,4

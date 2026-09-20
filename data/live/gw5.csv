@@ -65,7 +65,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 183,Rudoni,Coventry City,MID,4.9,73,0,0,1,0,0,13,0,16,0,0,5
 233,Mykolenko,Everton,DEF,4.6,90,0,0,1,0,0,6,0,29,1,0,5
 237,Ndiaye,Man City,MID,5.8,74,0,1,0,3,0,4,0,31,0,0,5
-261,Iwobi,Fulham,MID,5.4,70,0,0,1,0,0,6,2,27,0,0,5
+261,Iwobi,Fulham,MID,5.4,70,0,0,1,0,0,7,2,27,0,0,5
 328,Struijk,Brighton,DEF,4.9,85,0,0,1,0,0,6,0,24,1,0,5
 330,Bogle,Leeds,DEF,4.6,66,0,0,1,0,0,1,0,14,1,0,5
 335,Stach,Leeds,MID,6.0,90,0,0,1,0,0,13,0,13,0,0,5
@@ -83,7 +83,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 388,Guéhi,Man City,DEF,6.0,90,0,1,0,3,0,4,0,13,0,0,4
 391,Gvardiol,Man City,DEF,5.7,90,0,1,0,3,0,7,0,22,0,0,4
 412,Lammens,Man Utd,GKP,4.9,90,0,0,0,1,6,0,0,22,0,0,4
-415,Dorgu,Man Utd,MID,5.8,6,0,1,0,0,0,1,0,12,0,0,4
+415,Dorgu,Man Utd,MID,5.8,6,0,1,0,0,0,2,0,12,0,0,4
 432,Mainoo,Man Utd,MID,5.5,79,0,0,0,1,0,12,0,18,0,0,4
 445,Thiaw,Newcastle,DEF,5.0,90,0,0,0,1,0,13,0,13,0,0,4
 447,Botman,Newcastle,DEF,5.0,90,0,0,0,1,0,18,0,12,0,0,4
@@ -163,7 +163,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 418,Maguire,Man Utd,DEF,4.9,90,0,0,0,1,0,5,0,17,0,0,2
 423,Shaw,Man Utd,DEF,4.3,83,0,0,0,1,0,3,0,7,0,0,2
 426,B.Fernandes,Man Utd,MID,12.0,90,0,0,0,1,0,6,0,15,0,0,2
-427,Mbeumo,Man Utd,MID,7.9,90,0,0,0,1,0,3,0,23,0,0,2
+427,Mbeumo,Man Utd,MID,7.9,90,0,0,0,1,0,4,0,23,0,0,2
 429,Rashford,Man Utd,MID,7.0,76,0,0,0,1,0,2,0,15,0,0,2
 455,Tonali,Spurs,MID,5.3,83,0,0,0,3,0,11,0,18,0,0,2
 467,Sels,Nott'm Forest,GKP,5.0,90,0,0,0,1,2,0,0,10,0,0,2
@@ -424,7 +424,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 266,Cairney,Fulham,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 269,Sessegnon,Fulham,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 270,Reed,Fulham,MID,4.4,0,0,0,0,0,0,0,0,0,0,0,0
-271,Muniz,Fulham,FWD,5.4,10,0,0,0,1,0,2,0,-1,1,0,0
+271,Muniz,Fulham,FWD,5.4,10,0,0,0,1,0,1,0,-1,1,0,0
 272,Kusi-Asare,Fulham,FWD,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 273,Phillips,Hull City,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 274,Butland,Hull City,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
@@ -514,7 +514,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 413,Bayindir,Man Utd,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 414,Heaton,Man Utd,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 416,De Ligt,Man Utd,DEF,5.0,0,0,0,0,0,0,0,0,0,0,0,0
-419,Martinez,Man Utd,DEF,5.0,90,0,0,0,1,0,3,0,6,0,0,0
+419,Martinez,Man Utd,DEF,5.0,90,0,0,0,1,0,4,0,6,0,0,0
 420,Yoro,Man Utd,DEF,4.8,0,0,0,0,0,0,0,0,0,0,0,0
 421,Heaven,Man Utd,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 422,Mazraoui,Man Utd,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0

@@ -83,7 +83,6 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 244,Armstrong,Everton,MID,5.0,90,0,0,1,0,0,5,0,13,1,0,2
 267,Lukić,Ipswich Town,MID,4.9,72,0,0,0,1,0,6,0,14,0,0,2
 290,Slater,Hull City,MID,4.5,77,0,0,0,2,0,3,0,9,0,0,2
-295,McBurnie,Hull City,FWD,5.5,90,0,0,0,2,0,6,0,8,0,0,2
 300,Walton,Ipswich Town,GKP,4.4,90,0,0,0,1,1,0,0,10,0,0,2
 304,O'Shea,Ipswich Town,DEF,4.0,90,0,0,0,1,0,9,0,12,0,0,2
 305,Davis,Ipswich Town,DEF,4.0,90,0,0,0,1,0,5,0,2,0,0,2
@@ -145,6 +144,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 277,Egan,Hull City,DEF,4.1,77,0,0,0,2,0,4,0,2,0,0,1
 279,Ajayi,Hull City,DEF,4.2,90,0,0,0,2,0,4,0,5,0,0,1
 280,Coyle,Hull City,DEF,4.0,90,0,0,0,2,0,2,0,3,0,0,1
+295,McBurnie,Hull City,FWD,5.5,90,0,0,0,2,0,6,0,5,1,0,1
 318,Philogene,Ipswich Town,MID,5.4,24,0,0,0,0,0,1,0,5,0,0,1
 320,Akpom,Ipswich Town,FWD,5.0,9,0,0,0,0,0,0,0,3,0,0,1
 340,Gelhardt,Hull City,MID,5.0,7,0,0,0,0,0,1,0,5,0,0,1

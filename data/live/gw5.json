@@ -14836,6 +14836,12 @@
        "points": 2,
        "points_modification": 0,
        "value": 90
+      },
+      {
+       "identifier": "yellow_cards",
+       "points": -1,
+       "points_modification": 0,
+       "value": 1
       }
      ]
     }
@@ -14845,7 +14851,7 @@
    "stats": {
     "assists": 0,
     "bonus": 0,
-    "bps": 8,
+    "bps": 5,
     "clean_sheets": 0,
     "clearances_blocks_interceptions": 3,
     "creativity": "0.0",
@@ -14870,8 +14876,8 @@
     "starts": 1,
     "tackles": 0,
     "threat": "0.0",
-    "total_points": 2,
-    "yellow_cards": 0
+    "total_points": 1,
+    "yellow_cards": 1
    }
   },
   {

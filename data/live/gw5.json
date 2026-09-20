@@ -5791,7 +5791,7 @@
    "stats": {
     "assists": 0,
     "bonus": 0,
-    "bps": 25,
+    "bps": 24,
     "clean_sheets": 1,
     "clearances_blocks_interceptions": 5,
     "creativity": "0.0",
@@ -6361,7 +6361,7 @@
    "stats": {
     "assists": 0,
     "bonus": 0,
-    "bps": 1,
+    "bps": 2,
     "clean_sheets": 0,
     "clearances_blocks_interceptions": 0,
     "creativity": "0.0",

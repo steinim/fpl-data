@@ -1,19 +1,26 @@
 {
  "active_chip": "3xc",
- "automatic_subs": [],
+ "automatic_subs": [
+  {
+   "element_in": 305,
+   "element_out": 165,
+   "entry": 1561629,
+   "event": 5
+  }
+ ],
  "entry_history": {
   "bank": 0,
   "event": 5,
   "event_transfers": 0,
   "event_transfers_cost": 0,
-  "overall_rank": 1827289,
-  "overall_rank_percentage": "17",
+  "overall_rank": 1937860,
+  "overall_rank_percentage": "18",
   "percentile_rank": 85,
-  "points": 34,
-  "points_on_bench": 14,
-  "rank": 8669670,
-  "rank_sort": 8688614,
-  "total_points": 327,
+  "points": 36,
+  "points_on_bench": 12,
+  "rank": 9176671,
+  "rank_sort": 9192847,
+  "total_points": 329,
   "value": 1005
  },
  "picks": [
@@ -50,8 +57,8 @@
    "position": 4
   },
   {
-   "element": 480,
-   "element_type": 3,
+   "element": 305,
+   "element_type": 2,
    "is_captain": false,
    "is_vice_captain": false,
    "multiplier": 1,
@@ -66,7 +73,7 @@
    "position": 6
   },
   {
-   "element": 15,
+   "element": 480,
    "element_type": 3,
    "is_captain": false,
    "is_vice_captain": false,
@@ -74,7 +81,7 @@
    "position": 7
   },
   {
-   "element": 427,
+   "element": 15,
    "element_type": 3,
    "is_captain": false,
    "is_vice_captain": false,
@@ -82,20 +89,12 @@
    "position": 8
   },
   {
-   "element": 165,
-   "element_type": 4,
+   "element": 427,
+   "element_type": 3,
    "is_captain": false,
    "is_vice_captain": false,
    "multiplier": 1,
    "position": 9
-  },
-  {
-   "element": 346,
-   "element_type": 4,
-   "is_captain": false,
-   "is_vice_captain": false,
-   "multiplier": 1,
-   "position": 10
   },
   {
    "element": 411,
@@ -103,6 +102,14 @@
    "is_captain": true,
    "is_vice_captain": false,
    "multiplier": 3,
+   "position": 10
+  },
+  {
+   "element": 346,
+   "element_type": 4,
+   "is_captain": false,
+   "is_vice_captain": false,
+   "multiplier": 1,
    "position": 11
   },
   {
@@ -114,8 +121,8 @@
    "position": 12
   },
   {
-   "element": 305,
-   "element_type": 2,
+   "element": 165,
+   "element_type": 4,
    "is_captain": false,
    "is_vice_captain": false,
    "multiplier": 0,

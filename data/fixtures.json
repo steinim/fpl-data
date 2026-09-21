@@ -14757,7 +14757,7 @@
  {
   "code": 2645236,
   "event": 5,
-  "finished": false,
+  "finished": true,
   "finished_provisional": true,
   "id": 41,
   "kickoff_time": "2026-09-18T19:00:00Z",
@@ -15110,7 +15110,7 @@
  {
   "code": 2645244,
   "event": 5,
-  "finished": false,
+  "finished": true,
   "finished_provisional": true,
   "id": 48,
   "kickoff_time": "2026-09-19T11:30:00Z",
@@ -15506,7 +15506,7 @@
  {
   "code": 2645237,
   "event": 5,
-  "finished": false,
+  "finished": true,
   "finished_provisional": true,
   "id": 42,
   "kickoff_time": "2026-09-19T14:00:00Z",
@@ -15892,7 +15892,7 @@
  {
   "code": 2645238,
   "event": 5,
-  "finished": false,
+  "finished": true,
   "finished_provisional": true,
   "id": 43,
   "kickoff_time": "2026-09-19T14:00:00Z",
@@ -16247,7 +16247,7 @@
  {
   "code": 2645242,
   "event": 5,
-  "finished": false,
+  "finished": true,
   "finished_provisional": true,
   "id": 46,
   "kickoff_time": "2026-09-19T14:00:00Z",
@@ -16633,7 +16633,7 @@
  {
   "code": 2645243,
   "event": 5,
-  "finished": false,
+  "finished": true,
   "finished_provisional": true,
   "id": 47,
   "kickoff_time": "2026-09-19T16:30:00Z",
@@ -16962,7 +16962,7 @@
  {
   "code": 2645235,
   "event": 5,
-  "finished": false,
+  "finished": true,
   "finished_provisional": true,
   "id": 49,
   "kickoff_time": "2026-09-20T13:00:00Z",
@@ -17304,7 +17304,7 @@
  {
   "code": 2645240,
   "event": 5,
-  "finished": false,
+  "finished": true,
   "finished_provisional": true,
   "id": 44,
   "kickoff_time": "2026-09-20T13:00:00Z",
@@ -17641,7 +17641,7 @@
  {
   "code": 2645241,
   "event": 5,
-  "finished": false,
+  "finished": true,
   "finished_provisional": true,
   "id": 45,
   "kickoff_time": "2026-09-20T13:00:00Z",
@@ -18001,7 +18001,7 @@
  {
   "code": 2645239,
   "event": 5,
-  "finished": false,
+  "finished": true,
   "finished_provisional": true,
   "id": 50,
   "kickoff_time": "2026-09-20T15:30:00Z",

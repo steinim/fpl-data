@@ -55,7 +55,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 366,Wirtz,Liverpool,MID,7.3,70,0,1,1,0,0,8,0,25,0,0,6
 411,Haaland,Man City,FWD,15.6,90,1,0,0,3,0,2,0,25,0,0,6
 519,Gallagher,Spurs,MID,5.3,6,1,0,0,0,0,4,0,24,0,0,6
-572,Tzolakis,Hull City,GKP,4.6,90,0,0,0,2,3,0,0,16,1,0,6
+572,Tzolakis,Hull City,GKP,4.7,90,0,0,0,2,3,0,0,16,1,0,6
 588,Khalaili,Crystal Palace,DEF,5.0,90,0,0,1,0,0,6,0,23,0,0,6
 598,Elvedi,Leeds,DEF,4.5,90,0,0,1,0,0,4,0,27,0,0,6
 617,Cho,Hull City,MID,5.0,27,1,0,0,0,0,0,0,25,0,0,6
@@ -420,7 +420,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 255,J.Cuenca,Fulham,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 256,Tete,Fulham,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 260,Wilson,Leeds,MID,6.2,0,0,0,0,0,0,0,0,0,0,0,0
-262,Smith Rowe,Fulham,MID,5.4,0,0,0,0,0,0,0,0,0,0,0,0
+262,Smith Rowe,Fulham,MID,5.3,0,0,0,0,0,0,0,0,0,0,0,0
 266,Cairney,Fulham,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 269,Sessegnon,Fulham,DEF,4.3,0,0,0,0,0,0,0,0,0,0,0,0
 270,Reed,Fulham,MID,4.4,0,0,0,0,0,0,0,0,0,0,0,0

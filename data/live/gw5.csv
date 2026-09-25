@@ -43,7 +43,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 109,Verbruggen,Brighton,GKP,4.5,90,0,0,1,0,2,0,0,27,0,0,6
 112,Van Hecke,Spurs,DEF,4.9,90,1,0,0,3,0,9,0,17,1,0,6
 114,Boscagli,Brighton,DEF,4.5,90,0,0,1,0,0,7,0,24,0,0,6
-115,De Cuyper,Brighton,DEF,4.9,90,0,0,1,0,0,7,1,30,1,0,6
+115,De Cuyper,Brighton,DEF,5.0,90,0,0,1,0,0,7,1,30,1,0,6
 166,N.Jackson,Aston Villa,FWD,6.5,87,1,0,0,1,0,4,1,31,1,0,6
 199,Benitez,Crystal Palace,GKP,4.5,90,0,0,1,0,2,0,0,26,0,0,6
 249,Barry,Everton,FWD,5.6,90,1,0,1,0,0,5,0,28,0,0,6
@@ -192,7 +192,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 4,Gabriel,Arsenal,DEF,8.0,90,0,0,0,3,0,9,0,6,0,0,1
 8,Calafiori,Arsenal,DEF,5.8,90,0,0,0,3,0,5,0,-3,0,0,1
 13,Rice,Arsenal,MID,7.4,90,0,0,0,3,0,8,0,13,1,0,1
-14,Eze,Arsenal,MID,6.3,17,0,0,0,0,0,0,0,5,0,0,1
+14,Eze,Arsenal,MID,6.2,17,0,0,0,0,0,0,0,5,0,0,1
 17,Merino,Arsenal,MID,5.8,30,0,0,0,0,0,4,0,4,0,0,1
 19,Zubimendi,Arsenal,MID,5.3,30,0,0,0,0,0,1,0,2,0,0,1
 20,Dowman,Arsenal,MID,5.3,9,0,0,0,0,0,0,0,4,0,0,1
@@ -348,7 +348,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 132,Howell,Brighton,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 133,Watson,Brighton,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 134,Oriola,Brighton,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-135,Yohanna,Brighton,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
+135,Yohanna,Brighton,MID,4.8,0,0,0,0,0,0,0,0,0,0,0,0
 137,Tzimas,Brighton,FWD,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 139,Ferguson,Brighton,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 140,Sánchez,Chelsea,GKP,4.9,0,0,0,0,0,0,0,0,0,0,0,0
@@ -614,7 +614,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 590,Benda,Nott'm Forest,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 593,Dedić,Newcastle,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 594,David,Brighton,FWD,5.9,0,0,0,0,0,0,0,0,0,0,0,0
-595,Gozo,Crystal Palace,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
+595,Gozo,Crystal Palace,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 599,Cherif,Coventry City,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 600,Osman,Brighton,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 601,Williams-Barnett,Spurs,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0

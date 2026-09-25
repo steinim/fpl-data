@@ -1097,7 +1097,7 @@
   "team_a_difficulty": 3,
   "team_a_score": 0,
   "team_h": 9,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": 2
  },
  {
@@ -1469,7 +1469,7 @@
   "team_a_difficulty": 2,
   "team_a_score": 1,
   "team_h": 12,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": 2
  },
  {
@@ -1798,7 +1798,7 @@
   "team_a_difficulty": 3,
   "team_a_score": 1,
   "team_h": 18,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": 0
  },
  {
@@ -2169,7 +2169,7 @@
   "team_a_difficulty": 3,
   "team_a_score": 0,
   "team_h": 4,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": 3
  },
  {
@@ -2549,7 +2549,7 @@
    }
   ],
   "team_a": 2,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": 0,
   "team_h": 5,
   "team_h_difficulty": 3,
@@ -5583,7 +5583,7 @@
   "team_a_difficulty": 3,
   "team_a_score": 2,
   "team_h": 19,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": 0
  },
  {
@@ -5973,7 +5973,7 @@
   "team_a_difficulty": 4,
   "team_a_score": 3,
   "team_h": 6,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": 4
  },
  {
@@ -7440,7 +7440,7 @@
    }
   ],
   "team_a": 1,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": 1,
   "team_h": 2,
   "team_h_difficulty": 4,
@@ -8523,7 +8523,7 @@
   "team_a_difficulty": 3,
   "team_a_score": 1,
   "team_h": 4,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": 1
  },
  {
@@ -8865,10 +8865,10 @@
    }
   ],
   "team_a": 13,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": 1,
   "team_h": 5,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": 1
  },
  {
@@ -9234,7 +9234,7 @@
   "team_a_difficulty": 3,
   "team_a_score": 3,
   "team_h": 10,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": 2
  },
  {
@@ -9924,7 +9924,7 @@
   "team_a_difficulty": 3,
   "team_a_score": 0,
   "team_h": 18,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": 0
  },
  {
@@ -11403,7 +11403,7 @@
    }
   ],
   "team_a": 18,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": 2,
   "team_h": 2,
   "team_h_difficulty": 3,
@@ -14015,7 +14015,7 @@
   "team_a_difficulty": 2,
   "team_a_score": 5,
   "team_h": 7,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": 0
  },
  {
@@ -14751,7 +14751,7 @@
   "team_a_difficulty": 3,
   "team_a_score": 1,
   "team_h": 13,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": 4
  },
  {
@@ -15883,7 +15883,7 @@
    }
   ],
   "team_a": 1,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": 0,
   "team_h": 5,
   "team_h_difficulty": 4,
@@ -17635,7 +17635,7 @@
   "team_a_difficulty": 3,
   "team_a_score": 0,
   "team_h": 13,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": 0
  },
  {
@@ -17995,7 +17995,7 @@
   "team_a_difficulty": 5,
   "team_a_score": 3,
   "team_h": 15,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": 5
  },
  {
@@ -18378,7 +18378,7 @@
   "team_a_difficulty": 5,
   "team_a_score": null,
   "team_h": 1,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -18394,7 +18394,7 @@
   "started": false,
   "stats": [],
   "team_a": 4,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
   "team_h_difficulty": 3,
@@ -18454,7 +18454,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 20,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -18473,7 +18473,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 16,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -18549,7 +18549,7 @@
   "team_a_difficulty": 2,
   "team_a_score": null,
   "team_h": 7,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -18663,7 +18663,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 3,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -18679,10 +18679,10 @@
   "started": false,
   "stats": [],
   "team_a": 8,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 5,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -18774,7 +18774,7 @@
   "started": false,
   "stats": [],
   "team_a": 15,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
   "team_h_difficulty": 4,
@@ -18834,7 +18834,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 6,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -18853,7 +18853,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 8,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -18891,7 +18891,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 14,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -18929,7 +18929,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 20,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -18967,7 +18967,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 3,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -19005,7 +19005,7 @@
   "team_a_difficulty": 2,
   "team_a_score": null,
   "team_h": 7,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -19043,7 +19043,7 @@
   "team_a_difficulty": 5,
   "team_a_score": null,
   "team_h": 15,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -19062,7 +19062,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 19,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -19078,7 +19078,7 @@
   "started": false,
   "stats": [],
   "team_a": 10,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
   "team_h_difficulty": 2,
@@ -19157,7 +19157,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 13,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -19195,7 +19195,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 10,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -19230,7 +19230,7 @@
   "started": false,
   "stats": [],
   "team_a": 4,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 5,
   "team_h_difficulty": 3,
@@ -19344,10 +19344,10 @@
   "started": false,
   "stats": [],
   "team_a": 20,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -19385,7 +19385,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 6,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -19404,7 +19404,7 @@
   "team_a_difficulty": 2,
   "team_a_score": null,
   "team_h": 7,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -19461,7 +19461,7 @@
   "team_a_difficulty": 2,
   "team_a_score": null,
   "team_h": 11,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -19610,10 +19610,10 @@
   "started": false,
   "stats": [],
   "team_a": 17,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 5,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -19670,7 +19670,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 20,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -19705,7 +19705,7 @@
   "started": false,
   "stats": [],
   "team_a": 9,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
   "team_h_difficulty": 3,
@@ -19727,7 +19727,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 3,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -19765,7 +19765,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 6,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -19822,7 +19822,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 14,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -19841,7 +19841,7 @@
   "team_a_difficulty": 5,
   "team_a_score": null,
   "team_h": 15,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -19895,10 +19895,10 @@
   "started": false,
   "stats": [],
   "team_a": 8,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -20031,7 +20031,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 17,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -20050,7 +20050,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 18,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -20104,7 +20104,7 @@
   "started": false,
   "stats": [],
   "team_a": 9,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 5,
   "team_h_difficulty": 3,
@@ -20183,7 +20183,7 @@
   "team_a_difficulty": 2,
   "team_a_score": null,
   "team_h": 11,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -20202,7 +20202,7 @@
   "team_a_difficulty": 2,
   "team_a_score": null,
   "team_h": 12,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -20221,7 +20221,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 14,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -20316,7 +20316,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 4,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -20332,7 +20332,7 @@
   "started": false,
   "stats": [],
   "team_a": 12,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 5,
   "team_h_difficulty": 2,
@@ -20392,7 +20392,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 14,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -20449,7 +20449,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 20,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -20465,10 +20465,10 @@
   "started": false,
   "stats": [],
   "team_a": 13,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -20487,7 +20487,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 9,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -20506,7 +20506,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 10,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -20658,7 +20658,7 @@
   "team_a_difficulty": 2,
   "team_a_score": null,
   "team_h": 11,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -20677,7 +20677,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 19,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -20772,7 +20772,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 16,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -20807,7 +20807,7 @@
   "started": false,
   "stats": [],
   "team_a": 14,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
   "team_h_difficulty": 4,
@@ -20864,7 +20864,7 @@
   "started": false,
   "stats": [],
   "team_a": 16,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 5,
   "team_h_difficulty": 4,
@@ -20905,7 +20905,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 4,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -21000,7 +21000,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 6,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -21019,7 +21019,7 @@
   "team_a_difficulty": 5,
   "team_a_score": null,
   "team_h": 15,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -21054,7 +21054,7 @@
   "started": false,
   "stats": [],
   "team_a": 3,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 5,
   "team_h_difficulty": 3,
@@ -21152,7 +21152,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 10,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -21209,7 +21209,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 16,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -21225,7 +21225,7 @@
   "started": false,
   "stats": [],
   "team_a": 16,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
   "team_h_difficulty": 4,
@@ -21266,7 +21266,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 4,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -21285,7 +21285,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 6,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -21342,7 +21342,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 14,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -21399,7 +21399,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 19,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -21418,7 +21418,7 @@
   "team_a_difficulty": 5,
   "team_a_score": null,
   "team_h": 1,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -21434,7 +21434,7 @@
   "started": false,
   "stats": [],
   "team_a": 15,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 5,
   "team_h_difficulty": 4,
@@ -21456,7 +21456,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 8,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -21605,7 +21605,7 @@
   "started": false,
   "stats": [],
   "team_a": 12,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
   "team_h_difficulty": 2,
@@ -21684,7 +21684,7 @@
   "team_a_difficulty": 2,
   "team_a_score": null,
   "team_h": 7,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -21703,7 +21703,7 @@
   "team_a_difficulty": 2,
   "team_a_score": null,
   "team_h": 11,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -21760,7 +21760,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 17,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -21779,7 +21779,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 19,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -21814,7 +21814,7 @@
   "started": false,
   "stats": [],
   "team_a": 11,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 5,
   "team_h_difficulty": 2,
@@ -21855,7 +21855,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 9,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -21893,7 +21893,7 @@
   "team_a_difficulty": 2,
   "team_a_score": null,
   "team_h": 12,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -21985,7 +21985,7 @@
   "started": false,
   "stats": [],
   "team_a": 3,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
   "team_h_difficulty": 3,
@@ -22045,7 +22045,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 9,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -22083,7 +22083,7 @@
   "team_a_difficulty": 2,
   "team_a_score": null,
   "team_h": 11,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -22121,7 +22121,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 16,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -22197,7 +22197,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 3,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -22232,10 +22232,10 @@
   "started": false,
   "stats": [],
   "team_a": 19,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 5,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -22311,7 +22311,7 @@
   "team_a_difficulty": 5,
   "team_a_score": null,
   "team_h": 15,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -22365,7 +22365,7 @@
   "started": false,
   "stats": [],
   "team_a": 6,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
   "team_h_difficulty": 4,
@@ -22406,7 +22406,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 8,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -22444,7 +22444,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 10,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -22482,7 +22482,7 @@
   "team_a_difficulty": 2,
   "team_a_score": null,
   "team_h": 12,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -22558,7 +22558,7 @@
   "team_a_difficulty": 5,
   "team_a_score": null,
   "team_h": 1,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -22577,7 +22577,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 3,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -22612,7 +22612,7 @@
   "started": false,
   "stats": [],
   "team_a": 10,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 5,
   "team_h_difficulty": 2,
@@ -22710,7 +22710,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 18,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -22745,7 +22745,7 @@
   "started": false,
   "stats": [],
   "team_a": 11,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
   "team_h_difficulty": 2,
@@ -22767,7 +22767,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 3,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -22843,7 +22843,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 13,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -22938,7 +22938,7 @@
   "team_a_difficulty": 5,
   "team_a_score": null,
   "team_h": 1,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -22973,7 +22973,7 @@
   "started": false,
   "stats": [],
   "team_a": 7,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 5,
   "team_h_difficulty": 2,
@@ -22995,7 +22995,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 9,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -23052,7 +23052,7 @@
   "team_a_difficulty": 2,
   "team_a_score": null,
   "team_h": 12,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -23090,7 +23090,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 17,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -23125,10 +23125,10 @@
   "started": false,
   "stats": [],
   "team_a": 5,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -23242,7 +23242,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 14,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -23337,7 +23337,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 4,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -23353,7 +23353,7 @@
   "started": false,
   "stats": [],
   "team_a": 6,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 5,
   "team_h_difficulty": 4,
@@ -23394,7 +23394,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 10,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -23451,7 +23451,7 @@
   "team_a_difficulty": 5,
   "team_a_score": null,
   "team_h": 15,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -23470,7 +23470,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 17,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -23505,7 +23505,7 @@
   "started": false,
   "stats": [],
   "team_a": 7,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
   "team_h_difficulty": 2,
@@ -23584,7 +23584,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 9,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -23622,7 +23622,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 16,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -23660,7 +23660,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 18,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -23698,7 +23698,7 @@
   "team_a_difficulty": 5,
   "team_a_score": null,
   "team_h": 1,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -23714,7 +23714,7 @@
   "started": false,
   "stats": [],
   "team_a": 18,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 5,
   "team_h_difficulty": 3,
@@ -23812,7 +23812,7 @@
   "team_a_difficulty": 2,
   "team_a_score": null,
   "team_h": 12,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -23869,7 +23869,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 20,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -23923,10 +23923,10 @@
   "started": false,
   "stats": [],
   "team_a": 20,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 5,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -24040,7 +24040,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 18,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -24094,10 +24094,10 @@
   "started": false,
   "stats": [],
   "team_a": 17,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -24135,7 +24135,7 @@
   "team_a_difficulty": 2,
   "team_a_score": null,
   "team_h": 7,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -24154,7 +24154,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 8,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -24230,7 +24230,7 @@
   "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 16,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -24303,7 +24303,7 @@
   "started": false,
   "stats": [],
   "team_a": 14,
-  "team_a_difficulty": 3,
+  "team_a_difficulty": 4,
   "team_a_score": null,
   "team_h": 5,
   "team_h_difficulty": 4,
@@ -24363,7 +24363,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 13,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -24401,7 +24401,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 17,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -24458,7 +24458,7 @@
   "team_a_difficulty": 5,
   "team_a_score": null,
   "team_h": 1,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -24474,10 +24474,10 @@
   "started": false,
   "stats": [],
   "team_a": 19,
-  "team_a_difficulty": 4,
+  "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 2,
-  "team_h_difficulty": 3,
+  "team_h_difficulty": 2,
   "team_h_score": null
  },
  {
@@ -24534,7 +24534,7 @@
   "team_a_difficulty": 3,
   "team_a_score": null,
   "team_h": 8,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {
@@ -24553,7 +24553,7 @@
   "team_a_difficulty": 2,
   "team_a_score": null,
   "team_h": 11,
-  "team_h_difficulty": 2,
+  "team_h_difficulty": 3,
   "team_h_score": null
  },
  {

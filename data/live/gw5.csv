@@ -46,7 +46,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 115,De Cuyper,Brighton,DEF,5.0,90,0,0,1,0,0,7,1,30,1,0,6
 166,N.Jackson,Aston Villa,FWD,6.5,87,1,0,0,1,0,4,1,31,1,0,6
 199,Benitez,Crystal Palace,GKP,4.5,90,0,0,1,0,2,0,0,26,0,0,6
-249,Barry,Everton,FWD,5.6,90,1,0,1,0,0,5,0,28,0,0,6
+249,Barry,Everton,FWD,5.7,90,1,0,1,0,0,5,0,28,0,0,6
 257,Bassey,Fulham,DEF,4.5,90,0,1,0,1,0,8,1,26,0,0,6
 331,Gudmundsson,Leeds,DEF,4.5,90,0,0,1,0,0,5,0,27,0,0,6
 334,Muharemović,Leeds,DEF,5.0,90,0,0,1,0,0,8,0,22,0,0,6
@@ -372,7 +372,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 165,João Pedro,Chelsea,FWD,7.7,0,0,0,0,0,0,0,0,0,0,0,0
 168,Marc Guiu,Chelsea,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 169,Mheuka,Chelsea,FWD,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-170,Emegha,Chelsea,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
+170,Emegha,Chelsea,FWD,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 171,Dovin,Coventry City,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 172,Wilson,Coventry City,GKP,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 174,Kitching,Coventry City,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0

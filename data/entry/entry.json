@@ -142,7 +142,7 @@
     "entry_can_leave": false,
     "entry_last_rank": 1072420,
     "entry_percentile_rank": 25,
-    "entry_rank": 1937293,
+    "entry_rank": 1937291,
     "featured_entry_ids": [],
     "has_cup": false,
     "id": 276,
@@ -188,7 +188,7 @@
     "entry_can_leave": false,
     "entry_last_rank": 1072431,
     "entry_percentile_rank": 20,
-    "entry_rank": 1937685,
+    "entry_rank": 1937683,
     "featured_entry_ids": [],
     "has_cup": true,
     "id": 314,
@@ -686,8 +686,8 @@
  "player_region_name": "Norway",
  "started_event": 1,
  "summary_event_points": 36,
- "summary_event_rank": 9175546,
+ "summary_event_rank": 9175537,
  "summary_overall_points": 329,
- "summary_overall_rank": 1937685,
+ "summary_overall_rank": 1937683,
  "years_active": 6
 }

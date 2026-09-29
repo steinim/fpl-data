@@ -50,7 +50,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 257,Bassey,Fulham,DEF,4.5,90,0,1,0,1,0,8,1,26,0,0,6
 331,Gudmundsson,Leeds,DEF,4.5,90,0,0,1,0,0,5,0,27,0,0,6
 334,Muharemović,Leeds,DEF,5.0,90,0,0,1,0,0,8,0,22,0,0,6
-358,Kerkez,Liverpool,DEF,5.4,90,0,0,1,0,0,7,0,22,0,0,6
+358,Kerkez,Liverpool,DEF,5.3,90,0,0,1,0,0,7,0,22,0,0,6
 362,Jacquet,Liverpool,DEF,5.0,90,0,0,1,0,0,8,0,26,0,0,6
 366,Wirtz,Liverpool,MID,7.3,70,0,1,1,0,0,8,0,25,0,0,6
 411,Haaland,Man City,FWD,15.6,90,1,0,0,3,0,2,0,25,0,0,6
@@ -302,7 +302,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 27,G.Jesus,Arsenal,FWD,5.9,0,0,0,0,0,0,0,0,0,0,0,0
 29,M.Bizot,Aston Villa,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 30,Digne,Aston Villa,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-34,Pau,Aston Villa,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
+34,Pau,Aston Villa,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 35,Bogarde,Aston Villa,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 36,Maatsen,Aston Villa,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 38,A.García,Aston Villa,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -388,7 +388,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 189,Shepherd,Coventry City,MID,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 191,Borges Rodrigues,Coventry City,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 192,Andrews,Coventry City,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-193,Wright,Coventry City,FWD,5.4,0,0,0,0,0,0,0,0,0,0,0,0
+193,Wright,Coventry City,FWD,5.3,0,0,0,0,0,0,0,0,0,0,0,0
 196,Markelo,Coventry City,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 197,Bassette,Coventry City,FWD,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 198,Henderson,Crystal Palace,GKP,5.0,0,0,0,0,0,0,0,0,0,0,0,0

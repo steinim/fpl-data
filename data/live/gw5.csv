@@ -155,7 +155,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 316,Emersonn,Ipswich Town,FWD,5.5,80,0,0,0,1,0,1,0,9,0,0,2
 345,Tanaka,Leeds,MID,4.9,67,0,0,1,0,0,5,0,0,1,0,2
 346,Calvert-Lewin,Leeds,FWD,6.0,90,0,0,1,0,0,8,0,7,0,0,2
-368,Szoboszlai,Liverpool,MID,7.0,80,0,0,1,0,0,6,0,5,1,0,2
+368,Szoboszlai,Liverpool,MID,6.9,80,0,0,1,0,0,6,0,5,1,0,2
 384,Donnarumma,Man City,GKP,5.5,90,0,0,0,3,4,0,0,9,0,0,2
 401,Marmoush,Spurs,FWD,7.0,90,0,0,0,3,0,4,0,8,0,0,2
 403,Sávio,Spurs,MID,6.5,90,0,0,0,3,0,5,0,29,0,0,2
@@ -257,7 +257,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 474,Jair Cunha,Nott'm Forest,DEF,4.5,90,0,0,0,1,0,8,0,5,1,0,1
 478,Netz,Nott'm Forest,DEF,4.4,7,0,0,0,0,0,0,0,5,0,0,1
 483,Ndoye,Nott'm Forest,MID,5.5,58,0,0,0,1,0,1,0,3,0,0,1
-488,I.Sangaré,Nott'm Forest,MID,4.9,7,0,0,0,0,0,0,0,3,0,0,1
+488,I.Sangaré,Nott'm Forest,MID,4.8,7,0,0,0,0,0,0,0,3,0,0,1
 490,Wood,Nott'm Forest,FWD,5.8,17,0,0,0,0,0,0,0,4,0,0,1
 491,Igor Jesus,Nott'm Forest,FWD,5.8,31,0,0,0,0,0,3,0,4,0,0,1
 499,Pedro Porro,Spurs,DEF,5.4,18,0,0,0,0,0,1,0,4,0,0,1
@@ -391,7 +391,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 193,Wright,Coventry City,FWD,5.3,0,0,0,0,0,0,0,0,0,0,0,0
 196,Markelo,Coventry City,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 197,Bassette,Coventry City,FWD,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-198,Henderson,Crystal Palace,GKP,5.0,0,0,0,0,0,0,0,0,0,0,0,0
+198,Henderson,Crystal Palace,GKP,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 205,Sosa,Crystal Palace,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 206,Chadi Riad,Crystal Palace,DEF,4.3,0,0,0,0,0,0,0,0,0,0,0,0
 207,Mingueza,Crystal Palace,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
@@ -469,13 +469,13 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 327,Bijol,Leeds,DEF,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 329,Rodon,Leeds,DEF,4.3,0,0,0,0,0,0,0,0,0,0,0,0
 333,Bornauw,Leeds,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-339,Longstaff,Leeds,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
+339,Longstaff,Leeds,MID,4.8,0,0,0,0,0,0,0,0,0,0,0,0
 341,Gnonto,Leeds,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 342,Harrison,Leeds,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 344,Gruev,Leeds,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 348,Piroe,Leeds,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 349,Mateo Joseph,Leeds,FWD,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-351,Mamardashvili,Liverpool,GKP,4.9,0,0,0,0,0,0,0,0,0,0,0,0
+351,Mamardashvili,Liverpool,GKP,4.8,0,0,0,0,0,0,0,0,0,0,0,0
 352,Woodman,Liverpool,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 353,Pecsi,Liverpool,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 354,Jaros,Liverpool,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -497,7 +497,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 382,Danns,Liverpool,FWD,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 383,Elliott,Liverpool,MID,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 386,Bettinelli,Man City,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-392,Aït-Nouri,Man City,DEF,5.3,0,0,0,0,0,0,0,0,0,0,0,0
+392,Aït-Nouri,Man City,DEF,5.2,0,0,0,0,0,0,0,0,0,0,0,0
 393,Khusanov,Man City,DEF,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 394,Alleyne,Man City,DEF,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 395,Lewis,Man City,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0

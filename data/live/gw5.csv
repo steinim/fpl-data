@@ -403,7 +403,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 218,Doucouré,Crystal Palace,MID,4.8,0,0,0,0,0,0,0,0,0,0,0,0
 219,J.Rak-Sakyi,Crystal Palace,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 220,Cardines,Crystal Palace,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-221,Drakes-Thomas,Crystal Palace,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
+221,Drakes-Thomas,Crystal Palace,MID,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 223,Mateta,Crystal Palace,FWD,6.3,0,0,0,0,0,0,0,0,0,0,0,0
 225,Uche,Crystal Palace,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 227,Travers,Everton,GKP,5.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -513,7 +513,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 410,Monga,Man City,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 413,Bayindir,Man Utd,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 414,Heaton,Man Utd,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
-416,De Ligt,Man Utd,DEF,5.0,0,0,0,0,0,0,0,0,0,0,0,0
+416,De Ligt,Man Utd,DEF,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 419,Martinez,Man Utd,DEF,4.9,90,0,0,0,1,0,4,0,6,0,0,0
 420,Yoro,Man Utd,DEF,4.8,0,0,0,0,0,0,0,0,0,0,0,0
 421,Heaven,Man Utd,DEF,4.3,0,0,0,0,0,0,0,0,0,0,0,0

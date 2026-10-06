@@ -122,7 +122,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 596,Ruggeri,Aston Villa,DEF,4.5,90,0,0,0,2,0,13,0,11,0,0,3
 627,Barcola,Liverpool,MID,8.0,71,0,0,1,0,0,3,0,8,0,0,3
 644,Timber,Crystal Palace,MID,5.0,90,0,0,1,0,0,5,0,13,0,0,3
-12,Saka,Arsenal,MID,9.5,80,0,0,0,3,0,2,0,14,0,0,2
+12,Saka,Arsenal,MID,9.6,80,0,0,0,3,0,2,0,14,0,0,2
 15,Ødegaard,Arsenal,MID,6.8,72,0,0,0,3,0,2,0,10,0,0,2
 26,Havertz,Arsenal,FWD,7.6,90,0,0,0,3,0,3,0,5,0,0,2
 28,Martinez,Chelsea,GKP,5.0,90,0,0,0,3,3,0,0,7,0,0,2
@@ -190,7 +190,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 642,Thomas,Hull City,MID,5.5,62,0,0,0,2,0,3,0,2,0,0,2
 1,Raya,Arsenal,GKP,6.1,90,0,0,0,3,2,0,0,6,0,0,1
 4,Gabriel,Arsenal,DEF,8.0,90,0,0,0,3,0,9,0,6,0,0,1
-8,Calafiori,Arsenal,DEF,5.8,90,0,0,0,3,0,5,0,-3,0,0,1
+8,Calafiori,Arsenal,DEF,5.9,90,0,0,0,3,0,5,0,-3,0,0,1
 13,Rice,Arsenal,MID,7.4,90,0,0,0,3,0,8,0,13,1,0,1
 14,Eze,Arsenal,MID,6.2,17,0,0,0,0,0,0,0,5,0,0,1
 17,Merino,Arsenal,MID,5.7,30,0,0,0,0,0,4,0,4,0,0,1
@@ -536,7 +536,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 450,Livramento,Newcastle,DEF,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 451,A.Murphy,Newcastle,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 454,Elanga,Newcastle,MID,6.1,0,0,0,0,0,0,0,0,0,0,0,0
-456,J.Ramsey,Newcastle,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
+456,J.Ramsey,Newcastle,MID,4.8,0,0,0,0,0,0,0,0,0,0,0,0
 458,Joelinton,Newcastle,MID,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 463,Woltemade,Newcastle,FWD,5.9,0,0,0,0,0,0,0,0,0,0,0,0
 464,Wissa,Newcastle,FWD,6.2,90,0,0,0,1,0,5,0,0,0,0,0

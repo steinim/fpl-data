@@ -450,7 +450,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 301,Palmer,Ipswich Town,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 302,Button,Ipswich Town,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 303,Kipré,Ipswich Town,DEF,3.9,0,0,0,0,0,0,0,0,0,0,0,0
-306,Greaves,Ipswich Town,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+306,Greaves,Ipswich Town,DEF,3.9,0,0,0,0,0,0,0,0,0,0,0,0
 307,Johnson,Ipswich Town,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 308,Furlong,Ipswich Town,DEF,3.9,0,0,0,0,0,0,0,0,0,0,0,0
 309,Núñez,Ipswich Town,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
@@ -630,7 +630,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 615,Di Gregorio,Bournemouth,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 616,Bouaddi,Man City,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 618,Goretzka,Aston Villa,MID,5.9,0,0,0,0,0,0,0,0,0,0,0,0
-621,McAidoo,Man City,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
+621,McAidoo,Man City,MID,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 622,Braithwaite,Man City,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 623,Bentley,Coventry City,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 624,Cozier-Duberry,Brighton,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0

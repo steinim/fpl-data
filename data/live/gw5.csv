@@ -164,7 +164,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 423,Shaw,Man Utd,DEF,4.3,83,0,0,0,1,0,3,0,7,0,0,2
 426,B.Fernandes,Man Utd,MID,11.9,90,0,0,0,1,0,6,0,15,0,0,2
 427,Mbeumo,Man Utd,MID,7.9,90,0,0,0,1,0,4,0,23,0,0,2
-429,Rashford,Man Utd,MID,7.0,76,0,0,0,1,0,2,0,15,0,0,2
+429,Rashford,Man Utd,MID,6.9,76,0,0,0,1,0,2,0,15,0,0,2
 455,Tonali,Spurs,MID,5.3,83,0,0,0,3,0,11,0,18,0,0,2
 467,Sels,Nott'm Forest,GKP,5.0,90,0,0,0,1,2,0,0,10,0,0,2
 469,N.Williams,Nott'm Forest,DEF,5.0,90,0,0,0,1,0,2,0,19,0,0,2
@@ -225,7 +225,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 232,O'Brien,Everton,DEF,4.8,1,0,0,0,0,0,1,0,3,0,0,1
 240,Iroegbunam,Hull City,MID,5.0,45,0,0,0,0,0,7,0,6,0,0,1
 242,George,Everton,MID,5.5,11,0,0,0,0,0,2,0,4,0,0,1
-245,Dibling,Everton,MID,5.4,24,0,0,0,0,0,0,0,10,0,0,1
+245,Dibling,Everton,MID,5.3,24,0,0,0,0,0,0,0,10,0,0,1
 247,Hackney,Everton,MID,5.4,1,0,0,0,0,0,0,0,3,0,0,1
 253,Andersen,Fulham,DEF,5.0,10,0,0,0,1,0,5,0,0,0,0,1
 258,Castagne,Fulham,DEF,4.5,90,0,0,0,1,0,9,0,3,1,0,1
@@ -394,7 +394,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 198,Henderson,Crystal Palace,GKP,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 205,Sosa,Crystal Palace,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 206,Chadi Riad,Crystal Palace,DEF,4.3,0,0,0,0,0,0,0,0,0,0,0,0
-207,Mingueza,Crystal Palace,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
+207,Mingueza,Crystal Palace,DEF,4.3,0,0,0,0,0,0,0,0,0,0,0,0
 212,Hughes,Crystal Palace,MID,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 213,Lerma,Crystal Palace,MID,4.8,45,0,0,0,0,0,11,0,3,1,0,0
 215,Devenny,Crystal Palace,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -554,7 +554,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 484,Hutchinson,Nott'm Forest,MID,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 485,Bakwa,Nott'm Forest,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 487,Dominguez,Nott'm Forest,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
-489,Yates,Nott'm Forest,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
+489,Yates,Nott'm Forest,MID,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 492,Awoniyi,Coventry City,FWD,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 493,Kalimuendo,Nott'm Forest,FWD,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 494,Vicario,Spurs,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0

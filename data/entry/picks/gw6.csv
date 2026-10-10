@@ -4,13 +4,13 @@ slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_poin
 3,Calafiori,Arsenal,DEF,1,False,False,81,9,9,22,1
 4,Egan,Hull City,DEF,1,False,False,0,0,0,0,0
 5,Gibbs-White,Nott'm Forest,MID,1,False,False,0,0,0,0,0
-6,B.Fernandes,Man Utd,MID,1,False,True,45,1,1,4,0
-7,Ødegaard,Arsenal,MID,1,False,False,89,1,1,10,0
-8,Mbeumo,Man Utd,MID,1,False,False,45,1,1,5,0
+6,B.Fernandes,Man Utd,MID,1,False,True,90,1,1,10,0
+7,Ødegaard,Arsenal,MID,1,False,False,89,1,1,12,0
+8,Mbeumo,Man Utd,MID,1,False,False,90,8,8,28,1
 9,Barry,Everton,FWD,1,False,False,0,0,0,0,0
 10,João Pedro,Chelsea,FWD,1,False,False,71,12,12,61,2
 11,Haaland,Man City,FWD,2,True,False,0,0,0,0,0
-12,Kinsky,Spurs,GKP,0,False,False,45,1,0,7,0
+12,Kinsky,Spurs,GKP,0,False,False,90,3,0,16,0
 13,Diop,Ipswich Town,DEF,0,False,False,90,2,0,20,0
 14,Slater,Hull City,MID,0,False,False,0,0,0,0,0
 15,N.Williams,Nott'm Forest,DEF,0,False,False,0,0,0,0,0

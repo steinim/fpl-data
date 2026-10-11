@@ -55,9 +55,9 @@ id,event,kickoff_time,home,away,home_score,away_score,finished,fdr_home,fdr_away
 57,6,2026-10-10T14:00:00Z,Ipswich Town,Fulham,2,1,False,2,2
 60,6,2026-10-10T14:00:00Z,Sunderland,Brighton,0,2,False,3,3
 59,6,2026-10-10T16:30:00Z,Man Utd,Spurs,1,1,False,2,4
-55,6,2026-10-11T13:00:00Z,Crystal Palace,Nott'm Forest,,,False,3,3
-56,6,2026-10-11T13:00:00Z,Hull City,Everton,,,False,3,2
-58,6,2026-10-11T15:30:00Z,Liverpool,Man City,,,False,4,4
+55,6,2026-10-11T13:00:00Z,Crystal Palace,Nott'm Forest,3,1,False,3,3
+56,6,2026-10-11T13:00:00Z,Hull City,Everton,2,2,False,3,2
+58,6,2026-10-11T15:30:00Z,Liverpool,Man City,0,3,False,4,4
 54,6,2026-10-12T19:00:00Z,Coventry City,Newcastle,,,False,3,2
 64,7,2026-10-17T11:30:00Z,Everton,Chelsea,,,False,4,3
 62,7,2026-10-17T14:00:00Z,Brentford,Liverpool,,,False,4,3

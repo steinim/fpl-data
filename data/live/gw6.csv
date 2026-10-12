@@ -1,7 +1,7 @@
 id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,saves,defensive_contribution,bonus,bps,yellow_cards,red_cards,total_points
 101,Henderson,Chelsea,MID,4.9,90,2,1,0,1,0,8,3,62,0,0,18
 115,De Cuyper,Brighton,DEF,5.1,67,1,0,1,0,0,3,3,36,0,0,15
-236,Dewsbury-Hall,Everton,MID,6.6,90,1,1,0,2,0,10,3,59,0,0,13
+236,Dewsbury-Hall,Everton,MID,6.6,90,1,1,0,2,0,10,3,60,0,0,13
 165,João Pedro,Chelsea,FWD,7.8,71,2,0,0,1,0,5,2,61,0,0,12
 400,Doku,Man City,MID,7.4,34,1,1,0,0,0,0,3,45,0,0,12
 304,O'Shea,Ipswich Town,DEF,4.0,90,1,0,0,1,0,9,3,26,0,0,11
@@ -21,7 +21,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 154,Palmer,Chelsea,MID,9.7,87,0,2,0,1,0,10,0,37,0,0,8
 213,Lerma,Crystal Palace,MID,4.8,71,1,0,0,1,0,12,0,24,1,0,8
 214,Kamada,Crystal Palace,MID,5.0,89,1,0,0,1,0,9,1,28,0,0,8
-340,Gelhardt,Hull City,MID,5.0,64,1,0,0,1,0,11,1,32,0,0,8
+340,Gelhardt,Hull City,MID,5.0,64,1,0,0,1,0,10,1,31,0,0,8
 427,Mbeumo,Man Utd,MID,7.9,90,1,0,0,1,0,2,1,28,0,0,8
 504,Vuskovic,Brighton,DEF,5.0,90,0,0,1,0,0,15,0,21,0,0,8
 13,Rice,Arsenal,MID,7.3,90,0,1,0,1,0,10,2,28,0,0,7
@@ -37,7 +37,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 87,Ajer,Brentford,DEF,4.5,90,1,0,0,2,0,9,0,22,1,0,6
 124,Groß,Brighton,MID,6.0,90,0,1,1,0,0,10,0,22,0,0,6
 249,Barry,Everton,FWD,5.7,85,1,0,0,2,0,3,0,24,0,0,6
-286,Belloumi,Hull City,MID,5.2,26,1,0,0,1,0,1,0,25,0,0,6
+286,Belloumi,Hull City,MID,5.2,26,1,0,0,1,0,2,0,25,0,0,6
 332,Justin,Leeds,DEF,4.5,78,1,0,0,2,0,6,0,12,1,0,6
 388,Guéhi,Man City,DEF,6.0,90,0,0,1,0,0,4,0,28,0,0,6
 389,Matheus N.,Man City,DEF,5.9,90,0,0,1,0,0,5,0,21,0,0,6
@@ -69,8 +69,8 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 391,Gvardiol,Man City,DEF,5.8,24,0,1,0,0,0,0,0,15,0,0,4
 432,Mainoo,Man Utd,MID,5.5,90,0,0,0,1,0,17,0,17,0,0,4
 486,McAtee,Nott'm Forest,MID,5.5,90,0,0,0,3,0,15,0,15,0,0,4
-576,Stroud,Hull City,MID,5.0,26,0,1,0,1,0,3,0,14,0,0,4
-649,Maitland-Niles,Everton,DEF,4.5,77,0,1,0,2,0,4,0,14,0,0,4
+576,Stroud,Hull City,MID,5.0,26,0,1,0,1,0,4,0,15,0,0,4
+649,Maitland-Niles,Everton,DEF,4.5,77,0,1,0,2,0,4,0,15,0,0,4
 1,Raya,Arsenal,GKP,6.1,90,0,0,0,1,4,0,0,18,0,0,3
 28,Martinez,Chelsea,GKP,5.0,90,0,0,0,1,3,0,0,16,0,0,3
 37,Lindelöf,Aston Villa,DEF,4.5,90,0,0,0,2,0,14,0,7,0,0,3

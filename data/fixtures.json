@@ -21160,7 +21160,7 @@
     "a": [
      {
       "element": 236,
-      "value": 59
+      "value": 60
      },
      {
       "element": 249,
@@ -21184,7 +21184,7 @@
      },
      {
       "element": 649,
-      "value": 14
+      "value": 15
      },
      {
       "element": 230,
@@ -21230,18 +21230,18 @@
      },
      {
       "element": 340,
-      "value": 32
+      "value": 31
      },
      {
       "element": 286,
       "value": 25
      },
      {
-      "element": 572,
-      "value": 14
+      "element": 576,
+      "value": 15
      },
      {
-      "element": 576,
+      "element": 572,
       "value": 14
      },
      {
@@ -21349,7 +21349,7 @@
      },
      {
       "element": 340,
-      "value": 11
+      "value": 10
      },
      {
       "element": 642,
@@ -21385,7 +21385,7 @@
      },
      {
       "element": 576,
-      "value": 3
+      "value": 4
      },
      {
       "element": 280,
@@ -21393,7 +21393,7 @@
      },
      {
       "element": 286,
-      "value": 1
+      "value": 2
      }
     ],
     "identifier": "defensive_contribution"

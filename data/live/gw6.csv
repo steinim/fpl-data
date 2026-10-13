@@ -41,7 +41,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 656,Mfuni,Coventry City,DEF,4.0,7,1,0,0,0,0,0,0,19,0,0,7
 87,Ajer,Brentford,DEF,4.5,90,1,0,0,2,0,9,0,22,1,0,6
 124,Groß,Brighton,MID,6.0,90,0,1,1,0,0,10,0,22,0,0,6
-175,van Ewijk,Coventry City,DEF,4.0,90,0,1,0,1,0,14,0,17,1,0,6
+175,van Ewijk,Coventry City,DEF,3.9,90,0,1,0,1,0,14,0,17,1,0,6
 195,Simms,Coventry City,FWD,4.9,12,1,0,0,0,0,0,1,29,0,0,6
 249,Barry,Everton,FWD,5.7,85,1,0,0,2,0,3,0,24,0,0,6
 286,Belloumi,Hull City,MID,5.2,26,1,0,0,1,0,2,0,25,0,0,6
@@ -202,7 +202,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 116,Dunk,Brighton,DEF,4.5,30,0,0,0,0,0,5,0,5,0,0,1
 119,Costinha,Brighton,DEF,4.5,22,0,0,0,0,0,0,0,2,0,0,1
 136,Welbeck,Chelsea,FWD,5.9,7,0,0,0,0,0,0,0,3,0,0,1
-138,Kostoulas,Brighton,FWD,5.6,59,0,0,0,0,0,7,0,9,0,0,1
+138,Kostoulas,Brighton,FWD,5.7,59,0,0,0,0,0,7,0,9,0,0,1
 144,Gusto,Chelsea,DEF,4.9,2,0,0,0,0,0,0,0,4,0,0,1
 152,Palestra,Chelsea,DEF,5.3,18,0,0,0,0,0,0,0,3,0,0,1
 157,Estêvão,Chelsea,MID,6.3,6,0,0,0,0,0,0,0,3,0,0,1
@@ -512,7 +512,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 410,Monga,Man City,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 413,Bayindir,Man Utd,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 414,Heaton,Man Utd,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
-415,Dorgu,Man Utd,MID,5.8,0,0,0,0,0,0,0,0,0,0,0,0
+415,Dorgu,Man Utd,MID,5.7,0,0,0,0,0,0,0,0,0,0,0,0
 416,De Ligt,Man Utd,DEF,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 417,Dalot,Man Utd,DEF,4.8,31,0,0,0,1,0,5,0,1,1,0,0
 422,Mazraoui,Man Utd,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
@@ -617,7 +617,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 593,Dedić,Newcastle,DEF,4.5,31,0,0,0,2,0,4,0,-3,0,0,0
 594,David,Brighton,FWD,5.9,0,0,0,0,0,0,0,0,0,0,0,0
 595,Gozo,Crystal Palace,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
-600,Osman,Brighton,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
+600,Osman,Brighton,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 601,Williams-Barnett,Spurs,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 602,Humphreys,Ipswich Town,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 603,Lienou,Leeds,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0

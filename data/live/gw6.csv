@@ -161,7 +161,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 467,Sels,Nott'm Forest,GKP,5.0,90,0,0,0,3,4,0,0,13,0,0,2
 472,Murillo,Nott'm Forest,DEF,5.5,90,0,0,0,3,0,10,0,5,1,0,2
 480,Gibbs-White,Nott'm Forest,MID,8.0,90,0,0,0,3,0,8,0,23,0,0,2
-498,Senesi,Spurs,DEF,5.8,88,0,0,0,1,0,3,0,12,0,0,2
+498,Senesi,Spurs,DEF,5.7,88,0,0,0,1,0,3,0,12,0,0,2
 506,Udogie,Spurs,DEF,4.4,73,0,0,0,1,0,6,0,5,0,0,2
 536,Reinildo,Sunderland,DEF,4.4,72,0,0,0,1,0,7,0,14,0,0,2
 542,E.Le Fée,Sunderland,MID,5.7,80,0,0,0,1,0,4,0,14,0,0,2
@@ -209,7 +209,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 161,Lavia,Chelsea,MID,5.0,18,0,0,0,0,0,3,0,6,0,0,1
 185,Sakamoto,Coventry City,MID,4.8,29,0,0,0,1,0,5,0,5,0,0,1
 188,Torp,Coventry City,MID,5.3,7,0,0,0,0,0,1,0,4,0,0,1
-201,Muñoz,Nott'm Forest,DEF,5.4,90,0,0,0,3,0,8,0,-3,0,0,1
+201,Muñoz,Nott'm Forest,DEF,5.3,90,0,0,0,3,0,8,0,-3,0,0,1
 208,Sarr,Crystal Palace,MID,6.2,7,0,0,0,0,0,2,0,3,0,0,1
 224,Nketiah,Crystal Palace,FWD,5.5,7,0,0,0,0,0,0,0,2,0,0,1
 226,Pickford,Everton,GKP,5.5,90,0,0,0,2,2,0,0,9,0,0,1
@@ -343,7 +343,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 96,Damsgaard,Brentford,MID,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 99,Milambo,Brentford,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 100,Carvalho,Brentford,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
-103,Dasilva,Brentford,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
+103,Dasilva,Brentford,MID,4.8,0,0,0,0,0,0,0,0,0,0,0,0
 107,Furo,Brentford,FWD,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 108,Wilson,Brentford,FWD,5.4,5,0,0,0,0,0,1,0,-1,1,0,0
 111,Steele,Brighton,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -515,7 +515,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 415,Dorgu,Man Utd,MID,5.7,0,0,0,0,0,0,0,0,0,0,0,0
 416,De Ligt,Man Utd,DEF,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 417,Dalot,Man Utd,DEF,4.8,31,0,0,0,1,0,5,0,1,1,0,0
-422,Mazraoui,Man Utd,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
+422,Mazraoui,Man Utd,DEF,4.3,0,0,0,0,0,0,0,0,0,0,0,0
 424,Amass,Man Utd,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 425,Fredricson,Man Utd,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 430,Mount,Man Utd,MID,5.4,0,0,0,0,0,0,0,0,0,0,0,0
@@ -560,7 +560,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 494,Vicario,Spurs,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 495,Austin,Spurs,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 497,Dubravka,Spurs,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
-499,Pedro Porro,Spurs,DEF,5.4,0,0,0,0,0,0,0,0,0,0,0,0
+499,Pedro Porro,Spurs,DEF,5.3,0,0,0,0,0,0,0,0,0,0,0,0
 500,Romero,Spurs,DEF,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 502,Robertson,Spurs,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 505,Spence,Spurs,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0

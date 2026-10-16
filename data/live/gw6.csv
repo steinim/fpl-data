@@ -525,7 +525,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 436,Collyer,Man Utd,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 437,Bendito Mantato,Man Utd,MID,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 438,Fletcher,Man Utd,MID,4.4,0,0,0,0,0,0,0,0,0,0,0,0
-439,Šeško,Man Utd,FWD,7.0,0,0,0,0,0,0,0,0,0,0,0,0
+439,Šeško,Man Utd,FWD,6.9,0,0,0,0,0,0,0,0,0,0,0,0
 441,Obi,Man Utd,FWD,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 442,Pope,Newcastle,GKP,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 443,Gillespie,Newcastle,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
@@ -555,7 +555,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 485,Bakwa,Nott'm Forest,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 487,Dominguez,Nott'm Forest,MID,4.8,0,0,0,0,0,0,0,0,0,0,0,0
 489,Yates,Nott'm Forest,MID,4.4,0,0,0,0,0,0,0,0,0,0,0,0
-491,Igor Jesus,Nott'm Forest,FWD,5.8,0,0,0,0,0,0,0,0,0,0,0,0
+491,Igor Jesus,Nott'm Forest,FWD,5.7,0,0,0,0,0,0,0,0,0,0,0,0
 492,Awoniyi,Coventry City,FWD,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 494,Vicario,Spurs,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 495,Austin,Spurs,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -595,7 +595,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 554,Van Oevelen,Ipswich Town,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 555,Matthews,Crystal Palace,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 556,Targett,Hull City,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
-557,Tzolis,Arsenal,MID,6.3,0,0,0,0,0,0,0,0,0,0,0,0
+557,Tzolis,Arsenal,MID,6.2,0,0,0,0,0,0,0,0,0,0,0,0
 559,Bamba,Newcastle,MID,4.8,0,0,0,0,0,0,0,0,0,0,0,0
 560,Penders,Chelsea,GKP,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 561,Anselmino,Chelsea,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0

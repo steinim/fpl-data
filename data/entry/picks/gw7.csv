@@ -2,15 +2,15 @@ slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_poin
 1,Verbruggen,Brighton,GKP,1,False,False,0,0,0,0,0
 2,Thomas,Coventry City,DEF,1,False,False,0,0,0,0,0
 3,Calafiori,Arsenal,DEF,1,False,False,0,0,0,0,0
-4,Egan,Hull City,DEF,1,False,False,82,4,4,6,0
+4,Egan,Hull City,DEF,1,False,False,90,4,4,8,0
 5,Groß,Brighton,MID,1,False,False,0,0,0,0,0
 6,B.Fernandes,Man Utd,MID,1,False,False,0,0,0,0,0
 7,Saka,Arsenal,MID,1,False,True,0,0,0,0,0
 8,Mbeumo,Man Utd,MID,1,False,False,0,0,0,0,0
 9,Barry,Everton,FWD,1,False,False,90,2,2,11,0
 10,João Pedro,Chelsea,FWD,1,False,False,90,2,2,4,0
-11,Haaland,Man City,FWD,2,True,False,79,13,26,62,3
+11,Haaland,Man City,FWD,2,True,False,90,13,26,71,3
 12,Kinsky,Spurs,GKP,0,False,False,0,0,0,0,0
-13,Davis,Ipswich Town,DEF,0,False,False,79,1,0,2,0
+13,Davis,Ipswich Town,DEF,0,False,False,90,0,0,-2,0
 14,Slater,Hull City,MID,0,False,False,74,1,0,7,0
-15,Diop,Ipswich Town,DEF,0,False,False,79,3,0,-3,0
+15,Diop,Ipswich Town,DEF,0,False,False,90,3,0,-2,0

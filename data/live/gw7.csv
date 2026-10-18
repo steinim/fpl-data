@@ -5,11 +5,11 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 79,Evanilson,Bournemouth,FWD,6.1,78,1,1,1,0,0,6,3,51,0,0,12
 138,Kostoulas,Brighton,FWD,5.7,70,1,1,1,0,0,5,3,49,0,0,12
 53,Manzambi,Aston Villa,MID,6.0,71,1,0,1,0,0,3,3,35,0,0,11
-114,Boscagli,Brighton,DEF,4.5,80,0,1,1,0,0,6,2,39,0,0,11
 148,Hato,Chelsea,DEF,4.5,90,0,1,1,0,0,2,2,35,0,0,11
 261,Iwobi,Fulham,MID,5.4,90,1,0,1,0,0,5,3,47,0,0,11
 504,Vuskovic,Brighton,DEF,5.1,90,0,1,1,0,0,12,0,36,0,0,11
 68,Tavernier,Bournemouth,MID,6.1,78,1,0,1,0,0,10,2,33,0,0,10
+114,Boscagli,Brighton,DEF,4.5,80,0,1,1,0,0,6,1,38,0,0,10
 1,Raya,Arsenal,GKP,6.1,90,0,0,1,0,2,0,3,29,0,0,9
 31,Konsa,Arsenal,DEF,4.6,90,0,0,1,0,0,5,3,29,0,0,9
 37,Lindelöf,Aston Villa,DEF,4.5,90,0,0,1,0,0,12,1,26,0,0,9
@@ -183,7 +183,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 161,Lavia,Chelsea,MID,5.0,1,0,0,0,0,0,3,0,3,0,0,1
 162,Andrey Santos,Man Utd,MID,4.7,90,0,0,0,1,0,5,0,14,1,0,1
 164,Quenda,Chelsea,MID,5.3,1,0,0,0,0,0,0,0,3,0,0,1
-199,Benitez,Crystal Palace,GKP,4.5,90,0,0,0,5,5,0,0,0,0,0,1
+199,Benitez,Crystal Palace,GKP,4.5,90,0,0,0,5,5,0,0,1,0,0,1
 209,Johnson,Everton,MID,5.9,5,0,0,0,1,0,0,0,0,0,0,1
 212,Hughes,Crystal Palace,MID,4.4,9,0,0,0,1,0,0,0,3,0,0,1
 213,Lerma,Crystal Palace,MID,4.8,37,0,0,0,1,0,7,0,4,0,0,1

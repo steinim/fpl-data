@@ -25147,7 +25147,7 @@
   "finished_provisional": false,
   "id": 69,
   "kickoff_time": "2026-10-18T15:30:00Z",
-  "minutes": 20,
+  "minutes": 50,
   "provisional_start_time": false,
   "pulse_id": 0,
   "started": true,
@@ -25200,62 +25200,61 @@
    {
     "a": [
      {
-      "element": 31,
+      "element": 4,
       "value": 3
      },
      {
-      "element": 13,
+      "element": 31,
+      "value": 2
+     },
+     {
+      "element": 452,
       "value": 2
      }
     ],
-    "h": [
-     {
-      "element": 472,
-      "value": 1
-     }
-    ],
+    "h": [],
     "identifier": "bonus"
    },
    {
     "a": [
      {
+      "element": 4,
+      "value": 13
+     },
+     {
       "element": 31,
-      "value": 11
+      "value": 12
+     },
+     {
+      "element": 452,
+      "value": 12
      },
      {
       "element": 13,
+      "value": 11
+     },
+     {
+      "element": 10,
+      "value": 10
+     },
+     {
+      "element": 15,
       "value": 10
      },
      {
       "element": 12,
-      "value": 5
-     },
-     {
-      "element": 452,
-      "value": 5
-     },
-     {
-      "element": 4,
-      "value": 4
-     },
-     {
-      "element": 26,
-      "value": 4
+      "value": 9
      },
      {
       "element": 1,
-      "value": 3
-     },
-     {
-      "element": 10,
-      "value": 3
+      "value": 5
      },
      {
       "element": 14,
-      "value": 3
+      "value": 4
      },
      {
-      "element": 15,
+      "element": 16,
       "value": 3
      },
      {
@@ -25266,14 +25265,14 @@
     "h": [
      {
       "element": 472,
-      "value": 7
+      "value": 9
      },
      {
       "element": 558,
-      "value": 6
+      "value": 8
      },
      {
-      "element": 486,
+      "element": 487,
       "value": 5
      },
      {
@@ -25285,11 +25284,11 @@
       "value": 4
      },
      {
-      "element": 474,
-      "value": 3
+      "element": 486,
+      "value": 4
      },
      {
-      "element": 487,
+      "element": 469,
       "value": 3
      },
      {
@@ -25301,7 +25300,7 @@
       "value": 2
      },
      {
-      "element": 469,
+      "element": 474,
       "value": 2
      },
      {
@@ -25314,54 +25313,74 @@
    {
     "a": [
      {
+      "element": 4,
+      "value": 8
+     },
+     {
       "element": 13,
       "value": 5
      },
      {
-      "element": 4,
+      "element": 452,
+      "value": 5
+     },
+     {
+      "element": 12,
       "value": 4
      },
      {
-      "element": 452,
-      "value": 2
+      "element": 31,
+      "value": 3
      },
      {
       "element": 8,
       "value": 1
      },
      {
-      "element": 12,
+      "element": 26,
       "value": 1
      }
     ],
     "h": [
      {
       "element": 558,
+      "value": 8
+     },
+     {
+      "element": 469,
       "value": 5
      },
      {
       "element": 472,
-      "value": 4
+      "value": 5
      },
      {
-      "element": 469,
-      "value": 3
+      "element": 487,
+      "value": 5
      },
      {
       "element": 486,
-      "value": 3
+      "value": 4
      },
      {
       "element": 167,
-      "value": 1
+      "value": 2
+     },
+     {
+      "element": 201,
+      "value": 2
+     },
+     {
+      "element": 474,
+      "value": 2
      },
      {
       "element": 483,
-      "value": 1
+      "value": 2
      },
      {
       "element": 581,
-      "value": 1
+      "value": 2
      }
     ],
     "identifier": "defensive_contribution"

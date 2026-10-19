@@ -13,4 +13,4 @@ slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_poin
 12,Kinsky,Spurs,GKP,0,False,False,0,0,0,0,0
 13,Davis,Ipswich Town,DEF,0,False,False,90,0,0,-2,0
 14,Slater,Hull City,MID,0,False,False,74,1,0,7,0
-15,Diop,Ipswich Town,DEF,0,False,False,90,3,0,-2,0
+15,Diop,Ipswich Town,DEF,0,False,False,90,3,0,0,0

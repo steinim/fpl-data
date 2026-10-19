@@ -68,7 +68,7 @@ id,event,kickoff_time,home,away,home_score,away_score,finished,fdr_home,fdr_away
 63,7,2026-10-18T13:00:00Z,Brighton,Crystal Palace,5,0,False,2,4
 66,7,2026-10-18T13:00:00Z,Leeds,Man Utd,1,1,False,4,3
 69,7,2026-10-18T15:30:00Z,Nott'm Forest,Arsenal,0,1,False,4,3
-70,7,2026-10-19T19:00:00Z,Spurs,Coventry City,,,False,2,3
+70,7,2026-10-19T19:00:00Z,Spurs,Coventry City,3,1,False,2,3
 77,8,2026-10-23T19:00:00Z,Ipswich Town,Nott'm Forest,,,False,3,2
 72,8,2026-10-24T11:30:00Z,Aston Villa,Man City,,,False,4,3
 71,8,2026-10-24T14:00:00Z,Arsenal,Everton,,,False,3,5

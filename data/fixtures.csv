@@ -59,16 +59,16 @@ id,event,kickoff_time,home,away,home_score,away_score,finished,fdr_home,fdr_away
 56,6,2026-10-11T13:00:00Z,Hull City,Everton,2,2,True,3,2
 58,6,2026-10-11T15:30:00Z,Liverpool,Man City,0,3,True,4,4
 54,6,2026-10-12T19:00:00Z,Coventry City,Newcastle,4,1,True,3,2
-64,7,2026-10-17T11:30:00Z,Everton,Chelsea,0,2,False,4,3
-62,7,2026-10-17T14:00:00Z,Brentford,Liverpool,1,2,False,4,3
-65,7,2026-10-17T14:00:00Z,Fulham,Hull City,1,0,False,2,3
-67,7,2026-10-17T14:00:00Z,Man City,Ipswich Town,3,2,False,2,5
-68,7,2026-10-17T16:30:00Z,Newcastle,Aston Villa,0,1,False,3,3
-61,7,2026-10-18T13:00:00Z,Bournemouth,Sunderland,2,0,False,3,3
-63,7,2026-10-18T13:00:00Z,Brighton,Crystal Palace,5,0,False,2,4
-66,7,2026-10-18T13:00:00Z,Leeds,Man Utd,1,1,False,4,3
-69,7,2026-10-18T15:30:00Z,Nott'm Forest,Arsenal,0,1,False,4,3
-70,7,2026-10-19T19:00:00Z,Spurs,Coventry City,3,1,False,2,3
+64,7,2026-10-17T11:30:00Z,Everton,Chelsea,0,2,True,4,3
+62,7,2026-10-17T14:00:00Z,Brentford,Liverpool,1,2,True,4,3
+65,7,2026-10-17T14:00:00Z,Fulham,Hull City,1,0,True,2,3
+67,7,2026-10-17T14:00:00Z,Man City,Ipswich Town,3,2,True,2,5
+68,7,2026-10-17T16:30:00Z,Newcastle,Aston Villa,0,1,True,3,3
+61,7,2026-10-18T13:00:00Z,Bournemouth,Sunderland,2,0,True,3,3
+63,7,2026-10-18T13:00:00Z,Brighton,Crystal Palace,5,0,True,2,4
+66,7,2026-10-18T13:00:00Z,Leeds,Man Utd,1,1,True,4,3
+69,7,2026-10-18T15:30:00Z,Nott'm Forest,Arsenal,0,1,True,4,3
+70,7,2026-10-19T19:00:00Z,Spurs,Coventry City,3,1,True,2,3
 77,8,2026-10-23T19:00:00Z,Ipswich Town,Nott'm Forest,,,False,3,2
 72,8,2026-10-24T11:30:00Z,Aston Villa,Man City,,,False,4,3
 71,8,2026-10-24T14:00:00Z,Arsenal,Everton,,,False,3,5

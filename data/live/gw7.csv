@@ -48,7 +48,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 116,Dunk,Brighton,DEF,4.5,89,0,0,1,0,0,9,0,29,0,0,6
 123,Hinshelwood,Brighton,MID,5.9,19,1,0,0,0,0,2,0,22,0,0,6
 149,Colwill,Chelsea,DEF,4.8,90,0,0,1,0,0,9,0,25,0,0,6
-183,Rudoni,Coventry City,MID,4.9,86,1,0,0,2,0,4,0,21,1,0,6
+183,Rudoni,Coventry City,MID,4.9,86,1,0,0,2,0,4,0,23,1,0,6
 200,Lacroix,Chelsea,DEF,5.9,90,0,0,1,0,0,8,0,28,0,0,6
 250,Leno,Fulham,GKP,4.5,90,0,0,1,0,0,0,0,27,0,0,6
 400,Doku,Man City,MID,7.5,76,0,1,0,1,0,4,1,31,0,0,6
@@ -76,7 +76,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 418,Maguire,Man Utd,DEF,4.8,90,0,0,0,1,0,11,0,16,0,0,4
 420,Yoro,Man Utd,DEF,4.8,90,0,0,0,1,0,11,0,8,0,0,4
 449,Hall,Newcastle,DEF,5.3,90,0,0,0,1,0,10,0,17,0,0,4
-455,Tonali,Spurs,MID,5.3,90,0,0,0,1,0,14,0,20,0,0,4
+455,Tonali,Spurs,MID,5.3,90,0,0,0,1,0,15,0,20,0,0,4
 526,Solanke,Spurs,FWD,5.8,90,0,1,0,1,0,9,0,9,1,0,4
 542,E.Le Fée,Sunderland,MID,5.7,90,0,0,0,2,0,12,0,14,0,0,4
 558,Schlager,Nott'm Forest,MID,5.0,90,0,0,0,1,0,14,0,16,0,0,4
@@ -90,7 +90,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 87,Ajer,Brentford,DEF,4.5,90,0,0,0,2,0,13,0,15,0,0,3
 101,Henderson,Chelsea,MID,4.9,90,0,0,1,0,0,2,0,12,0,0,3
 159,Caicedo,Chelsea,MID,5.3,90,0,0,1,0,0,4,0,12,0,0,3
-173,Thomas,Coventry City,DEF,4.0,90,0,0,0,3,0,11,0,-3,0,0,3
+173,Thomas,Coventry City,DEF,4.0,90,0,0,0,3,0,10,0,-3,0,0,3
 259,Diop,Ipswich Town,DEF,3.9,90,0,0,0,3,0,12,0,0,0,0,3
 264,Bobb,Fulham,MID,5.5,77,0,0,1,0,0,6,0,17,0,0,3
 304,O'Shea,Ipswich Town,DEF,4.0,90,0,0,0,3,0,13,0,1,0,0,3
@@ -115,7 +115,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 82,Kelleher,Brentford,GKP,5.0,90,0,0,0,2,3,0,0,8,0,0,2
 105,Anthony,Brentford,MID,5.9,76,0,0,0,2,0,3,0,9,0,0,2
 131,Baleba,Man Utd,MID,4.9,73,0,0,0,1,0,5,0,7,0,0,2
-147,Tosin,Spurs,DEF,4.4,70,0,0,0,1,0,4,0,10,0,0,2
+147,Tosin,Spurs,DEF,4.4,70,0,0,0,1,0,5,0,10,0,0,2
 154,Palmer,Chelsea,MID,9.7,90,0,0,1,0,0,3,0,16,1,0,2
 165,João Pedro,Chelsea,FWD,7.9,90,0,0,1,0,0,3,0,4,0,0,2
 166,N.Jackson,Aston Villa,FWD,6.6,90,0,0,1,0,0,3,0,10,0,0,2

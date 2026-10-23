@@ -27,7 +27,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 127,Gomez,Brighton,MID,5.0,90,1,0,1,0,0,9,0,32,0,0,8
 257,Bassey,Fulham,DEF,4.5,90,0,0,1,0,0,10,0,25,0,0,8
 258,Castagne,Fulham,DEF,4.5,90,0,0,1,0,0,6,2,32,0,0,8
-427,Mbeumo,Man Utd,MID,7.8,90,1,0,0,1,0,2,1,23,0,0,8
+427,Mbeumo,Man Utd,MID,7.9,90,1,0,0,1,0,2,1,23,0,0,8
 566,Silva,Bournemouth,DEF,5.0,90,0,0,1,0,0,12,1,27,1,0,8
 597,Suzuki,Aston Villa,GKP,5.0,90,0,0,1,0,1,0,2,27,0,0,8
 33,Mings,Aston Villa,DEF,4.5,90,0,0,1,0,0,7,1,26,0,0,7
@@ -73,7 +73,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 315,Fatawu,Ipswich Town,MID,5.4,19,0,1,0,0,0,4,0,21,0,0,4
 356,Virgil,Liverpool,DEF,6.4,90,0,0,0,1,0,13,0,15,0,0,4
 417,Dalot,Man Utd,DEF,4.8,90,0,0,0,1,0,12,0,15,0,0,4
-418,Maguire,Man Utd,DEF,4.8,90,0,0,0,1,0,11,0,16,0,0,4
+418,Maguire,Man Utd,DEF,4.7,90,0,0,0,1,0,11,0,16,0,0,4
 420,Yoro,Man Utd,DEF,4.8,90,0,0,0,1,0,11,0,8,0,0,4
 449,Hall,Newcastle,DEF,5.3,90,0,0,0,1,0,10,0,17,0,0,4
 455,Tonali,Spurs,MID,5.3,90,0,0,0,1,0,15,0,20,0,0,4
@@ -116,7 +116,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 105,Anthony,Brentford,MID,5.9,76,0,0,0,2,0,3,0,9,0,0,2
 131,Baleba,Man Utd,MID,4.9,73,0,0,0,1,0,5,0,7,0,0,2
 147,Tosin,Spurs,DEF,4.4,70,0,0,0,1,0,5,0,10,0,0,2
-154,Palmer,Chelsea,MID,9.7,90,0,0,1,0,0,3,0,16,1,0,2
+154,Palmer,Chelsea,MID,9.8,90,0,0,1,0,0,3,0,16,1,0,2
 165,João Pedro,Chelsea,FWD,7.9,90,0,0,1,0,0,3,0,4,0,0,2
 166,N.Jackson,Aston Villa,FWD,6.6,90,0,0,1,0,0,3,0,10,0,0,2
 167,Delap,Nott'm Forest,FWD,5.5,90,0,0,0,1,0,3,0,10,0,0,2
@@ -227,7 +227,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 313,Clarke,Ipswich Town,MID,5.3,1,0,0,0,0,0,2,0,3,0,0,1
 320,Akpom,Ipswich Town,FWD,5.0,12,0,0,0,0,0,1,0,6,0,0,1
 331,Gudmundsson,Leeds,DEF,4.5,90,0,0,0,1,0,2,0,1,1,0,1
-338,Ampadu,Leeds,MID,5.4,90,0,0,0,1,0,10,0,7,1,0,1
+338,Ampadu,Leeds,MID,5.3,90,0,0,0,1,0,10,0,7,1,0,1
 339,Longstaff,Leeds,MID,4.8,9,0,0,0,0,0,1,0,3,0,0,1
 340,Gelhardt,Hull City,MID,5.0,22,0,0,0,0,0,2,0,2,0,0,1
 347,Nmecha,Leeds,FWD,5.3,16,0,0,0,0,0,1,0,2,0,0,1

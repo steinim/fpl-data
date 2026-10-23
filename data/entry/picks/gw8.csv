@@ -11,6 +11,6 @@ slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_poin
 10,João Pedro,Chelsea,FWD,1,False,False,0,0,0,0,0
 11,Haaland,Man City,FWD,2,True,False,0,0,0,0,0
 12,Kinsky,Spurs,GKP,0,False,False,0,0,0,0,0
-13,Davis,Ipswich Town,DEF,0,False,False,69,2,0,18,0
+13,Davis,Ipswich Town,DEF,0,False,False,90,2,0,20,0
 14,Slater,Hull City,MID,0,False,False,0,0,0,0,0
-15,Diop,Ipswich Town,DEF,0,False,False,69,1,0,5,0
+15,Diop,Ipswich Town,DEF,0,False,False,90,1,0,5,0

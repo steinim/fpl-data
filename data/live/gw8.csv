@@ -1,34 +1,34 @@
 id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,saves,defensive_contribution,bonus,bps,yellow_cards,red_cards,total_points
-591,Enciso,Ipswich Town,MID,5.5,85,1,0,0,1,0,3,3,35,0,0,10
+591,Enciso,Ipswich Town,MID,5.5,85,1,0,0,1,0,5,3,39,0,0,10
 469,N.Williams,Nott'm Forest,DEF,5.0,83,1,0,0,1,0,2,0,21,0,0,8
 201,Muñoz,Nott'm Forest,DEF,5.3,90,0,1,0,1,0,7,2,28,0,0,7
 486,McAtee,Nott'm Forest,MID,5.5,90,0,0,0,1,0,22,1,23,0,0,5
-558,Schlager,Nott'm Forest,MID,5.0,90,0,0,0,1,0,15,0,19,0,0,4
+558,Schlager,Nott'm Forest,MID,5.0,90,0,0,0,1,0,15,0,17,0,0,4
+571,Florentino,Ipswich Town,MID,4.8,84,0,0,0,1,0,12,0,15,0,0,4
 619,Palacios,Ipswich Town,MID,5.0,90,0,0,0,1,0,17,0,19,0,0,4
 300,Walton,Ipswich Town,GKP,4.4,90,0,0,0,1,3,0,0,13,0,0,3
 167,Delap,Nott'm Forest,FWD,5.5,90,0,0,0,1,0,4,0,1,0,0,2
-304,O'Shea,Ipswich Town,DEF,4.0,90,0,0,0,1,0,7,0,7,0,0,2
+304,O'Shea,Ipswich Town,DEF,4.0,90,0,0,0,1,0,8,0,7,0,0,2
 305,Davis,Ipswich Town,DEF,4.0,90,0,0,0,1,0,6,0,20,0,0,2
 315,Fatawu,Ipswich Town,MID,5.4,72,0,0,0,1,0,2,0,4,0,0,2
-318,Philogene,Ipswich Town,MID,5.4,60,0,0,0,1,0,3,0,7,0,0,2
+318,Philogene,Ipswich Town,MID,5.4,60,0,0,0,1,0,3,0,11,0,0,2
 467,Sels,Nott'm Forest,GKP,5.0,90,0,0,0,1,2,0,0,10,0,0,2
 471,Milenković,Nott'm Forest,DEF,5.4,90,0,0,0,1,0,6,0,7,0,0,2
 474,Jair Cunha,Nott'm Forest,DEF,4.4,90,0,0,0,1,0,3,0,10,0,0,2
 480,Gibbs-White,Nott'm Forest,MID,7.9,90,0,0,0,1,0,6,0,15,0,0,2
-483,Ndoye,Nott'm Forest,MID,5.5,68,0,0,0,1,0,1,0,8,0,0,2
-571,Florentino,Ipswich Town,MID,4.8,84,0,0,0,1,0,11,0,15,0,0,2
-592,Ouattara,Ipswich Town,DEF,4.0,90,0,0,0,1,0,6,0,9,0,0,2
+483,Ndoye,Nott'm Forest,MID,5.5,68,0,0,0,1,0,1,0,5,0,0,2
+592,Ouattara,Ipswich Town,DEF,4.0,90,0,0,0,1,0,7,0,11,0,0,2
 259,Diop,Ipswich Town,DEF,3.9,90,0,0,0,1,0,6,0,5,1,0,1
 310,Matusiwa,Ipswich Town,MID,4.9,5,0,0,0,0,0,1,0,2,0,0,1
 313,Clarke,Ipswich Town,MID,5.3,29,0,0,0,0,0,3,0,3,0,0,1
-316,Emersonn,Ipswich Town,FWD,5.5,59,0,0,0,1,0,2,0,8,0,0,1
+316,Emersonn,Ipswich Town,FWD,5.5,59,0,0,0,1,0,2,0,5,0,0,1
 320,Akpom,Ipswich Town,FWD,5.0,4,0,0,0,0,0,0,0,3,0,0,1
-472,Murillo,Nott'm Forest,DEF,5.5,90,0,0,0,1,0,4,0,5,1,0,1
+472,Murillo,Nott'm Forest,DEF,5.5,90,0,0,0,1,0,4,0,6,1,0,1
 478,Netz,Nott'm Forest,DEF,4.4,6,0,0,0,0,0,0,0,2,0,0,1
-482,Hudson-Odoi,Nott'm Forest,MID,5.7,21,0,0,0,0,0,2,0,2,0,0,1
+482,Hudson-Odoi,Nott'm Forest,MID,5.7,21,0,0,0,0,0,2,0,5,0,0,1
 490,Wood,Nott'm Forest,FWD,5.7,1,0,0,0,0,0,0,0,3,0,0,1
 562,Maeda,Ipswich Town,MID,5.3,17,0,0,0,0,0,1,0,5,0,0,1
-640,Flemming,Ipswich Town,FWD,5.5,30,0,0,0,0,0,3,0,5,0,0,1
+640,Flemming,Ipswich Town,FWD,5.5,30,0,0,0,0,0,4,0,5,0,0,1
 1,Raya,Arsenal,GKP,6.2,0,0,0,0,0,0,0,0,0,0,0,0
 2,Arrizabalaga,Arsenal,GKP,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 3,Meslier,Arsenal,GKP,4.9,0,0,0,0,0,0,0,0,0,0,0,0

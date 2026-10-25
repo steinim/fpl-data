@@ -12,5 +12,5 @@ slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_poin
 11,Haaland,Man City,FWD,2,True,False,90,8,16,35,2
 12,Kinsky,Spurs,GKP,0,False,False,90,9,0,33,2
 13,Davis,Ipswich Town,DEF,0,False,False,90,2,0,20,0
-14,Slater,Hull City,MID,0,False,False,90,2,0,16,0
+14,Slater,Hull City,MID,0,False,False,90,2,0,15,0
 15,Diop,Ipswich Town,DEF,0,False,False,90,1,0,5,0

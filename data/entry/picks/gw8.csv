@@ -1,9 +1,9 @@
 slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_points,bps,bonus
-1,Verbruggen,Brighton,GKP,1,False,False,90,2,2,13,0
+1,Verbruggen,Brighton,GKP,1,False,False,90,2,2,11,0
 2,Thomas,Coventry City,DEF,1,False,False,59,1,1,7,0
 3,Calafiori,Arsenal,DEF,1,False,False,22,1,1,4,0
 4,Egan,Hull City,DEF,1,False,False,90,4,4,7,0
-5,Groß,Brighton,MID,1,False,False,90,0,0,19,0
+5,Groß,Brighton,MID,1,False,False,90,0,0,15,0
 6,B.Fernandes,Man Utd,MID,1,False,False,0,0,0,0,0
 7,Saka,Arsenal,MID,1,False,True,0,0,0,0,0
 8,Mbeumo,Man Utd,MID,1,False,False,90,2,2,14,0

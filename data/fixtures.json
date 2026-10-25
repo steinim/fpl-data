@@ -28870,7 +28870,7 @@
      },
      {
       "element": 79,
-      "value": 31
+      "value": 33
      },
      {
       "element": 67,
@@ -28897,11 +28897,11 @@
       "value": 22
      },
      {
-      "element": 75,
-      "value": 12
+      "element": 73,
+      "value": 11
      },
      {
-      "element": 73,
+      "element": 75,
       "value": 10
      },
      {
@@ -28931,20 +28931,20 @@
       "value": 19
      },
      {
+      "element": 428,
+      "value": 15
+     },
+     {
       "element": 431,
       "value": 15
      },
      {
       "element": 131,
-      "value": 13
+      "value": 14
      },
      {
       "element": 427,
-      "value": 12
-     },
-     {
-      "element": 428,
-      "value": 11
+      "value": 14
      },
      {
       "element": 417,
@@ -28989,7 +28989,7 @@
      },
      {
       "element": 73,
-      "value": 12
+      "value": 13
      },
      {
       "element": 75,
@@ -29001,7 +29001,7 @@
      },
      {
       "element": 79,
-      "value": 8
+      "value": 9
      },
      {
       "element": 71,
@@ -29042,12 +29042,12 @@
       "value": 13
      },
      {
-      "element": 430,
+      "element": 131,
       "value": 9
      },
      {
-      "element": 131,
-      "value": 8
+      "element": 430,
+      "value": 9
      },
      {
       "element": 421,
@@ -29058,11 +29058,11 @@
       "value": 6
      },
      {
-      "element": 420,
-      "value": 6
+      "element": 418,
+      "value": 5
      },
      {
-      "element": 418,
+      "element": 420,
       "value": 5
      },
      {
@@ -29070,12 +29070,12 @@
       "value": 5
      },
      {
-      "element": 431,
+      "element": 419,
       "value": 4
      },
      {
-      "element": 419,
-      "value": 3
+      "element": 431,
+      "value": 4
      },
      {
       "element": 427,
@@ -29104,10 +29104,10 @@
   "code": 2645274,
   "event": 8,
   "finished": false,
-  "finished_provisional": false,
+  "finished_provisional": true,
   "id": 80,
   "kickoff_time": "2026-10-25T16:30:00Z",
-  "minutes": 35,
+  "minutes": 90,
   "provisional_start_time": false,
   "pulse_id": 0,
   "started": true,
@@ -29140,11 +29140,20 @@
    {
     "a": [
      {
+      "element": 330,
+      "value": 1
+     },
+     {
       "element": 338,
       "value": 1
      }
     ],
-    "h": [],
+    "h": [
+     {
+      "element": 536,
+      "value": 1
+     }
+    ],
     "identifier": "yellow_cards"
    },
    {
@@ -29156,10 +29165,15 @@
     "a": [
      {
       "element": 385,
-      "value": 2
+      "value": 4
      }
     ],
-    "h": [],
+    "h": [
+     {
+      "element": 529,
+      "value": 3
+     }
+    ],
     "identifier": "saves"
    },
    {
@@ -29169,17 +29183,17 @@
       "value": 3
      },
      {
-      "element": 330,
-      "value": 2
-     },
-     {
-      "element": 332,
+      "element": 334,
       "value": 1
      }
     ],
     "h": [
      {
-      "element": 542,
+      "element": 529,
+      "value": 2
+     },
+     {
+      "element": 539,
       "value": 1
      }
     ],
@@ -29189,88 +29203,124 @@
     "a": [
      {
       "element": 385,
-      "value": 11
-     },
-     {
-      "element": 330,
-      "value": 9
-     },
-     {
-      "element": 332,
-      "value": 7
-     },
-     {
-      "element": 260,
-      "value": 5
-     },
-     {
-      "element": 345,
-      "value": 5
-     },
-     {
-      "element": 327,
-      "value": 4
-     },
-     {
-      "element": 331,
-      "value": 3
-     },
-     {
-      "element": 337,
-      "value": 3
-     },
-     {
-      "element": 346,
-      "value": 3
+      "value": 33
      },
      {
       "element": 334,
-      "value": 2
+      "value": 26
+     },
+     {
+      "element": 327,
+      "value": 25
+     },
+     {
+      "element": 332,
+      "value": 23
+     },
+     {
+      "element": 330,
+      "value": 22
+     },
+     {
+      "element": 331,
+      "value": 21
+     },
+     {
+      "element": 345,
+      "value": 17
+     },
+     {
+      "element": 260,
+      "value": 14
+     },
+     {
+      "element": 338,
+      "value": 9
+     },
+     {
+      "element": 336,
+      "value": 8
+     },
+     {
+      "element": 337,
+      "value": 7
+     },
+     {
+      "element": 346,
+      "value": 5
+     },
+     {
+      "element": 335,
+      "value": 4
+     },
+     {
+      "element": 339,
+      "value": 4
+     },
+     {
+      "element": 347,
+      "value": 3
      }
     ],
     "h": [
      {
-      "element": 542,
-      "value": 7
-     },
-     {
-      "element": 551,
-      "value": 6
-     },
-     {
-      "element": 533,
-      "value": 5
-     },
-     {
-      "element": 544,
-      "value": 4
-     },
-     {
-      "element": 545,
-      "value": 4
-     },
-     {
-      "element": 548,
-      "value": 4
-     },
-     {
-      "element": 552,
-      "value": 4
-     },
-     {
       "element": 529,
-      "value": 3
-     },
-     {
-      "element": 536,
-      "value": 3
+      "value": 28
      },
      {
       "element": 539,
-      "value": 3
+      "value": 26
      },
      {
       "element": 534,
+      "value": 20
+     },
+     {
+      "element": 536,
+      "value": 18
+     },
+     {
+      "element": 551,
+      "value": 18
+     },
+     {
+      "element": 544,
+      "value": 17
+     },
+     {
+      "element": 542,
+      "value": 14
+     },
+     {
+      "element": 548,
+      "value": 12
+     },
+     {
+      "element": 545,
+      "value": 10
+     },
+     {
+      "element": 533,
+      "value": 6
+     },
+     {
+      "element": 552,
+      "value": 6
+     },
+     {
+      "element": 535,
+      "value": 3
+     },
+     {
+      "element": 543,
+      "value": 3
+     },
+     {
+      "element": 549,
+      "value": 3
+     },
+     {
+      "element": 668,
       "value": 2
      }
     ],
@@ -29280,10 +29330,30 @@
     "a": [
      {
       "element": 327,
-      "value": 7
+      "value": 15
+     },
+     {
+      "element": 334,
+      "value": 12
+     },
+     {
+      "element": 338,
+      "value": 10
      },
      {
       "element": 345,
+      "value": 10
+     },
+     {
+      "element": 260,
+      "value": 6
+     },
+     {
+      "element": 331,
+      "value": 6
+     },
+     {
+      "element": 332,
       "value": 6
      },
      {
@@ -29291,69 +29361,77 @@
       "value": 5
      },
      {
-      "element": 332,
-      "value": 4
-     },
-     {
-      "element": 260,
-      "value": 3
-     },
-     {
       "element": 337,
       "value": 3
      },
      {
-      "element": 331,
+      "element": 336,
       "value": 2
      },
      {
-      "element": 334,
-      "value": 2
+      "element": 335,
+      "value": 1
      },
      {
-      "element": 338,
-      "value": 2
+      "element": 347,
+      "value": 1
      }
     ],
     "h": [
      {
-      "element": 533,
-      "value": 4
-     },
-     {
-      "element": 551,
-      "value": 4
-     },
-     {
       "element": 539,
-      "value": 3
-     },
-     {
-      "element": 548,
-      "value": 3
-     },
-     {
-      "element": 542,
-      "value": 2
-     },
-     {
-      "element": 544,
-      "value": 2
-     },
-     {
-      "element": 545,
-      "value": 2
-     },
-     {
-      "element": 534,
-      "value": 1
+      "value": 19
      },
      {
       "element": 536,
-      "value": 1
+      "value": 9
+     },
+     {
+      "element": 544,
+      "value": 9
+     },
+     {
+      "element": 545,
+      "value": 8
+     },
+     {
+      "element": 548,
+      "value": 8
+     },
+     {
+      "element": 533,
+      "value": 7
+     },
+     {
+      "element": 551,
+      "value": 6
+     },
+     {
+      "element": 534,
+      "value": 5
+     },
+     {
+      "element": 535,
+      "value": 5
+     },
+     {
+      "element": 542,
+      "value": 3
      },
      {
       "element": 552,
+      "value": 3
+     },
+     {
+      "element": 543,
+      "value": 1
+     },
+     {
+      "element": 549,
+      "value": 1
+     },
+     {
+      "element": 668,
       "value": 1
      }
     ],

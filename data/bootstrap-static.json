@@ -24170,7 +24170,7 @@
    "scout_risks": [],
    "second_name": "Emegha",
    "selected_by_percent": "0.1",
-   "selected_rank": 430,
+   "selected_rank": 429,
    "selected_rank_type": 65,
    "special": false,
    "squad_number": null,
@@ -59155,7 +59155,7 @@
    "scout_risks": [],
    "second_name": "Koumas",
    "selected_by_percent": "0.1",
-   "selected_rank": 429,
+   "selected_rank": 430,
    "selected_rank_type": 157,
    "special": false,
    "squad_number": null,
@@ -87687,5 +87687,5 @@
    "win": 0
   }
  ],
- "total_players": 11185250
+ "total_players": 11185284
 }

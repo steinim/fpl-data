@@ -1,7 +1,7 @@
 id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,saves,defensive_contribution,bonus,bps,yellow_cards,red_cards,total_points
 4,Gabriel,Arsenal,DEF,7.9,90,1,0,1,0,0,14,3,44,0,0,17
 31,Konsa,Arsenal,DEF,4.7,90,1,0,1,0,0,2,2,43,0,0,14
-166,N.Jackson,Aston Villa,FWD,6.7,81,2,0,0,1,0,7,3,66,0,0,13
+166,N.Jackson,Aston Villa,FWD,6.8,81,2,0,0,1,0,7,3,66,0,0,13
 60,Hill,Bournemouth,DEF,5.5,90,0,0,1,0,0,22,3,56,0,0,11
 264,Bobb,Fulham,MID,5.5,80,1,0,1,0,0,2,3,39,0,0,11
 514,Tel,Spurs,MID,5.6,88,1,0,1,0,0,4,3,37,0,0,11
@@ -17,7 +17,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 240,Iroegbunam,Hull City,MID,5.0,71,0,1,0,1,0,12,2,23,0,0,9
 334,Muharemović,Leeds,DEF,5.1,90,0,0,1,0,0,13,1,26,0,0,9
 356,Virgil,Liverpool,DEF,6.4,90,0,0,1,0,0,13,1,27,0,0,9
-379,Isak,Liverpool,FWD,9.0,76,1,0,1,0,0,2,3,33,0,0,9
+379,Isak,Liverpool,FWD,9.1,76,1,0,1,0,0,2,3,33,0,0,9
 465,Osula,Newcastle,FWD,5.8,76,1,0,1,0,0,4,3,36,0,0,9
 496,Kinsky,Spurs,GKP,4.4,90,0,0,1,0,4,0,2,33,0,0,9
 529,Roefs,Sunderland,GKP,4.9,90,0,0,1,0,3,0,2,28,0,0,9
@@ -27,7 +27,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 295,McBurnie,Hull City,FWD,5.5,85,1,0,0,1,0,3,2,23,0,0,8
 327,Bijol,Leeds,DEF,5.0,90,0,0,1,0,0,15,0,25,0,0,8
 362,Jacquet,Liverpool,DEF,5.1,90,0,0,1,0,0,10,0,19,0,0,8
-411,Haaland,Man City,FWD,15.7,90,1,0,0,2,0,4,2,35,0,0,8
+411,Haaland,Man City,FWD,15.8,90,1,0,0,2,0,4,2,35,0,0,8
 453,Barnes,Newcastle,MID,6.1,76,1,0,1,0,0,6,0,27,0,0,8
 469,N.Williams,Nott'm Forest,DEF,5.0,83,1,0,0,1,0,2,0,21,0,0,8
 566,Silva,Bournemouth,DEF,5.0,90,0,0,1,0,0,11,0,26,0,0,8
@@ -244,7 +244,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 417,Dalot,Man Utd,DEF,4.8,90,0,0,0,3,0,6,0,5,0,0,1
 419,Martinez,Man Utd,DEF,4.8,25,0,0,0,1,0,4,0,2,0,0,1
 420,Yoro,Man Utd,DEF,4.8,90,0,0,0,3,0,5,0,0,0,0,1
-428,Cunha,Man Utd,MID,7.9,45,0,0,0,1,0,5,0,15,0,0,1
+428,Cunha,Man Utd,MID,7.8,45,0,0,0,1,0,5,0,15,0,0,1
 435,Lacey,Man Utd,MID,4.9,12,0,0,0,0,0,1,0,4,0,0,1
 440,Zirkzee,Man Utd,FWD,5.3,18,0,0,0,0,0,1,0,3,0,0,1
 445,Thiaw,Newcastle,DEF,5.0,1,0,0,0,0,0,0,0,4,0,0,1
@@ -260,7 +260,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 490,Wood,Nott'm Forest,FWD,5.7,1,0,0,0,0,0,0,0,3,0,0,1
 492,Awoniyi,Coventry City,FWD,5.4,23,0,0,0,1,0,0,0,2,0,0,1
 499,Pedro Porro,Spurs,DEF,5.3,25,0,0,0,0,0,0,0,4,0,0,1
-504,Vuskovic,Brighton,DEF,5.1,90,0,0,0,2,0,6,0,6,0,0,1
+504,Vuskovic,Brighton,DEF,5.2,90,0,0,0,2,0,6,0,6,0,0,1
 508,Davies,Spurs,DEF,3.9,1,0,0,0,0,0,0,0,3,0,0,1
 515,Maddison,Spurs,MID,6.2,50,0,0,0,0,0,4,0,11,0,0,1
 521,Kulusevski,Spurs,MID,6.5,1,0,0,0,0,0,1,0,5,0,0,1
@@ -366,7 +366,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 160,Garnacho,Aston Villa,MID,5.7,0,0,0,0,0,0,0,0,0,0,0,0
 161,Lavia,Chelsea,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 163,D.Essugo,Chelsea,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-165,João Pedro,Chelsea,FWD,7.9,0,0,0,0,0,0,0,0,0,0,0,0
+165,João Pedro,Chelsea,FWD,7.8,0,0,0,0,0,0,0,0,0,0,0,0
 168,Marc Guiu,Chelsea,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 169,Mheuka,Chelsea,FWD,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 170,Emegha,Chelsea,FWD,4.9,0,0,0,0,0,0,0,0,0,0,0,0
@@ -521,7 +521,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 424,Amass,Man Utd,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 425,Fredricson,Man Utd,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 426,B.Fernandes,Man Utd,MID,11.7,0,0,0,0,0,0,0,0,0,0,0,0
-429,Rashford,Man Utd,MID,6.9,0,0,0,0,0,0,0,0,0,0,0,0
+429,Rashford,Man Utd,MID,6.8,0,0,0,0,0,0,0,0,0,0,0,0
 432,Mainoo,Man Utd,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 433,Ugarte,Man Utd,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 434,J.Fletcher,Man Utd,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
@@ -600,7 +600,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 574,Hjertø-Dahl,Hull City,MID,4.8,0,0,0,0,0,0,0,0,0,0,0,0
 577,Tomiyasu,Crystal Palace,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 578,Mudryk,Spurs,MID,5.3,0,0,0,0,0,0,0,0,0,0,0,0
-581,Diomande,Nott'm Forest,DEF,5.4,0,0,0,0,0,0,0,0,0,0,0,0
+581,Diomande,Nott'm Forest,DEF,5.3,0,0,0,0,0,0,0,0,0,0,0,0
 582,Madjo,Aston Villa,FWD,5.4,8,0,0,0,0,0,0,0,2,1,0,0
 583,Chavarria,Chelsea,DEF,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 586,Mendy,Hull City,DEF,4.1,0,0,0,0,0,0,0,0,0,0,0,0

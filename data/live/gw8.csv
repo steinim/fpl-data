@@ -77,7 +77,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 286,Belloumi,Hull City,MID,5.2,85,0,0,0,1,0,14,0,21,0,0,4
 405,N.Gonzalez,Newcastle,MID,5.5,90,0,0,1,0,0,15,0,11,1,0,4
 558,Schlager,Nott'm Forest,MID,5.0,90,0,0,0,1,0,15,0,17,0,0,4
-565,M.Sangaré,Brentford,MID,5.5,90,0,0,0,1,0,23,0,21,0,0,4
+565,M.Sangaré,Brentford,MID,5.4,90,0,0,0,1,0,23,0,21,0,0,4
 571,Florentino,Ipswich Town,MID,4.8,84,0,0,0,1,0,12,0,15,0,0,4
 576,Stroud,Hull City,MID,4.9,90,0,0,0,1,0,12,0,13,0,0,4
 585,Herrington,Hull City,DEF,4.0,90,0,0,0,1,0,10,0,9,0,0,4
@@ -188,7 +188,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 40,Rogers,Chelsea,MID,8.0,90,0,0,0,2,0,6,0,7,1,0,1
 46,Barkley,Aston Villa,MID,5.0,24,0,0,0,0,0,1,0,2,0,0,1
 52,Alysson,Aston Villa,MID,4.9,58,0,0,0,1,0,5,0,3,0,0,1
-53,Manzambi,Aston Villa,MID,6.0,65,0,0,0,1,0,6,0,8,1,0,1
+53,Manzambi,Aston Villa,MID,6.1,65,0,0,0,1,0,6,0,8,1,0,1
 62,Diakité,Bournemouth,DEF,4.9,3,0,0,0,0,0,2,0,3,0,0,1
 72,Gannon-Doak,Bournemouth,MID,4.8,27,0,0,0,0,0,5,0,6,0,0,1
 75,Christie,Bournemouth,MID,5.0,15,0,0,0,0,0,11,0,10,0,0,1

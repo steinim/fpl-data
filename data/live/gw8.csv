@@ -44,7 +44,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 64,Smith,Bournemouth,DEF,4.5,87,0,0,1,0,0,3,0,23,0,0,6
 70,Kluivert,Bournemouth,MID,5.9,62,0,1,1,0,0,5,0,22,0,0,6
 71,Cook,Bournemouth,MID,5.0,74,0,1,1,0,0,7,0,22,0,0,6
-79,Evanilson,Bournemouth,FWD,6.2,86,1,0,1,0,0,9,0,33,0,0,6
+79,Evanilson,Bournemouth,FWD,6.3,86,1,0,1,0,0,9,0,33,0,0,6
 148,Hato,Chelsea,DEF,4.5,64,0,0,1,0,0,8,0,23,0,0,6
 268,King,Fulham,MID,5.6,80,0,1,1,0,0,3,0,24,0,0,6
 331,Gudmundsson,Leeds,DEF,4.5,90,0,0,1,0,0,6,0,21,0,0,6
@@ -181,10 +181,10 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 580,Charles,Fulham,MID,5.0,90,0,0,1,0,0,10,0,18,1,0,2
 592,Ouattara,Ipswich Town,DEF,4.0,90,0,0,0,1,0,7,0,11,0,0,2
 599,Cherif,Coventry City,FWD,5.0,66,0,0,1,0,0,1,0,8,0,0,2
-8,Calafiori,Arsenal,DEF,6.0,22,0,0,0,0,0,3,0,4,0,0,1
+8,Calafiori,Arsenal,DEF,5.9,22,0,0,0,0,0,3,0,4,0,0,1
 19,Zubimendi,Arsenal,MID,5.2,10,0,0,0,0,0,0,0,2,0,0,1
 20,Dowman,Arsenal,MID,5.3,10,0,0,0,0,0,0,0,3,0,0,1
-26,Havertz,Arsenal,FWD,7.5,22,0,0,0,0,0,2,0,6,0,0,1
+26,Havertz,Arsenal,FWD,7.4,22,0,0,0,0,0,2,0,6,0,0,1
 40,Rogers,Chelsea,MID,8.0,90,0,0,0,2,0,6,0,7,1,0,1
 46,Barkley,Aston Villa,MID,5.0,24,0,0,0,0,0,1,0,2,0,0,1
 52,Alysson,Aston Villa,MID,4.9,58,0,0,0,1,0,5,0,3,0,0,1
@@ -590,7 +590,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 554,Van Oevelen,Ipswich Town,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 555,Matthews,Crystal Palace,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 556,Targett,Hull City,DEF,3.9,0,0,0,0,0,0,0,0,0,0,0,0
-557,Tzolis,Arsenal,MID,6.2,0,0,0,0,0,0,0,0,0,0,0,0
+557,Tzolis,Arsenal,MID,6.1,0,0,0,0,0,0,0,0,0,0,0,0
 559,Bamba,Newcastle,MID,4.8,0,0,0,0,0,0,0,0,0,0,0,0
 560,Penders,Chelsea,GKP,4.4,90,0,0,0,2,3,0,0,2,0,0,0
 561,Anselmino,Chelsea,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
@@ -598,7 +598,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 568,Barco,Chelsea,MID,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 573,Sanchez,Bournemouth,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 574,Hjertø-Dahl,Hull City,MID,4.8,0,0,0,0,0,0,0,0,0,0,0,0
-577,Tomiyasu,Crystal Palace,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
+577,Tomiyasu,Crystal Palace,DEF,4.3,0,0,0,0,0,0,0,0,0,0,0,0
 578,Mudryk,Spurs,MID,5.3,0,0,0,0,0,0,0,0,0,0,0,0
 581,Diomande,Nott'm Forest,DEF,5.3,0,0,0,0,0,0,0,0,0,0,0,0
 582,Madjo,Aston Villa,FWD,5.4,8,0,0,0,0,0,0,0,2,1,0,0

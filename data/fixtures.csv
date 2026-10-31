@@ -86,7 +86,7 @@ id,event,kickoff_time,home,away,home_score,away_score,finished,fdr_home,fdr_away
 86,9,2026-10-31T15:00:00Z,Hull City,Ipswich Town,2,2,False,2,2
 88,9,2026-10-31T15:00:00Z,Man City,Brighton,0,1,False,3,5
 90,9,2026-10-31T17:30:00Z,Spurs,Crystal Palace,2,0,False,2,3
-81,9,2026-10-31T20:00:00Z,Aston Villa,Fulham,0,0,False,2,3
+81,9,2026-10-31T20:00:00Z,Aston Villa,Fulham,1,1,False,2,3
 87,9,2026-11-01T16:30:00Z,Liverpool,Arsenal,,,False,4,4
 89,9,2026-11-02T20:00:00Z,Newcastle,Everton,,,False,3,3
 94,10,2026-11-06T20:00:00Z,Everton,Coventry City,,,False,2,3

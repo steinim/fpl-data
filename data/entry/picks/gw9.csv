@@ -1,7 +1,7 @@
 slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_points,bps,bonus
 1,Kinsky,Spurs,GKP,1,False,False,90,6,6,23,0
-2,Diop,Ipswich Town,DEF,1,False,False,90,2,2,5,0
-3,Davis,Ipswich Town,DEF,1,False,False,90,1,1,4,0
+2,Diop,Ipswich Town,DEF,1,False,False,90,2,2,4,0
+3,Davis,Ipswich Town,DEF,1,False,False,90,1,1,5,0
 4,Egan,Hull City,DEF,1,False,False,45,1,1,0,0
 5,Groß,Brighton,MID,1,False,False,90,2,2,5,0
 6,B.Fernandes,Man Utd,MID,1,False,False,90,2,2,16,0

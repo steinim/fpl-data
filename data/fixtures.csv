@@ -79,12 +79,12 @@ id,event,kickoff_time,home,away,home_score,away_score,finished,fdr_home,fdr_away
 78,8,2026-10-25T14:00:00Z,Liverpool,Brighton,2,0,True,3,4
 79,8,2026-10-25T14:00:00Z,Man Utd,Bournemouth,0,3,True,3,4
 80,8,2026-10-25T16:30:00Z,Sunderland,Leeds,0,0,True,3,3
-84,9,2026-10-31T12:30:00Z,Chelsea,Man Utd,1,0,False,4,4
-82,9,2026-10-31T15:00:00Z,Bournemouth,Leeds,,,False,3,3
-83,9,2026-10-31T15:00:00Z,Brentford,Nott'm Forest,,,False,3,3
-85,9,2026-10-31T15:00:00Z,Coventry City,Sunderland,,,False,3,2
-86,9,2026-10-31T15:00:00Z,Hull City,Ipswich Town,,,False,2,2
-88,9,2026-10-31T15:00:00Z,Man City,Brighton,,,False,3,5
+84,9,2026-10-31T12:30:00Z,Chelsea,Man Utd,2,0,False,4,4
+82,9,2026-10-31T15:00:00Z,Bournemouth,Leeds,2,0,False,3,3
+83,9,2026-10-31T15:00:00Z,Brentford,Nott'm Forest,2,0,False,3,3
+85,9,2026-10-31T15:00:00Z,Coventry City,Sunderland,3,1,False,3,2
+86,9,2026-10-31T15:00:00Z,Hull City,Ipswich Town,2,2,False,2,2
+88,9,2026-10-31T15:00:00Z,Man City,Brighton,0,1,False,3,5
 90,9,2026-10-31T17:30:00Z,Spurs,Crystal Palace,,,False,2,3
 81,9,2026-10-31T20:00:00Z,Aston Villa,Fulham,,,False,2,3
 87,9,2026-11-01T16:30:00Z,Liverpool,Arsenal,,,False,4,4

@@ -1,0 +1,16 @@
+slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_points,bps,bonus
+1,Kinsky,Spurs,GKP,1,False,False,0,0,0,0,0
+2,Diop,Ipswich Town,DEF,1,False,False,0,0,0,0,0
+3,Davis,Ipswich Town,DEF,1,False,False,0,0,0,0,0
+4,Egan,Hull City,DEF,1,False,False,0,0,0,0,0
+5,Groß,Brighton,MID,1,False,False,0,0,0,0,0
+6,B.Fernandes,Man Utd,MID,1,False,False,60,2,2,12,0
+7,Tavernier,Bournemouth,MID,1,False,True,0,0,0,0,0
+8,Mbeumo,Man Utd,MID,1,False,False,60,2,2,12,0
+9,Barry,Everton,FWD,1,False,False,0,0,0,0,0
+10,Evanilson,Bournemouth,FWD,1,False,False,0,0,0,0,0
+11,Haaland,Man City,FWD,2,True,False,0,0,0,0,0
+12,Verbruggen,Brighton,GKP,0,False,False,0,0,0,0,0
+13,Calafiori,Arsenal,DEF,0,False,False,0,0,0,0,0
+14,Thomas,Coventry City,DEF,0,False,False,0,0,0,0,0
+15,Slater,Hull City,MID,0,False,False,0,0,0,0,0

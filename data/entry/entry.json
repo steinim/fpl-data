@@ -146,7 +146,7 @@
     "entry_can_leave": false,
     "entry_last_rank": 2870245,
     "entry_percentile_rank": 35,
-    "entry_rank": 3117293,
+    "entry_rank": 3117289,
     "featured_entry_ids": [],
     "has_cup": false,
     "id": 276,
@@ -166,10 +166,10 @@
       "last_rank": 2875877,
       "league_id": 314,
       "phase": 1,
-      "rank": 2875877,
-      "rank_count": 11111663,
-      "rank_sort": 2878476,
-      "total": 490
+      "rank": 3126218,
+      "rank_count": 11162254,
+      "rank_sort": 3127915,
+      "total": 521
      },
      {
       "entry_percentile_rank": 55,
@@ -192,7 +192,7 @@
     "entry_can_leave": false,
     "entry_last_rank": 2875877,
     "entry_percentile_rank": 30,
-    "entry_rank": 3126222,
+    "entry_rank": 3126218,
     "featured_entry_ids": [],
     "has_cup": true,
     "id": 314,
@@ -200,7 +200,7 @@
     "max_entries": null,
     "name": "Overall",
     "rank": null,
-    "rank_count": 11111663,
+    "rank_count": 11162254,
     "scoring": "c",
     "short_name": "overall",
     "start_event": 1
@@ -284,7 +284,7 @@
     "entry_can_leave": false,
     "entry_last_rank": 821283,
     "entry_percentile_rank": 70,
-    "entry_rank": 891294,
+    "entry_rank": 891293,
     "featured_entry_ids": [],
     "has_cup": true,
     "id": 322,
@@ -399,7 +399,7 @@
       "rank": 2,
       "rank_count": 6,
       "rank_sort": 2,
-      "total": 490
+      "total": 521
      },
      {
       "entry_percentile_rank": 35,
@@ -445,7 +445,7 @@
       "rank": 3,
       "rank_count": 5,
       "rank_sort": 3,
-      "total": 490
+      "total": 521
      },
      {
       "entry_percentile_rank": 80,
@@ -484,14 +484,14 @@
    {
     "active_phases": [
      {
-      "entry_percentile_rank": 35,
+      "entry_percentile_rank": 40,
       "last_rank": 202824,
       "league_id": 431167,
       "phase": 1,
-      "rank": 202824,
-      "rank_count": 584951,
-      "rank_sort": 202964,
-      "total": 490
+      "rank": 214617,
+      "rank_count": 587430,
+      "rank_sort": 214720,
+      "total": 521
      },
      {
       "entry_percentile_rank": 60,
@@ -513,7 +513,7 @@
     "entry_can_invite": false,
     "entry_can_leave": false,
     "entry_last_rank": 202824,
-    "entry_percentile_rank": 35,
+    "entry_percentile_rank": 40,
     "entry_rank": 214617,
     "featured_entry_ids": [],
     "has_cup": false,
@@ -522,7 +522,7 @@
     "max_entries": null,
     "name": "Viaplay League",
     "rank": null,
-    "rank_count": 584951,
+    "rank_count": 587430,
     "scoring": "c",
     "short_name": "brd-viaplay",
     "start_event": 1
@@ -530,14 +530,14 @@
    {
     "active_phases": [
      {
-      "entry_percentile_rank": 30,
+      "entry_percentile_rank": 35,
       "last_rank": 790737,
       "league_id": 431170,
       "phase": 1,
-      "rank": 790737,
-      "rank_count": 2840393,
-      "rank_sort": 791566,
-      "total": 490
+      "rank": 869757,
+      "rank_count": 2863841,
+      "rank_sort": 870327,
+      "total": 521
      },
      {
       "entry_percentile_rank": 55,
@@ -559,7 +559,7 @@
     "entry_can_invite": false,
     "entry_can_leave": false,
     "entry_last_rank": 790737,
-    "entry_percentile_rank": 30,
+    "entry_percentile_rank": 35,
     "entry_rank": 869758,
     "featured_entry_ids": [],
     "has_cup": false,
@@ -568,7 +568,7 @@
     "max_entries": null,
     "name": "Adobe Express Badge League",
     "rank": null,
-    "rank_count": 2840393,
+    "rank_count": 2863841,
     "scoring": "c",
     "short_name": "partner-adobe",
     "start_event": 1
@@ -698,7 +698,7 @@
     "entry_can_leave": false,
     "entry_last_rank": 5952703,
     "entry_percentile_rank": 55,
-    "entry_rank": 5683930,
+    "entry_rank": 5683924,
     "featured_entry_ids": [],
     "has_cup": false,
     "id": 2430021,
@@ -736,8 +736,8 @@
  "player_region_name": "Norway",
  "started_event": 1,
  "summary_event_points": 31,
- "summary_event_rank": 5442952,
+ "summary_event_rank": 5442948,
  "summary_overall_points": 521,
- "summary_overall_rank": 3126222,
+ "summary_overall_rank": 3126218,
  "years_active": 6
 }

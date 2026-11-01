@@ -16,6 +16,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 183,Rudoni,Coventry City,MID,4.9,90,1,0,0,1,0,11,2,36,0,0,9
 492,Awoniyi,Coventry City,FWD,5.4,71,1,0,0,1,0,2,3,38,0,0,9
 8,Calafiori,Arsenal,DEF,5.9,90,0,0,1,0,0,10,0,23,0,0,8
+13,Rice,Arsenal,MID,7.4,90,0,1,1,0,0,9,2,32,0,0,8
 77,Adli,Bournemouth,MID,4.8,2,1,0,0,0,0,1,2,26,0,0,8
 87,Ajer,Brentford,DEF,4.5,90,0,0,1,0,0,14,0,23,0,0,8
 119,Costinha,Brighton,DEF,4.5,90,0,0,1,0,0,10,0,27,0,0,8
@@ -27,7 +28,6 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 566,Silva,Bournemouth,DEF,5.0,90,0,0,1,0,0,9,2,26,0,0,8
 571,Florentino,Ipswich Town,MID,4.8,69,1,0,0,2,0,6,1,32,0,0,8
 591,Enciso,Ipswich Town,MID,5.5,90,1,0,0,2,0,6,2,39,1,0,8
-13,Rice,Arsenal,MID,7.4,90,0,1,1,0,0,9,1,31,0,0,7
 53,Manzambi,Aston Villa,MID,6.1,65,0,1,0,1,0,6,2,24,0,0,7
 82,Kelleher,Brentford,GKP,5.0,90,0,0,1,0,1,0,1,25,0,0,7
 512,Kudus,Spurs,MID,6.5,90,0,1,1,0,0,2,1,32,0,0,7

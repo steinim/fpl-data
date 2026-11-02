@@ -32757,10 +32757,10 @@
   "code": 2645283,
   "event": 9,
   "finished": false,
-  "finished_provisional": false,
+  "finished_provisional": true,
   "id": 89,
   "kickoff_time": "2026-11-02T20:00:00Z",
-  "minutes": 82,
+  "minutes": 90,
   "provisional_start_time": false,
   "pulse_id": 0,
   "started": true,
@@ -32803,11 +32803,19 @@
    {
     "a": [
      {
+      "element": 209,
+      "value": 1
+     },
+     {
       "element": 242,
       "value": 1
      }
     ],
     "h": [
+     {
+      "element": 446,
+      "value": 1
+     },
      {
       "element": 448,
       "value": 1
@@ -32817,11 +32825,21 @@
    },
    {
     "a": [],
-    "h": [],
+    "h": [
+     {
+      "element": 456,
+      "value": 1
+     }
+    ],
     "identifier": "red_cards"
    },
    {
-    "a": [],
+    "a": [
+     {
+      "element": 226,
+      "value": 2
+     }
+    ],
     "h": [
      {
       "element": 567,
@@ -32837,12 +32855,12 @@
       "value": 3
      },
      {
-      "element": 230,
+      "element": 226,
       "value": 2
      },
      {
-      "element": 236,
-      "value": 1
+      "element": 233,
+      "value": 2
      }
     ],
     "h": [],
@@ -32855,6 +32873,14 @@
       "value": 34
      },
      {
+      "element": 226,
+      "value": 29
+     },
+     {
+      "element": 233,
+      "value": 29
+     },
+     {
       "element": 230,
       "value": 28
      },
@@ -32863,39 +32889,35 @@
       "value": 27
      },
      {
-      "element": 233,
-      "value": 25
-     },
-     {
       "element": 229,
-      "value": 23
-     },
-     {
-      "element": 226,
-      "value": 22
+      "value": 24
      },
      {
       "element": 232,
-      "value": 20
-     },
-     {
-      "element": 239,
-      "value": 15
+      "value": 22
      },
      {
       "element": 242,
-      "value": 15
+      "value": 19
+     },
+     {
+      "element": 239,
+      "value": 17
+     },
+     {
+      "element": 244,
+      "value": 13
      },
      {
       "element": 246,
       "value": 8
      },
      {
-      "element": 244,
-      "value": 7
+      "element": 247,
+      "value": 4
      },
      {
-      "element": 209,
+      "element": 231,
       "value": 3
      }
     ],
@@ -32917,48 +32939,52 @@
       "value": 11
      },
      {
-      "element": 446,
-      "value": 10
-     },
-     {
       "element": 449,
       "value": 10
      },
      {
+      "element": 462,
+      "value": 10
+     },
+     {
       "element": 453,
-      "value": 9
+      "value": 8
+     },
+     {
+      "element": 461,
+      "value": 8
+     },
+     {
+      "element": 457,
+      "value": 7
      },
      {
       "element": 465,
-      "value": 8
+      "value": 7
+     },
+     {
+      "element": 593,
+      "value": 7
+     },
+     {
+      "element": 446,
+      "value": 6
      },
      {
       "element": 454,
       "value": 5
      },
      {
-      "element": 593,
+      "element": 464,
       "value": 5
      },
      {
-      "element": 462,
-      "value": 4
-     },
-     {
       "element": 448,
-      "value": 3
-     },
-     {
-      "element": 457,
-      "value": 3
+      "value": 1
      },
      {
       "element": 456,
-      "value": 2
-     },
-     {
-      "element": 464,
-      "value": 2
+      "value": -9
      }
     ],
     "identifier": "bps"
@@ -32967,15 +32993,19 @@
     "a": [
      {
       "element": 239,
-      "value": 10
-     },
-     {
-      "element": 233,
-      "value": 7
+      "value": 12
      },
      {
       "element": 229,
-      "value": 6
+      "value": 9
+     },
+     {
+      "element": 233,
+      "value": 8
+     },
+     {
+      "element": 242,
+      "value": 7
      },
      {
       "element": 230,
@@ -32986,16 +33016,12 @@
       "value": 6
      },
      {
-      "element": 242,
+      "element": 246,
       "value": 6
      },
      {
       "element": 232,
       "value": 5
-     },
-     {
-      "element": 246,
-      "value": 4
      },
      {
       "element": 244,
@@ -33020,16 +33046,16 @@
       "value": 6
      },
      {
+      "element": 448,
+      "value": 6
+     },
+     {
       "element": 449,
       "value": 6
      },
      {
       "element": 458,
       "value": 6
-     },
-     {
-      "element": 448,
-      "value": 5
      },
      {
       "element": 465,
@@ -33041,6 +33067,14 @@
      },
      {
       "element": 453,
+      "value": 4
+     },
+     {
+      "element": 464,
+      "value": 4
+     },
+     {
+      "element": 461,
       "value": 3
      },
      {
@@ -33052,7 +33086,11 @@
       "value": 2
      },
      {
-      "element": 464,
+      "element": 456,
+      "value": 1
+     },
+     {
+      "element": 457,
       "value": 1
      }
     ],

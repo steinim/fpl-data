@@ -170,7 +170,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 458,Joelinton,Newcastle,MID,5.4,74,0,0,0,1,0,6,0,11,0,0,2
 460,Willock,Newcastle,MID,5.0,63,0,0,0,1,0,7,0,12,0,0,2
 465,Osula,Newcastle,FWD,5.8,90,0,0,0,1,0,5,0,7,0,0,2
-480,Gibbs-White,Nott'm Forest,MID,7.9,90,0,0,0,2,0,1,0,11,0,0,2
+480,Gibbs-White,Nott'm Forest,MID,7.8,90,0,0,0,2,0,1,0,11,0,0,2
 483,Ndoye,Nott'm Forest,MID,5.5,64,0,0,0,1,0,4,0,8,0,0,2
 526,Solanke,Spurs,FWD,5.8,65,0,0,1,0,0,8,0,13,0,0,2
 545,Sadiki,Sunderland,MID,4.8,74,0,0,0,3,0,6,0,14,0,0,2
@@ -473,7 +473,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 326,Perri,Leeds,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 327,Bijol,Leeds,DEF,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 328,Struijk,Brighton,DEF,4.9,0,0,0,0,0,0,0,0,0,0,0,0
-329,Rodon,Leeds,DEF,4.3,0,0,0,0,0,0,0,0,0,0,0,0
+329,Rodon,Leeds,DEF,4.2,0,0,0,0,0,0,0,0,0,0,0,0
 333,Bornauw,Leeds,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 336,Okafor,Leeds,MID,5.8,0,0,0,0,0,0,0,0,0,0,0,0
 341,Gnonto,Leeds,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -520,7 +520,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 414,Heaton,Man Utd,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 415,Dorgu,Man Utd,MID,5.7,0,0,0,0,0,0,0,0,0,0,0,0
 416,De Ligt,Man Utd,DEF,4.9,0,0,0,0,0,0,0,0,0,0,0,0
-418,Maguire,Man Utd,DEF,4.7,90,0,0,0,2,0,8,0,3,1,0,0
+418,Maguire,Man Utd,DEF,4.6,90,0,0,0,2,0,8,0,3,1,0,0
 422,Mazraoui,Man Utd,DEF,4.3,0,0,0,0,0,0,0,0,0,0,0,0
 423,Shaw,Man Utd,DEF,4.2,0,0,0,0,0,0,0,0,0,0,0,0
 424,Amass,Man Utd,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -662,7 +662,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 665,Mills,Newcastle,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 666,Thompson,Newcastle,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 667,Wright,Aston Villa,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
-668,Tutierov,Sunderland,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
+668,Tutierov,Sunderland,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 669,Sharman-Lowe,Chelsea,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 670,Subuloye,Chelsea,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 223,Mateta,Crystal Palace,FWD,6.3,12,0,0,0,2,0,2,0,-4,0,1,-2

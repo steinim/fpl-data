@@ -29,14 +29,14 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 566,Silva,Bournemouth,DEF,5.1,90,0,0,1,0,0,9,2,26,0,0,8
 571,Florentino,Ipswich Town,MID,4.8,69,1,0,0,2,0,6,1,32,0,0,8
 591,Enciso,Ipswich Town,MID,5.5,90,1,0,0,2,0,6,2,39,1,0,8
-53,Manzambi,Aston Villa,MID,6.1,65,0,1,0,1,0,6,2,24,0,0,7
+53,Manzambi,Aston Villa,MID,6.2,65,0,1,0,1,0,6,2,24,0,0,7
 82,Kelleher,Brentford,GKP,5.0,90,0,0,1,0,1,0,1,25,0,0,7
 226,Pickford,Everton,GKP,5.5,90,0,0,1,0,2,0,1,29,0,0,7
 512,Kudus,Spurs,MID,6.6,90,0,1,1,0,0,2,1,32,0,0,7
 4,Gabriel,Arsenal,DEF,8.0,90,0,0,1,0,0,9,0,29,0,0,6
 8,Calafiori,Arsenal,DEF,5.9,90,0,0,1,0,0,9,0,21,0,0,6
 57,Petrović,Bournemouth,GKP,4.5,90,0,0,1,0,1,0,0,25,0,0,6
-60,Hill,Bournemouth,DEF,5.5,90,0,0,1,0,0,9,0,24,0,0,6
+60,Hill,Bournemouth,DEF,5.6,90,0,0,1,0,0,9,0,24,0,0,6
 61,Truffert,Bournemouth,DEF,5.4,90,0,0,1,0,0,6,0,24,0,0,6
 64,Smith,Bournemouth,DEF,4.5,87,0,0,1,0,0,5,0,22,0,0,6
 70,Kluivert,Bournemouth,MID,5.9,67,0,1,1,0,0,5,0,19,0,0,6
@@ -412,7 +412,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 219,J.Rak-Sakyi,Crystal Palace,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 220,Cardines,Crystal Palace,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 221,Drakes-Thomas,Crystal Palace,MID,4.4,0,0,0,0,0,0,0,0,0,0,0,0
-222,Strand Larsen,Crystal Palace,FWD,6.0,0,0,0,0,0,0,0,0,0,0,0,0
+222,Strand Larsen,Crystal Palace,FWD,5.9,0,0,0,0,0,0,0,0,0,0,0,0
 225,Uche,Crystal Palace,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 227,Travers,Everton,GKP,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 228,King,Everton,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0

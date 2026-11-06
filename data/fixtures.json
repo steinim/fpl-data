@@ -33118,8 +33118,64 @@
   "minutes": 0,
   "provisional_start_time": false,
   "pulse_id": 0,
-  "started": false,
-  "stats": [],
+  "started": true,
+  "stats": [
+   {
+    "a": [],
+    "h": [],
+    "identifier": "goals_scored"
+   },
+   {
+    "a": [],
+    "h": [],
+    "identifier": "assists"
+   },
+   {
+    "a": [],
+    "h": [],
+    "identifier": "own_goals"
+   },
+   {
+    "a": [],
+    "h": [],
+    "identifier": "penalties_saved"
+   },
+   {
+    "a": [],
+    "h": [],
+    "identifier": "penalties_missed"
+   },
+   {
+    "a": [],
+    "h": [],
+    "identifier": "yellow_cards"
+   },
+   {
+    "a": [],
+    "h": [],
+    "identifier": "red_cards"
+   },
+   {
+    "a": [],
+    "h": [],
+    "identifier": "saves"
+   },
+   {
+    "a": [],
+    "h": [],
+    "identifier": "bonus"
+   },
+   {
+    "a": [],
+    "h": [],
+    "identifier": "bps"
+   },
+   {
+    "a": [],
+    "h": [],
+    "identifier": "defensive_contribution"
+   }
+  ],
   "team_a": 7,
   "team_a_difficulty": 3,
   "team_a_score": null,

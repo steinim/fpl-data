@@ -8,7 +8,7 @@ id,name,deadline_time,finished,data_checked,is_current,is_next,average_entry_sco
 7,Gameweek 7,2026-10-17T10:00:00Z,True,True,False,False,59,122,411,"[{""chip_name"": ""bboost"", ""num_played"": 179094}, {""chip_name"": ""freehit"", ""num_played"": 93126}, {""chip_name"": ""wildcard"", ""num_played"": 335228}, {""chip_name"": ""3xc"", ""num_played"": 724286}]"
 8,Gameweek 8,2026-10-23T17:30:00Z,True,True,False,False,45,120,411,"[{""chip_name"": ""bboost"", ""num_played"": 157767}, {""chip_name"": ""freehit"", ""num_played"": 84907}, {""chip_name"": ""wildcard"", ""num_played"": 216025}, {""chip_name"": ""3xc"", ""num_played"": 78068}]"
 9,Gameweek 9,2026-10-31T11:00:00Z,True,True,False,False,47,122,411,"[{""chip_name"": ""bboost"", ""num_played"": 107179}, {""chip_name"": ""freehit"", ""num_played"": 333140}, {""chip_name"": ""wildcard"", ""num_played"": 333085}, {""chip_name"": ""3xc"", ""num_played"": 67122}]"
-10,Gameweek 10,2026-11-06T18:30:00Z,False,False,True,False,2,71,411,"[{""chip_name"": ""bboost"", ""num_played"": 282173}, {""chip_name"": ""freehit"", ""num_played"": 80369}, {""chip_name"": ""wildcard"", ""num_played"": 136671}, {""chip_name"": ""3xc"", ""num_played"": 133007}]"
+10,Gameweek 10,2026-11-06T18:30:00Z,False,False,True,False,25,100,411,"[{""chip_name"": ""bboost"", ""num_played"": 282173}, {""chip_name"": ""freehit"", ""num_played"": 80369}, {""chip_name"": ""wildcard"", ""num_played"": 136671}, {""chip_name"": ""3xc"", ""num_played"": 133007}]"
 11,Gameweek 11,2026-11-21T11:00:00Z,False,False,False,True,0,,,[]
 12,Gameweek 12,2026-11-27T18:30:00Z,False,False,False,False,0,,,[]
 13,Gameweek 13,2026-12-01T18:30:00Z,False,False,False,False,0,,,[]

@@ -7,7 +7,7 @@ slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_poin
 6,B.Fernandes,Man Utd,MID,1,False,False,0,0,0,0,0
 7,Tavernier,Bournemouth,MID,1,False,False,0,0,0,0,0
 8,Mbeumo,Man Utd,MID,1,False,False,0,0,0,0,0
-9,Barry,Everton,FWD,1,False,True,1,1,1,3,0
+9,Barry,Everton,FWD,1,False,True,90,16,16,63,3
 10,Evanilson,Bournemouth,FWD,1,False,False,0,0,0,0,0
 11,Haaland,Man City,FWD,2,True,False,0,0,0,0,0
 12,Kinsky,Spurs,GKP,0,False,False,0,0,0,0,0

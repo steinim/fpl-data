@@ -9,7 +9,7 @@ slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_poin
 8,Mbeumo,Man Utd,MID,1,False,False,0,0,0,0,0
 9,Barry,Everton,FWD,1,False,True,90,16,16,59,3
 10,Evanilson,Bournemouth,FWD,1,False,False,0,0,0,0,0
-11,Haaland,Man City,FWD,2,True,False,12,1,2,3,0
+11,Haaland,Man City,FWD,2,True,False,43,1,2,5,0
 12,Kinsky,Spurs,GKP,0,False,False,90,2,0,13,0
 13,Egan,Hull City,DEF,0,False,False,90,2,0,4,0
 14,Slater,Hull City,MID,0,False,False,90,2,0,12,0

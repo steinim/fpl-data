@@ -90,9 +90,9 @@ id,event,kickoff_time,home,away,home_score,away_score,finished,fdr_home,fdr_away
 87,9,2026-11-01T16:30:00Z,Liverpool,Arsenal,0,1,True,4,4
 89,9,2026-11-02T20:00:00Z,Newcastle,Everton,0,1,True,3,3
 94,10,2026-11-06T20:00:00Z,Everton,Coventry City,3,1,False,2,3
-97,10,2026-11-07T12:30:00Z,Leeds,Spurs,,,False,3,3
-91,10,2026-11-07T15:00:00Z,Arsenal,Hull City,,,False,2,5
-95,10,2026-11-07T15:00:00Z,Fulham,Newcastle,,,False,3,3
+97,10,2026-11-07T12:30:00Z,Leeds,Spurs,1,0,False,3,3
+91,10,2026-11-07T15:00:00Z,Arsenal,Hull City,1,0,False,2,5
+95,10,2026-11-07T15:00:00Z,Fulham,Newcastle,1,1,False,3,3
 99,10,2026-11-07T17:30:00Z,Nott'm Forest,Man City,,,False,4,2
 92,10,2026-11-08T14:00:00Z,Brighton,Brentford,,,False,3,4
 93,10,2026-11-08T14:00:00Z,Crystal Palace,Liverpool,,,False,4,2

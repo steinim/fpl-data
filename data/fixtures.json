@@ -36446,7 +36446,7 @@
   "finished_provisional": false,
   "id": 98,
   "kickoff_time": "2026-11-08T16:30:00Z",
-  "minutes": 64,
+  "minutes": 90,
   "provisional_start_time": false,
   "pulse_id": 0,
   "started": true,
@@ -36478,6 +36478,10 @@
      {
       "element": 426,
       "value": 1
+     },
+     {
+      "element": 440,
+      "value": 1
      }
     ],
     "identifier": "goals_scored"
@@ -36498,6 +36502,10 @@
      }
     ],
     "h": [
+     {
+      "element": 415,
+      "value": 1
+     },
      {
       "element": 422,
       "value": 1
@@ -36543,13 +36551,13 @@
     "a": [
      {
       "element": 597,
-      "value": 4
+      "value": 5
      }
     ],
     "h": [
      {
       "element": 412,
-      "value": 2
+      "value": 3
      }
     ],
     "identifier": "saves"
@@ -36585,11 +36593,11 @@
      },
      {
       "element": 45,
-      "value": 39
+      "value": 36
      },
      {
       "element": 618,
-      "value": 31
+      "value": 34
      },
      {
       "element": 53,
@@ -36597,26 +36605,46 @@
      },
      {
       "element": 597,
-      "value": 13
-     },
-     {
-      "element": 630,
-      "value": 9
-     },
-     {
-      "element": 37,
-      "value": 4
+      "value": 15
      },
      {
       "element": 47,
+      "value": 8
+     },
+     {
+      "element": 37,
+      "value": 5
+     },
+     {
+      "element": 46,
+      "value": 5
+     },
+     {
+      "element": 54,
+      "value": 5
+     },
+     {
+      "element": 631,
+      "value": 5
+     },
+     {
+      "element": 51,
       "value": 4
      },
      {
-      "element": 36,
-      "value": 3
+      "element": 582,
+      "value": 4
      },
      {
       "element": 34,
+      "value": 3
+     },
+     {
+      "element": 36,
+      "value": 2
+     },
+     {
+      "element": 630,
       "value": 2
      }
     ],
@@ -36627,7 +36655,11 @@
      },
      {
       "element": 428,
-      "value": 27
+      "value": 37
+     },
+     {
+      "element": 440,
+      "value": 28
      },
      {
       "element": 426,
@@ -36635,23 +36667,39 @@
      },
      {
       "element": 432,
-      "value": 18
+      "value": 24
+     },
+     {
+      "element": 415,
+      "value": 22
      },
      {
       "element": 431,
       "value": 9
      },
      {
-      "element": 427,
-      "value": 5
+      "element": 422,
+      "value": 7
      },
      {
-      "element": 422,
-      "value": -1
+      "element": 435,
+      "value": 3
+     },
+     {
+      "element": 427,
+      "value": 2
+     },
+     {
+      "element": 430,
+      "value": 2
      },
      {
       "element": 412,
-      "value": -4
+      "value": -2
+     },
+     {
+      "element": 420,
+      "value": -2
      },
      {
       "element": 418,
@@ -36659,11 +36707,7 @@
      },
      {
       "element": 421,
-      "value": -8
-     },
-     {
-      "element": 420,
-      "value": -10
+      "value": -4
      },
      {
       "element": 417,
@@ -36675,23 +36719,31 @@
    {
     "a": [
      {
-      "element": 34,
-      "value": 8
-     },
-     {
       "element": 37,
-      "value": 7
+      "value": 13
      },
      {
-      "element": 52,
-      "value": 6
+      "element": 34,
+      "value": 12
+     },
+     {
+      "element": 47,
+      "value": 11
      },
      {
       "element": 53,
-      "value": 6
+      "value": 8
      },
      {
       "element": 630,
+      "value": 7
+     },
+     {
+      "element": 36,
+      "value": 6
+     },
+     {
+      "element": 52,
       "value": 6
      },
      {
@@ -36699,30 +36751,38 @@
       "value": 5
      },
      {
-      "element": 47,
-      "value": 4
-     },
-     {
-      "element": 36,
-      "value": 3
-     },
-     {
       "element": 618,
       "value": 3
      },
      {
+      "element": 51,
+      "value": 2
+     },
+     {
       "element": 166,
       "value": 2
+     },
+     {
+      "element": 582,
+      "value": 2
+     },
+     {
+      "element": 631,
+      "value": 1
      }
     ],
     "h": [
      {
-      "element": 420,
-      "value": 10
+      "element": 432,
+      "value": 14
      },
      {
-      "element": 432,
-      "value": 10
+      "element": 420,
+      "value": 11
+     },
+     {
+      "element": 422,
+      "value": 8
      },
      {
       "element": 43,
@@ -36733,7 +36793,15 @@
       "value": 6
      },
      {
-      "element": 422,
+      "element": 428,
+      "value": 6
+     },
+     {
+      "element": 415,
+      "value": 5
+     },
+     {
+      "element": 421,
       "value": 4
      },
      {
@@ -36741,19 +36809,27 @@
       "value": 4
      },
      {
-      "element": 428,
-      "value": 3
-     },
-     {
       "element": 418,
       "value": 2
      },
      {
-      "element": 421,
+      "element": 430,
+      "value": 2
+     },
+     {
+      "element": 426,
       "value": 1
      },
      {
       "element": 427,
+      "value": 1
+     },
+     {
+      "element": 435,
+      "value": 1
+     },
+     {
+      "element": 440,
       "value": 1
      }
     ],
@@ -36765,7 +36841,7 @@
   "team_a_score": 4,
   "team_h": 16,
   "team_h_difficulty": 3,
-  "team_h_score": 2
+  "team_h_score": 3
  },
  {
   "code": 2645302,

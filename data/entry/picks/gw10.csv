@@ -4,9 +4,9 @@ slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_poin
 3,Davis,Ipswich Town,DEF,1,False,False,90,1,1,9,0
 4,Calafiori,Arsenal,DEF,1,False,False,68,6,6,26,0
 5,Groß,Brighton,MID,1,False,False,90,10,10,34,2
-6,B.Fernandes,Man Utd,MID,1,False,False,65,7,7,23,0
+6,B.Fernandes,Man Utd,MID,1,False,False,90,10,10,38,0
 7,Tavernier,Bournemouth,MID,1,False,False,90,3,3,12,0
-8,Mbeumo,Man Utd,MID,1,False,False,65,2,2,5,0
+8,Mbeumo,Man Utd,MID,1,False,False,82,2,2,2,0
 9,Barry,Everton,FWD,1,False,True,90,16,16,59,3
 10,Evanilson,Bournemouth,FWD,1,False,False,84,9,9,39,3
 11,Haaland,Man City,FWD,2,True,False,90,2,4,6,0

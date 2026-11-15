@@ -25,7 +25,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 533,Mukiele,Sunderland,DEF,5.3,90,0,0,1,0,0,10,1,26,0,0,9
 4,Gabriel,Arsenal,DEF,8.1,90,0,0,1,0,0,10,0,29,0,0,8
 16,Madueke,Arsenal,MID,6.2,90,0,1,1,0,0,5,2,36,0,0,8
-31,Konsa,Arsenal,DEF,4.8,90,0,0,1,0,0,11,0,29,0,0,8
+31,Konsa,Arsenal,DEF,4.9,90,0,0,1,0,0,11,0,29,0,0,8
 233,Mykolenko,Everton,DEF,4.6,90,0,1,0,1,0,11,1,33,0,0,8
 313,Clarke,Ipswich Town,MID,5.2,37,1,0,0,0,0,3,2,20,0,0,8
 379,Isak,Liverpool,FWD,9.3,90,1,0,1,0,0,3,2,34,0,0,8
@@ -343,7 +343,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 104,Onyeka,Coventry City,MID,4.8,0,0,0,0,0,0,0,0,0,0,0,0
 105,Anthony,Brentford,MID,5.9,0,0,0,0,0,0,0,0,0,0,0,0
 107,Furo,Brentford,FWD,4.4,0,0,0,0,0,0,0,0,0,0,0,0
-111,Steele,Brighton,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+111,Steele,Brighton,GKP,3.9,0,0,0,0,0,0,0,0,0,0,0,0
 113,F.Kadıoğlu,Brighton,DEF,4.3,0,0,0,0,0,0,0,0,0,0,0,0
 117,Coppola,Brighton,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
 118,Igor,Brighton,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
@@ -482,7 +482,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 353,Pecsi,Liverpool,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 354,Jaros,Liverpool,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 355,Davies,Liverpool,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
-357,Frimpong,Liverpool,DEF,5.2,0,0,0,0,0,0,0,0,0,0,0,0
+357,Frimpong,Liverpool,DEF,5.1,0,0,0,0,0,0,0,0,0,0,0,0
 360,Bradley,Liverpool,DEF,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 361,Lucky,Liverpool,DEF,3.9,0,0,0,0,0,0,0,0,0,0,0,0
 363,Leoni,Liverpool,DEF,3.9,0,0,0,0,0,0,0,0,0,0,0,0

@@ -357,7 +357,7 @@
    "points_per_game_rank": 14,
    "points_per_game_rank_type": 1,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 20,
+   "price_change_hourly_rate": 16,
    "price_change_locked_until": null,
    "price_change_percent": "93.7",
    "price_change_projections": [
@@ -374,7 +374,7 @@
     {
      "likelihood": 3,
      "offset": 2,
-     "projected_percent": "94.4"
+     "projected_percent": "94.3"
     }
    ],
    "recoveries": 117,
@@ -738,7 +738,7 @@
    "points_per_game_rank": 7,
    "points_per_game_rank_type": 3,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 52,
+   "price_change_hourly_rate": 45,
    "price_change_locked_until": null,
    "price_change_percent": "19.1",
    "price_change_projections": [
@@ -750,12 +750,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "19.5"
+     "projected_percent": "19.4"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "19.8"
+     "projected_percent": "19.7"
     }
    ],
    "recoveries": 30,
@@ -865,7 +865,7 @@
    "points_per_game_rank": 245,
    "points_per_game_rank_type": 90,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 13,
+   "price_change_hourly_rate": 8,
    "price_change_locked_until": null,
    "price_change_percent": "46.9",
    "price_change_projections": [
@@ -877,12 +877,12 @@
     {
      "likelihood": 3,
      "offset": 1,
-     "projected_percent": "47.1"
+     "projected_percent": "47.0"
     },
     {
      "likelihood": 3,
      "offset": 2,
-     "projected_percent": "47.3"
+     "projected_percent": "47.2"
     }
    ],
    "recoveries": 22,
@@ -992,7 +992,7 @@
    "points_per_game_rank": 666,
    "points_per_game_rank_type": 219,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 3,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "1.3",
    "price_change_projections": [
@@ -1009,7 +1009,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "1.4"
+     "projected_percent": "1.3"
     }
    ],
    "recoveries": 0,
@@ -1246,7 +1246,7 @@
    "points_per_game_rank": 21,
    "points_per_game_rank_type": 9,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 11,
+   "price_change_hourly_rate": 8,
    "price_change_locked_until": null,
    "price_change_percent": "6.5",
    "price_change_projections": [
@@ -1258,12 +1258,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "6.7"
+     "projected_percent": "6.6"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "6.9"
+     "projected_percent": "6.8"
     }
    ],
    "recoveries": 26,
@@ -1373,7 +1373,7 @@
    "points_per_game_rank": 412,
    "points_per_game_rank_type": 146,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-16.2",
    "price_change_projections": [
@@ -1385,12 +1385,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-16.5"
+     "projected_percent": "-16.2"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-16.8"
+     "projected_percent": "-16.2"
     }
    ],
    "recoveries": 2,
@@ -1500,7 +1500,7 @@
    "points_per_game_rank": 12,
    "points_per_game_rank_type": 6,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -18,
+   "price_change_hourly_rate": -19,
    "price_change_locked_until": null,
    "price_change_percent": "-45.1",
    "price_change_projections": [
@@ -1627,7 +1627,7 @@
    "points_per_game_rank": 11,
    "points_per_game_rank_type": 5,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": -3,
    "price_change_locked_until": null,
    "price_change_percent": "-22.8",
    "price_change_projections": [
@@ -1639,12 +1639,12 @@
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-23.5"
+     "projected_percent": "-23.3"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-24.2"
+     "projected_percent": "-23.8"
     }
    ],
    "recoveries": 3,
@@ -1881,7 +1881,7 @@
    "points_per_game_rank": 42,
    "points_per_game_rank_type": 19,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 14,
+   "price_change_hourly_rate": 18,
    "price_change_locked_until": null,
    "price_change_percent": "4.3",
    "price_change_projections": [
@@ -2025,7 +2025,7 @@
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-24.9"
+     "projected_percent": "-25.0"
     }
    ],
    "recoveries": 10,
@@ -2135,7 +2135,7 @@
    "points_per_game_rank": 39,
    "points_per_game_rank_type": 16,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 4,
+   "price_change_hourly_rate": 2,
    "price_change_locked_until": null,
    "price_change_percent": "-32.8",
    "price_change_projections": [
@@ -2152,7 +2152,7 @@
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-32.7"
+     "projected_percent": "-32.8"
     }
    ],
    "recoveries": 29,
@@ -2389,7 +2389,7 @@
    "points_per_game_rank": 357,
    "points_per_game_rank_type": 174,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "-78.3",
    "price_change_projections": [
@@ -2401,12 +2401,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-78.9"
+     "projected_percent": "-79.4"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-79.5"
+     "projected_percent": "-80.4"
     }
    ],
    "recoveries": 17,
@@ -2643,24 +2643,24 @@
    "points_per_game_rank": 413,
    "points_per_game_rank_type": 198,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "-52.3",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-52.3"
+     "projected_percent": "-52.4"
     },
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-52.3"
+     "projected_percent": "-53.2"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-52.3"
+     "projected_percent": "-54.0"
     }
    ],
    "recoveries": 3,
@@ -3278,7 +3278,7 @@
    "points_per_game_rank": 317,
    "points_per_game_rank_type": 34,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -6,
+   "price_change_hourly_rate": -7,
    "price_change_locked_until": null,
    "price_change_percent": "-48.9",
    "price_change_projections": [
@@ -3290,12 +3290,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-49.2"
+     "projected_percent": "-49.3"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-49.6"
+     "projected_percent": "-49.8"
     }
    ],
    "recoveries": 13,
@@ -3405,7 +3405,7 @@
    "points_per_game_rank": 117,
    "points_per_game_rank_type": 12,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -13,
+   "price_change_hourly_rate": -10,
    "price_change_locked_until": null,
    "price_change_percent": "40.3",
    "price_change_projections": [
@@ -3417,12 +3417,12 @@
     {
      "likelihood": 3,
      "offset": 1,
-     "projected_percent": "40.1"
+     "projected_percent": "40.2"
     },
     {
-     "likelihood": 2,
+     "likelihood": 3,
      "offset": 2,
-     "projected_percent": "39.9"
+     "projected_percent": "40.0"
     }
    ],
    "recoveries": 9,
@@ -3659,7 +3659,7 @@
    "points_per_game_rank": 8,
    "points_per_game_rank_type": 4,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 139,
+   "price_change_hourly_rate": 134,
    "price_change_locked_until": null,
    "price_change_percent": "0.7",
    "price_change_projections": [
@@ -3786,7 +3786,7 @@
    "points_per_game_rank": 116,
    "points_per_game_rank_type": 47,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -7,
+   "price_change_hourly_rate": -5,
    "price_change_locked_until": null,
    "price_change_percent": "33.7",
    "price_change_projections": [
@@ -3798,12 +3798,12 @@
     {
      "likelihood": 2,
      "offset": 1,
-     "projected_percent": "33.6"
+     "projected_percent": "33.7"
     },
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "33.5"
+     "projected_percent": "33.6"
     }
    ],
    "recoveries": 25,
@@ -3913,7 +3913,7 @@
    "points_per_game_rank": 145,
    "points_per_game_rank_type": 58,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -8,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "-8.6",
    "price_change_projections": [
@@ -3925,12 +3925,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-9.0"
+     "projected_percent": "-8.7"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-9.4"
+     "projected_percent": "-8.9"
     }
    ],
    "recoveries": 17,
@@ -4421,24 +4421,24 @@
    "points_per_game_rank": 152,
    "points_per_game_rank_type": 64,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-12.9",
    "price_change_projections": [
     {
      "likelihood": -1,
      "offset": 0,
-     "projected_percent": "-13.0"
+     "projected_percent": "-12.9"
     },
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-13.6"
+     "projected_percent": "-12.9"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-14.2"
+     "projected_percent": "-12.9"
     }
    ],
    "recoveries": 13,
@@ -5056,7 +5056,7 @@
    "points_per_game_rank": 509,
    "points_per_game_rank_type": 185,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -6,
+   "price_change_hourly_rate": -3,
    "price_change_locked_until": null,
    "price_change_percent": "0.0",
    "price_change_projections": [
@@ -5322,12 +5322,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-49.7"
+     "projected_percent": "-49.6"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-50.1"
+     "projected_percent": "-50.0"
     }
    ],
    "recoveries": 32,
@@ -5564,7 +5564,7 @@
    "points_per_game_rank": 61,
    "points_per_game_rank_type": 27,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 69,
+   "price_change_hourly_rate": 57,
    "price_change_locked_until": null,
    "price_change_percent": "87.7",
    "price_change_projections": [
@@ -5576,12 +5576,12 @@
     {
      "likelihood": 3,
      "offset": 1,
-     "projected_percent": "89.0"
+     "projected_percent": "88.8"
     },
     {
      "likelihood": 3,
      "offset": 2,
-     "projected_percent": "90.3"
+     "projected_percent": "89.8"
     }
    ],
    "recoveries": 37,
@@ -5691,7 +5691,7 @@
    "points_per_game_rank": 323,
    "points_per_game_rank_type": 148,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -2,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "-90.3",
    "price_change_projections": [
@@ -5703,12 +5703,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-91.9"
+     "projected_percent": "-91.4"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-93.3"
+     "projected_percent": "-92.4"
     }
    ],
    "recoveries": 21,
@@ -5818,7 +5818,7 @@
    "points_per_game_rank": 120,
    "points_per_game_rank_type": 48,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "3.2",
    "price_change_projections": [
@@ -5957,7 +5957,7 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-53.4"
+     "projected_percent": "-53.3"
     },
     {
      "likelihood": -3,
@@ -6201,7 +6201,7 @@
    "price_change_calibrating": false,
    "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
-   "price_change_percent": "-70.7",
+   "price_change_percent": "-70.8",
    "price_change_projections": [
     {
      "likelihood": -3,
@@ -6326,7 +6326,7 @@
    "points_per_game_rank": 305,
    "points_per_game_rank_type": 139,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -3,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "-50.0",
    "price_change_projections": [
@@ -6338,12 +6338,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-50.7"
+     "projected_percent": "-50.5"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-51.4"
+     "projected_percent": "-51.1"
     }
    ],
    "recoveries": 11,
@@ -6453,7 +6453,7 @@
    "points_per_game_rank": 140,
    "points_per_game_rank_type": 54,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 15,
+   "price_change_hourly_rate": 12,
    "price_change_locked_until": null,
    "price_change_percent": "9.9",
    "price_change_projections": [
@@ -6465,12 +6465,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "10.2"
+     "projected_percent": "10.1"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "10.4"
+     "projected_percent": "10.3"
     }
    ],
    "recoveries": 10,
@@ -6580,24 +6580,24 @@
    "points_per_game_rank": 22,
    "points_per_game_rank_type": 6,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -56,
+   "price_change_hourly_rate": -49,
    "price_change_locked_until": null,
    "price_change_percent": "45.5",
    "price_change_projections": [
     {
      "likelihood": 3,
      "offset": 0,
-     "projected_percent": "45.4"
+     "projected_percent": "45.5"
     },
     {
      "likelihood": 3,
      "offset": 1,
-     "projected_percent": "44.4"
+     "projected_percent": "44.6"
     },
     {
      "likelihood": 3,
      "offset": 2,
-     "projected_percent": "43.4"
+     "projected_percent": "43.7"
     }
    ],
    "recoveries": 20,
@@ -6961,7 +6961,7 @@
    "points_per_game_rank": 425,
    "points_per_game_rank_type": 47,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "2.4",
    "price_change_projections": [
@@ -6978,7 +6978,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "2.3"
+     "projected_percent": "2.4"
     }
    ],
    "recoveries": 1,
@@ -7228,9 +7228,9 @@
    "points_per_game_rank": 15,
    "points_per_game_rank_type": 5,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 348,
+   "price_change_hourly_rate": 305,
    "price_change_locked_until": null,
-   "price_change_percent": "73.3",
+   "price_change_percent": "73.4",
    "price_change_projections": [
     {
      "likelihood": 3,
@@ -7240,12 +7240,12 @@
     {
      "likelihood": 3,
      "offset": 1,
-     "projected_percent": "75.8"
+     "projected_percent": "75.5"
     },
     {
      "likelihood": 3,
      "offset": 2,
-     "projected_percent": "78.1"
+     "projected_percent": "77.5"
     }
    ],
    "recoveries": 19,
@@ -7362,7 +7362,7 @@
     {
      "likelihood": -1,
      "offset": 0,
-     "projected_percent": "-2.8"
+     "projected_percent": "-2.9"
     },
     {
      "likelihood": -1,
@@ -7609,7 +7609,7 @@
    "points_per_game_rank": 121,
    "points_per_game_rank_type": 10,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 14,
+   "price_change_hourly_rate": 7,
    "price_change_locked_until": null,
    "price_change_percent": "96.9",
    "price_change_projections": [
@@ -7621,12 +7621,12 @@
     {
      "likelihood": 4,
      "offset": 1,
-     "projected_percent": "97.2"
+     "projected_percent": "97.1"
     },
     {
      "likelihood": 4,
      "offset": 2,
-     "projected_percent": "97.4"
+     "projected_percent": "97.2"
     }
    ],
    "recoveries": 86,
@@ -8117,7 +8117,7 @@
    "points_per_game_rank": 191,
    "points_per_game_rank_type": 85,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "1.1",
    "price_change_projections": [
@@ -8752,7 +8752,7 @@
    "points_per_game_rank": 153,
    "points_per_game_rank_type": 14,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "17.9",
    "price_change_projections": [
@@ -9133,7 +9133,7 @@
    "points_per_game_rank": 73,
    "points_per_game_rank_type": 32,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 37,
+   "price_change_hourly_rate": 28,
    "price_change_locked_until": null,
    "price_change_percent": "19.5",
    "price_change_projections": [
@@ -9145,12 +9145,12 @@
     {
      "likelihood": 2,
      "offset": 1,
-     "projected_percent": "20.2"
+     "projected_percent": "20.0"
     },
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "20.8"
+     "projected_percent": "20.5"
     }
    ],
    "recoveries": 31,
@@ -9260,7 +9260,7 @@
    "points_per_game_rank": 133,
    "points_per_game_rank_type": 55,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 8,
    "price_change_locked_until": null,
    "price_change_percent": "33.5",
    "price_change_projections": [
@@ -9272,12 +9272,12 @@
     {
      "likelihood": 2,
      "offset": 1,
-     "projected_percent": "33.5"
+     "projected_percent": "33.6"
     },
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "33.5"
+     "projected_percent": "33.8"
     }
    ],
    "recoveries": 44,
@@ -9641,7 +9641,7 @@
    "points_per_game_rank": 233,
    "points_per_game_rank_type": 87,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 4,
+   "price_change_hourly_rate": 3,
    "price_change_locked_until": null,
    "price_change_percent": "6.6",
    "price_change_projections": [
@@ -10029,7 +10029,7 @@
    "points_per_game_rank": 170,
    "points_per_game_rank_type": 72,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 8,
+   "price_change_hourly_rate": 6,
    "price_change_locked_until": null,
    "price_change_percent": "66.1",
    "price_change_projections": [
@@ -10046,7 +10046,7 @@
     {
      "likelihood": 3,
      "offset": 2,
-     "projected_percent": "66.4"
+     "projected_percent": "66.3"
     }
    ],
    "recoveries": 20,
@@ -10156,7 +10156,7 @@
    "points_per_game_rank": 18,
    "points_per_game_rank_type": 5,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 97,
+   "price_change_hourly_rate": 86,
    "price_change_locked_until": null,
    "price_change_percent": "19.5",
    "price_change_projections": [
@@ -10173,7 +10173,7 @@
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "20.8"
+     "projected_percent": "20.6"
     }
    ],
    "recoveries": 53,
@@ -10417,7 +10417,7 @@
    "points_per_game_rank": 93,
    "points_per_game_rank_type": 37,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 2,
    "price_change_locked_until": null,
    "price_change_percent": "26.2",
    "price_change_projections": [
@@ -10429,12 +10429,12 @@
     {
      "likelihood": 2,
      "offset": 1,
-     "projected_percent": "26.2"
+     "projected_percent": "26.3"
     },
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "26.2"
+     "projected_percent": "26.3"
     }
    ],
    "recoveries": 23,
@@ -10544,24 +10544,24 @@
    "points_per_game_rank": 288,
    "points_per_game_rank_type": 129,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 2,
    "price_change_locked_until": null,
-   "price_change_percent": "-99.1",
+   "price_change_percent": "-99.0",
    "price_change_projections": [
     {
      "likelihood": -4,
      "offset": 0,
-     "projected_percent": "-99.1"
+     "projected_percent": "-98.9"
     },
     {
      "likelihood": -4,
      "offset": 1,
-     "projected_percent": "-99.1"
+     "projected_percent": "-96.4"
     },
     {
-     "likelihood": -4,
+     "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-99.1"
+     "projected_percent": "-93.8"
     }
    ],
    "recoveries": 20,
@@ -11433,7 +11433,7 @@
    "points_per_game_rank": 282,
    "points_per_game_rank_type": 126,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 70,
+   "price_change_hourly_rate": 55,
    "price_change_locked_until": null,
    "price_change_percent": "29.3",
    "price_change_projections": [
@@ -11445,12 +11445,12 @@
     {
      "likelihood": 2,
      "offset": 1,
-     "projected_percent": "30.6"
+     "projected_percent": "30.3"
     },
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "31.9"
+     "projected_percent": "31.3"
     }
    ],
    "recoveries": 2,
@@ -11560,7 +11560,7 @@
    "points_per_game_rank": 9,
    "points_per_game_rank_type": 4,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 191,
+   "price_change_hourly_rate": 190,
    "price_change_locked_until": null,
    "price_change_percent": "54.5",
    "price_change_projections": [
@@ -11941,7 +11941,7 @@
    "points_per_game_rank": 84,
    "points_per_game_rank_type": 39,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 14,
+   "price_change_hourly_rate": 16,
    "price_change_locked_until": null,
    "price_change_percent": "30.4",
    "price_change_projections": [
@@ -12075,24 +12075,24 @@
    "points_per_game_rank": 375,
    "points_per_game_rank_type": 134,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-45.7",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-45.8"
+     "projected_percent": "-45.7"
     },
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-46.3"
+     "projected_percent": "-45.7"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-46.9"
+     "projected_percent": "-45.7"
     }
    ],
    "recoveries": 1,
@@ -12710,7 +12710,7 @@
    "points_per_game_rank": 188,
    "points_per_game_rank_type": 72,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -2,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-8.8",
    "price_change_projections": [
@@ -12722,12 +12722,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-9.2"
+     "projected_percent": "-8.8"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-9.6"
+     "projected_percent": "-8.8"
     }
    ],
    "recoveries": 11,
@@ -12981,7 +12981,7 @@
     {
      "likelihood": 3,
      "offset": 2,
-     "projected_percent": "50.5"
+     "projected_percent": "50.6"
     }
    ],
    "recoveries": 37,
@@ -13091,7 +13091,7 @@
    "points_per_game_rank": 69,
    "points_per_game_rank_type": 29,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "58.5",
    "price_change_projections": [
@@ -13103,12 +13103,12 @@
     {
      "likelihood": 3,
      "offset": 1,
-     "projected_percent": "58.5"
+     "projected_percent": "58.4"
     },
     {
      "likelihood": 3,
      "offset": 2,
-     "projected_percent": "58.5"
+     "projected_percent": "58.3"
     }
    ],
    "recoveries": 30,
@@ -13218,7 +13218,7 @@
    "points_per_game_rank": 118,
    "points_per_game_rank_type": 50,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -8,
+   "price_change_hourly_rate": -6,
    "price_change_locked_until": null,
    "price_change_percent": "-15.4",
    "price_change_projections": [
@@ -13230,12 +13230,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-15.7"
+     "projected_percent": "-15.6"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-15.9"
+     "projected_percent": "-15.8"
     }
    ],
    "recoveries": 36,
@@ -13853,7 +13853,7 @@
    "points_per_game_rank": 55,
    "points_per_game_rank_type": 23,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -71,
+   "price_change_hourly_rate": -50,
    "price_change_locked_until": null,
    "price_change_percent": "-17.6",
    "price_change_projections": [
@@ -13865,12 +13865,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-18.3"
+     "projected_percent": "-18.1"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-18.9"
+     "projected_percent": "-18.5"
     }
    ],
    "recoveries": 32,
@@ -13980,7 +13980,7 @@
    "points_per_game_rank": 207,
    "points_per_game_rank_type": 91,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "0.9",
    "price_change_projections": [
@@ -14107,24 +14107,24 @@
    "points_per_game_rank": 228,
    "points_per_game_rank_type": 105,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-77.6",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-77.7"
+     "projected_percent": "-77.6"
     },
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-80.0"
+     "projected_percent": "-77.6"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-82.4"
+     "projected_percent": "-77.6"
     }
    ],
    "recoveries": 23,
@@ -14361,7 +14361,7 @@
    "points_per_game_rank": 76,
    "points_per_game_rank_type": 31,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -2,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "30.4",
    "price_change_projections": [
@@ -14378,7 +14378,7 @@
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "30.3"
+     "projected_percent": "30.4"
     }
    ],
    "recoveries": 37,
@@ -15003,7 +15003,7 @@
    "points_per_game_rank": 169,
    "points_per_game_rank_type": 71,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -2,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "5.4",
    "price_change_projections": [
@@ -15130,9 +15130,9 @@
    "points_per_game_rank": 172,
    "points_per_game_rank_type": 17,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -126,
+   "price_change_hourly_rate": -114,
    "price_change_locked_until": null,
-   "price_change_percent": "-18.5",
+   "price_change_percent": "-18.6",
    "price_change_projections": [
     {
      "likelihood": -1,
@@ -15142,12 +15142,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-19.7"
+     "projected_percent": "-19.6"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-20.7"
+     "projected_percent": "-20.5"
     }
    ],
    "recoveries": 25,
@@ -15391,7 +15391,7 @@
    "points_per_game_rank": 436,
    "points_per_game_rank_type": 50,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-7.6",
    "price_change_projections": [
@@ -15403,12 +15403,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-8.1"
+     "projected_percent": "-7.6"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-8.6"
+     "projected_percent": "-7.6"
     }
    ],
    "recoveries": 2,
@@ -15518,7 +15518,7 @@
    "points_per_game_rank": 135,
    "points_per_game_rank_type": 52,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -13,
+   "price_change_hourly_rate": -12,
    "price_change_locked_until": null,
    "price_change_percent": "-71.6",
    "price_change_projections": [
@@ -15899,7 +15899,7 @@
    "points_per_game_rank": 510,
    "points_per_game_rank_type": 186,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "0.6",
    "price_change_projections": [
@@ -15911,12 +15911,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "0.7"
+     "projected_percent": "0.6"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "0.7"
+     "projected_percent": "0.6"
     }
    ],
    "recoveries": 0,
@@ -16026,7 +16026,7 @@
    "points_per_game_rank": 481,
    "points_per_game_rank_type": 41,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "2.0",
    "price_change_projections": [
@@ -16043,7 +16043,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "2.1"
+     "projected_percent": "2.0"
     }
    ],
    "recoveries": 0,
@@ -16153,7 +16153,7 @@
    "points_per_game_rank": 19,
    "points_per_game_rank_type": 2,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 17,
+   "price_change_hourly_rate": 22,
    "price_change_locked_until": null,
    "price_change_percent": "1.3",
    "price_change_projections": [
@@ -16170,7 +16170,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "1.5"
+     "projected_percent": "1.6"
     }
    ],
    "recoveries": 77,
@@ -16280,7 +16280,7 @@
    "points_per_game_rank": 456,
    "points_per_game_rank_type": 26,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": -3,
    "price_change_locked_until": null,
    "price_change_percent": "0.0",
    "price_change_projections": [
@@ -16290,14 +16290,14 @@
      "projected_percent": "0.0"
     },
     {
-     "likelihood": 0,
+     "likelihood": -1,
      "offset": 1,
-     "projected_percent": "0.0"
+     "projected_percent": "-0.1"
     },
     {
-     "likelihood": 0,
+     "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-0.0"
+     "projected_percent": "-0.2"
     }
    ],
    "recoveries": 0,
@@ -16407,7 +16407,7 @@
    "points_per_game_rank": 75,
    "points_per_game_rank_type": 33,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-4.5",
    "price_change_projections": [
@@ -16419,12 +16419,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-4.9"
+     "projected_percent": "-4.5"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-5.2"
+     "projected_percent": "-4.5"
     }
    ],
    "recoveries": 17,
@@ -16534,7 +16534,7 @@
    "points_per_game_rank": 59,
    "points_per_game_rank_type": 22,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 8,
+   "price_change_hourly_rate": 6,
    "price_change_locked_until": null,
    "price_change_percent": "26.2",
    "price_change_projections": [
@@ -16546,12 +16546,12 @@
     {
      "likelihood": 2,
      "offset": 1,
-     "projected_percent": "26.4"
+     "projected_percent": "26.3"
     },
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "26.5"
+     "projected_percent": "26.4"
     }
    ],
    "recoveries": 32,
@@ -16668,9 +16668,9 @@
    "points_per_game_rank": 2,
    "points_per_game_rank_type": 1,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 182,
+   "price_change_hourly_rate": 164,
    "price_change_locked_until": null,
-   "price_change_percent": "17.6",
+   "price_change_percent": "17.7",
    "price_change_projections": [
     {
      "likelihood": 1,
@@ -16680,12 +16680,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "18.9"
+     "projected_percent": "18.8"
     },
     {
-     "likelihood": 2,
+     "likelihood": 1,
      "offset": 2,
-     "projected_percent": "20.1"
+     "projected_percent": "19.9"
     }
    ],
    "recoveries": 35,
@@ -16795,7 +16795,7 @@
    "points_per_game_rank": 51,
    "points_per_game_rank_type": 19,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 8,
+   "price_change_hourly_rate": 6,
    "price_change_locked_until": null,
    "price_change_percent": "27.9",
    "price_change_projections": [
@@ -16812,7 +16812,7 @@
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "28.2"
+     "projected_percent": "28.1"
     }
    ],
    "recoveries": 31,
@@ -17557,7 +17557,7 @@
    "points_per_game_rank": 430,
    "points_per_game_rank_type": 211,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "0.6",
    "price_change_projections": [
@@ -17811,7 +17811,7 @@
    "points_per_game_rank": 4,
    "points_per_game_rank_type": 1,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 113,
+   "price_change_hourly_rate": 99,
    "price_change_locked_until": null,
    "price_change_percent": "26.1",
    "price_change_projections": [
@@ -17823,12 +17823,12 @@
     {
      "likelihood": 2,
      "offset": 1,
-     "projected_percent": "26.9"
+     "projected_percent": "26.8"
     },
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "27.6"
+     "projected_percent": "27.4"
     }
    ],
    "recoveries": 22,
@@ -17945,7 +17945,7 @@
    "points_per_game_rank": 273,
    "points_per_game_rank_type": 26,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "-96.1",
    "price_change_projections": [
@@ -17957,12 +17957,12 @@
     {
      "likelihood": -4,
      "offset": 1,
-     "projected_percent": "-98.2"
+     "projected_percent": "-97.1"
     },
     {
-     "likelihood": -5,
+     "likelihood": -4,
      "offset": 2,
-     "projected_percent": "-100.1"
+     "projected_percent": "-98.1"
     }
    ],
    "recoveries": 9,
@@ -18199,7 +18199,7 @@
    "points_per_game_rank": 35,
    "points_per_game_rank_type": 12,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 47,
+   "price_change_hourly_rate": 36,
    "price_change_locked_until": null,
    "price_change_percent": "96.1",
    "price_change_projections": [
@@ -18211,12 +18211,12 @@
     {
      "likelihood": 4,
      "offset": 1,
-     "projected_percent": "96.9"
+     "projected_percent": "96.7"
     },
     {
      "likelihood": 4,
      "offset": 2,
-     "projected_percent": "97.8"
+     "projected_percent": "97.4"
     }
    ],
    "recoveries": 43,
@@ -18453,7 +18453,7 @@
    "points_per_game_rank": 36,
    "points_per_game_rank_type": 13,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 27,
+   "price_change_hourly_rate": 26,
    "price_change_locked_until": null,
    "price_change_percent": "6.0",
    "price_change_projections": [
@@ -19342,7 +19342,7 @@
    "points_per_game_rank": 49,
    "points_per_game_rank_type": 7,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -56,
+   "price_change_hourly_rate": -44,
    "price_change_locked_until": null,
    "price_change_percent": "-34.3",
    "price_change_projections": [
@@ -19354,12 +19354,12 @@
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-35.4"
+     "projected_percent": "-35.2"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-36.5"
+     "projected_percent": "-36.0"
     }
    ],
    "recoveries": 34,
@@ -19486,7 +19486,7 @@
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-22.5"
+     "projected_percent": "-22.4"
     }
    ],
    "recoveries": 0,
@@ -19723,7 +19723,7 @@
    "points_per_game_rank": 3,
    "points_per_game_rank_type": 2,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 163,
+   "price_change_hourly_rate": 158,
    "price_change_locked_until": null,
    "price_change_percent": "22.2",
    "price_change_projections": [
@@ -19850,24 +19850,24 @@
    "points_per_game_rank": 452,
    "points_per_game_rank_type": 53,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "-6.6",
    "price_change_projections": [
     {
      "likelihood": -1,
      "offset": 0,
-     "projected_percent": "-6.6"
+     "projected_percent": "-6.5"
     },
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-6.6"
+     "projected_percent": "-5.5"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-6.6"
+     "projected_percent": "-4.5"
     }
    ],
    "recoveries": 0,
@@ -20104,9 +20104,9 @@
    "points_per_game_rank": 211,
    "points_per_game_rank_type": 94,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -11,
+   "price_change_hourly_rate": -12,
    "price_change_locked_until": null,
-   "price_change_percent": "-8.4",
+   "price_change_percent": "-8.5",
    "price_change_projections": [
     {
      "likelihood": -1,
@@ -20485,7 +20485,7 @@
    "points_per_game_rank": 180,
    "points_per_game_rank_type": 80,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "3.5",
    "price_change_projections": [
@@ -20497,12 +20497,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "3.4"
+     "projected_percent": "3.5"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "3.4"
+     "projected_percent": "3.5"
     }
    ],
    "recoveries": 16,
@@ -20612,24 +20612,24 @@
    "points_per_game_rank": 660,
    "points_per_game_rank_type": 291,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-87.1",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-85.8"
+     "projected_percent": "-87.1"
     },
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-50.4"
+     "projected_percent": "-87.1"
     },
     {
-     "likelihood": -1,
+     "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-15.1"
+     "projected_percent": "-87.1"
     }
    ],
    "recoveries": 0,
@@ -20866,7 +20866,7 @@
    "points_per_game_rank": 128,
    "points_per_game_rank_type": 12,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -7,
+   "price_change_hourly_rate": -3,
    "price_change_locked_until": null,
    "price_change_percent": "-0.4",
    "price_change_projections": [
@@ -20878,12 +20878,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-0.6"
+     "projected_percent": "-0.5"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-0.9"
+     "projected_percent": "-0.6"
     }
    ],
    "recoveries": 59,
@@ -21247,7 +21247,7 @@
    "points_per_game_rank": 359,
    "points_per_game_rank_type": 39,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-26.6",
    "price_change_projections": [
@@ -21259,12 +21259,12 @@
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-26.3"
+     "projected_percent": "-26.6"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-26.0"
+     "projected_percent": "-26.6"
     }
    ],
    "recoveries": 4,
@@ -21628,7 +21628,7 @@
    "points_per_game_rank": 447,
    "points_per_game_rank_type": 155,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -9,
+   "price_change_hourly_rate": -10,
    "price_change_locked_until": null,
    "price_change_percent": "-30.5",
    "price_change_projections": [
@@ -22263,7 +22263,7 @@
    "points_per_game_rank": 70,
    "points_per_game_rank_type": 30,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -6,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "-57.2",
    "price_change_projections": [
@@ -22275,12 +22275,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-58.0"
+     "projected_percent": "-57.7"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-58.8"
+     "projected_percent": "-58.2"
     }
    ],
    "recoveries": 14,
@@ -22390,7 +22390,7 @@
    "points_per_game_rank": 250,
    "points_per_game_rank_type": 94,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 2,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "3.4",
    "price_change_projections": [
@@ -22771,7 +22771,7 @@
    "points_per_game_rank": 275,
    "points_per_game_rank_type": 103,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -2,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-64.7",
    "price_change_projections": [
@@ -22783,12 +22783,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-65.6"
+     "projected_percent": "-64.7"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-66.4"
+     "projected_percent": "-64.7"
     }
    ],
    "recoveries": 6,
@@ -22898,7 +22898,7 @@
    "points_per_game_rank": 50,
    "points_per_game_rank_type": 21,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -8,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "47.3",
    "price_change_projections": [
@@ -22910,12 +22910,12 @@
     {
      "likelihood": 3,
      "offset": 1,
-     "projected_percent": "47.1"
+     "projected_percent": "47.2"
     },
     {
      "likelihood": 3,
      "offset": 2,
-     "projected_percent": "47.0"
+     "projected_percent": "47.2"
     }
    ],
    "recoveries": 38,
@@ -23025,7 +23025,7 @@
    "points_per_game_rank": 78,
    "points_per_game_rank_type": 32,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -22,
+   "price_change_hourly_rate": -9,
    "price_change_locked_until": null,
    "price_change_percent": "24.0",
    "price_change_projections": [
@@ -23037,12 +23037,12 @@
     {
      "likelihood": 2,
      "offset": 1,
-     "projected_percent": "23.6"
+     "projected_percent": "23.8"
     },
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "23.2"
+     "projected_percent": "23.7"
     }
    ],
    "recoveries": 29,
@@ -23152,7 +23152,7 @@
    "points_per_game_rank": 354,
    "points_per_game_rank_type": 172,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": -3,
    "price_change_locked_until": null,
    "price_change_percent": "3.3",
    "price_change_projections": [
@@ -23169,7 +23169,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "3.3"
+     "projected_percent": "3.2"
     }
    ],
    "recoveries": 7,
@@ -23406,7 +23406,7 @@
    "points_per_game_rank": 240,
    "points_per_game_rank_type": 111,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "4.2",
    "price_change_projections": [
@@ -23533,7 +23533,7 @@
    "points_per_game_rank": 176,
    "points_per_game_rank_type": 76,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "3.9",
    "price_change_projections": [
@@ -23545,12 +23545,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "3.9"
+     "projected_percent": "3.8"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "3.9"
+     "projected_percent": "3.8"
     }
    ],
    "recoveries": 38,
@@ -23914,7 +23914,7 @@
    "points_per_game_rank": 1,
    "points_per_game_rank_type": 1,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -283,
+   "price_change_hourly_rate": -262,
    "price_change_locked_until": null,
    "price_change_percent": "-6.7",
    "price_change_projections": [
@@ -23931,7 +23931,7 @@
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-7.5"
+     "projected_percent": "-7.4"
     }
    ],
    "recoveries": 11,
@@ -24930,7 +24930,7 @@
    "points_per_game_rank": 313,
    "points_per_game_rank_type": 113,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 3,
+   "price_change_hourly_rate": 2,
    "price_change_locked_until": null,
    "price_change_percent": "0.2",
    "price_change_projections": [
@@ -24947,7 +24947,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "0.3"
+     "projected_percent": "0.2"
     }
    ],
    "recoveries": 11,
@@ -25565,24 +25565,24 @@
    "points_per_game_rank": 307,
    "points_per_game_rank_type": 141,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -3,
    "price_change_locked_until": null,
-   "price_change_percent": "-70.5",
+   "price_change_percent": "-70.6",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-70.5"
+     "projected_percent": "-70.7"
     },
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-70.5"
+     "projected_percent": "-75.5"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-70.5"
+     "projected_percent": "-80.3"
     }
    ],
    "recoveries": 19,
@@ -25819,7 +25819,7 @@
    "points_per_game_rank": 490,
    "points_per_game_rank_type": 47,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": -3,
    "price_change_locked_until": null,
    "price_change_percent": "0.0",
    "price_change_projections": [
@@ -26073,7 +26073,7 @@
    "points_per_game_rank": 81,
    "points_per_game_rank_type": 37,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -40,
+   "price_change_hourly_rate": -36,
    "price_change_locked_until": null,
    "price_change_percent": "-70.5",
    "price_change_projections": [
@@ -26090,7 +26090,7 @@
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-71.6"
+     "projected_percent": "-71.5"
     }
    ],
    "recoveries": 26,
@@ -26327,7 +26327,7 @@
    "points_per_game_rank": 246,
    "points_per_game_rank_type": 91,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -3,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "-17.9",
    "price_change_projections": [
@@ -26454,7 +26454,7 @@
    "points_per_game_rank": 149,
    "points_per_game_rank_type": 61,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 2,
    "price_change_locked_until": null,
    "price_change_percent": "22.1",
    "price_change_projections": [
@@ -26466,12 +26466,12 @@
     {
      "likelihood": 2,
      "offset": 1,
-     "projected_percent": "22.1"
+     "projected_percent": "22.2"
     },
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "22.1"
+     "projected_percent": "22.2"
     }
    ],
    "recoveries": 25,
@@ -26962,24 +26962,24 @@
    "points_per_game_rank": 459,
    "points_per_game_rank_type": 161,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-21.5",
    "price_change_projections": [
     {
      "likelihood": -2,
      "offset": 0,
-     "projected_percent": "-21.4"
+     "projected_percent": "-21.5"
     },
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-20.6"
+     "projected_percent": "-21.5"
     },
     {
-     "likelihood": -1,
+     "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-19.8"
+     "projected_percent": "-21.5"
     }
    ],
    "recoveries": 0,
@@ -27597,7 +27597,7 @@
    "points_per_game_rank": 235,
    "points_per_game_rank_type": 109,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 3,
+   "price_change_hourly_rate": 2,
    "price_change_locked_until": null,
    "price_change_percent": "0.1",
    "price_change_projections": [
@@ -27614,7 +27614,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "0.3"
+     "projected_percent": "0.2"
     }
    ],
    "recoveries": 16,
@@ -28359,7 +28359,7 @@
    "points_per_game_rank": 563,
    "points_per_game_rank_type": 238,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "0.0",
    "price_change_projections": [
@@ -28867,7 +28867,7 @@
    "points_per_game_rank": 216,
    "points_per_game_rank_type": 20,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 2,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-85.4",
    "price_change_projections": [
@@ -28879,12 +28879,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-84.9"
+     "projected_percent": "-85.4"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-84.4"
+     "projected_percent": "-85.4"
     }
    ],
    "recoveries": 2,
@@ -29248,7 +29248,7 @@
    "points_per_game_rank": 277,
    "points_per_game_rank_type": 27,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "0.6",
    "price_change_projections": [
@@ -29260,12 +29260,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "0.6"
+     "projected_percent": "0.7"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "0.6"
+     "projected_percent": "0.7"
     }
    ],
    "recoveries": 13,
@@ -29502,24 +29502,24 @@
    "points_per_game_rank": 415,
    "points_per_game_rank_type": 200,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "-100.2",
    "price_change_projections": [
     {
      "likelihood": -5,
      "offset": 0,
-     "projected_percent": "-100.2"
+     "projected_percent": "-100.3"
     },
     {
      "likelihood": -5,
      "offset": 1,
-     "projected_percent": "-100.2"
+     "projected_percent": "-103.3"
     },
     {
      "likelihood": -5,
      "offset": 2,
-     "projected_percent": "-100.2"
+     "projected_percent": "-106.3"
     }
    ],
    "recoveries": 2,
@@ -29756,7 +29756,7 @@
    "points_per_game_rank": 468,
    "points_per_game_rank_type": 31,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "2.8",
    "price_change_projections": [
@@ -30010,7 +30010,7 @@
    "points_per_game_rank": 95,
    "points_per_game_rank_type": 40,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "2.4",
    "price_change_projections": [
@@ -30027,7 +30027,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "2.4"
+     "projected_percent": "2.5"
     }
    ],
    "recoveries": 12,
@@ -30678,7 +30678,7 @@
    "points_per_game_rank": 193,
    "points_per_game_rank_type": 75,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -2,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "-59.5",
    "price_change_projections": [
@@ -30690,12 +30690,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-60.1"
+     "projected_percent": "-59.9"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-60.7"
+     "projected_percent": "-60.3"
     }
    ],
    "recoveries": 25,
@@ -30805,24 +30805,24 @@
    "points_per_game_rank": 286,
    "points_per_game_rank_type": 106,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "-74.2",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-74.2"
+     "projected_percent": "-74.1"
     },
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-74.2"
+     "projected_percent": "-72.8"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-74.2"
+     "projected_percent": "-71.4"
     }
    ],
    "recoveries": 28,
@@ -30932,7 +30932,7 @@
    "points_per_game_rank": 126,
    "points_per_game_rank_type": 53,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -8,
+   "price_change_hourly_rate": -6,
    "price_change_locked_until": null,
    "price_change_percent": "-93.4",
    "price_change_projections": [
@@ -30944,12 +30944,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-93.7"
+     "projected_percent": "-93.6"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-94.0"
+     "projected_percent": "-93.9"
     }
    ],
    "recoveries": 45,
@@ -31440,7 +31440,7 @@
    "points_per_game_rank": 433,
    "points_per_game_rank_type": 213,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "-56.8",
    "price_change_projections": [
@@ -31452,12 +31452,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-57.0"
+     "projected_percent": "-57.1"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-57.1"
+     "projected_percent": "-57.4"
     }
    ],
    "recoveries": 2,
@@ -31567,7 +31567,7 @@
    "points_per_game_rank": 178,
    "points_per_game_rank_type": 78,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-1.7",
    "price_change_projections": [
@@ -31579,12 +31579,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-1.5"
+     "projected_percent": "-1.7"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-1.3"
+     "projected_percent": "-1.7"
     }
    ],
    "recoveries": 29,
@@ -31828,7 +31828,7 @@
    "points_per_game_rank": 369,
    "points_per_game_rank_type": 176,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 2,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "-47.1",
    "price_change_projections": [
@@ -31840,7 +31840,7 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-47.0"
+     "projected_percent": "-47.1"
     },
     {
      "likelihood": -3,
@@ -33098,7 +33098,7 @@
    "points_per_game_rank": 181,
    "points_per_game_rank_type": 18,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "-6.5",
    "price_change_projections": [
@@ -33110,12 +33110,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-6.8"
+     "projected_percent": "-6.9"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-7.0"
+     "projected_percent": "-7.3"
     }
    ],
    "recoveries": 13,
@@ -33225,7 +33225,7 @@
    "points_per_game_rank": 448,
    "points_per_game_rank_type": 51,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-25.2",
    "price_change_projections": [
@@ -33237,12 +33237,12 @@
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-25.3"
+     "projected_percent": "-25.2"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-25.3"
+     "projected_percent": "-25.2"
     }
    ],
    "recoveries": 7,
@@ -33352,9 +33352,9 @@
    "points_per_game_rank": 292,
    "points_per_game_rank_type": 31,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -3,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
-   "price_change_percent": "-91.3",
+   "price_change_percent": "-91.4",
    "price_change_projections": [
     {
      "likelihood": -3,
@@ -33364,12 +33364,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-92.7"
+     "projected_percent": "-93.3"
     },
     {
-     "likelihood": -3,
+     "likelihood": -4,
      "offset": 2,
-     "projected_percent": "-94.1"
+     "projected_percent": "-95.3"
     }
    ],
    "recoveries": 10,
@@ -33987,7 +33987,7 @@
    "points_per_game_rank": 238,
    "points_per_game_rank_type": 88,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "2.1",
    "price_change_projections": [
@@ -34004,7 +34004,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "2.2"
+     "projected_percent": "2.1"
     }
    ],
    "recoveries": 42,
@@ -34497,22 +34497,22 @@
    "price_change_calibrating": false,
    "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
-   "price_change_percent": "-37.2",
+   "price_change_percent": "-37.1",
    "price_change_projections": [
     {
      "likelihood": -2,
      "offset": 0,
-     "projected_percent": "-37.2"
+     "projected_percent": "-37.1"
     },
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-37.2"
+     "projected_percent": "-37.1"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-37.2"
+     "projected_percent": "-37.1"
     }
    ],
    "recoveries": 25,
@@ -34878,22 +34878,22 @@
    "price_change_calibrating": false,
    "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
-   "price_change_percent": "-24.0",
+   "price_change_percent": "-24.1",
    "price_change_projections": [
     {
      "likelihood": -2,
      "offset": 0,
-     "projected_percent": "-24.0"
+     "projected_percent": "-24.1"
     },
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-24.0"
+     "projected_percent": "-24.1"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-24.0"
+     "projected_percent": "-24.1"
     }
    ],
    "recoveries": 16,
@@ -35003,7 +35003,7 @@
    "points_per_game_rank": 90,
    "points_per_game_rank_type": 8,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -8,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "4.3",
    "price_change_projections": [
@@ -35015,12 +35015,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "4.2"
+     "projected_percent": "4.3"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "4.0"
+     "projected_percent": "4.2"
     }
    ],
    "recoveries": 105,
@@ -35384,7 +35384,7 @@
    "points_per_game_rank": 24,
    "points_per_game_rank_type": 11,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -34,
+   "price_change_hourly_rate": -37,
    "price_change_locked_until": null,
    "price_change_percent": "81.5",
    "price_change_projections": [
@@ -35396,12 +35396,12 @@
     {
      "likelihood": 3,
      "offset": 1,
-     "projected_percent": "80.9"
+     "projected_percent": "80.8"
     },
     {
      "likelihood": 3,
      "offset": 2,
-     "projected_percent": "80.3"
+     "projected_percent": "80.1"
     }
    ],
    "recoveries": 32,
@@ -35511,24 +35511,24 @@
    "points_per_game_rank": 47,
    "points_per_game_rank_type": 17,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -2,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
-   "price_change_percent": "23.3",
+   "price_change_percent": "23.4",
    "price_change_projections": [
     {
      "likelihood": 2,
      "offset": 0,
-     "projected_percent": "23.3"
+     "projected_percent": "23.4"
     },
     {
      "likelihood": 2,
      "offset": 1,
-     "projected_percent": "23.3"
+     "projected_percent": "23.4"
     },
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "23.3"
+     "projected_percent": "23.4"
     }
    ],
    "recoveries": 29,
@@ -35892,7 +35892,7 @@
    "points_per_game_rank": 48,
    "points_per_game_rank_type": 18,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": -3,
    "price_change_locked_until": null,
    "price_change_percent": "-37.4",
    "price_change_projections": [
@@ -35904,12 +35904,12 @@
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-37.7"
+     "projected_percent": "-37.6"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-38.0"
+     "projected_percent": "-37.8"
     }
    ],
    "recoveries": 48,
@@ -36273,7 +36273,7 @@
    "points_per_game_rank": 40,
    "points_per_game_rank_type": 17,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 15,
+   "price_change_hourly_rate": 11,
    "price_change_locked_until": null,
    "price_change_percent": "0.9",
    "price_change_projections": [
@@ -36285,12 +36285,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "1.0"
+     "projected_percent": "0.9"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "1.1"
+     "projected_percent": "1.0"
     }
    ],
    "recoveries": 45,
@@ -36400,7 +36400,7 @@
    "points_per_game_rank": 309,
    "points_per_game_rank_type": 143,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "2.7",
    "price_change_projections": [
@@ -36412,12 +36412,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "2.6"
+     "projected_percent": "2.7"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "2.5"
+     "projected_percent": "2.6"
     }
    ],
    "recoveries": 16,
@@ -36540,7 +36540,7 @@
    "points_per_game_rank": 220,
    "points_per_game_rank_type": 100,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "4.9",
    "price_change_projections": [
@@ -36557,7 +36557,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "4.9"
+     "projected_percent": "5.0"
     }
    ],
    "recoveries": 51,
@@ -36921,7 +36921,7 @@
    "points_per_game_rank": 187,
    "points_per_game_rank_type": 83,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "6.2",
    "price_change_projections": [
@@ -37556,7 +37556,7 @@
    "points_per_game_rank": 26,
    "points_per_game_rank_type": 6,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 71,
+   "price_change_hourly_rate": 53,
    "price_change_locked_until": null,
    "price_change_percent": "49.3",
    "price_change_projections": [
@@ -37568,12 +37568,12 @@
     {
      "likelihood": 3,
      "offset": 1,
-     "projected_percent": "49.8"
+     "projected_percent": "49.7"
     },
     {
      "likelihood": 3,
      "offset": 2,
-     "projected_percent": "50.3"
+     "projected_percent": "50.1"
     }
    ],
    "recoveries": 14,
@@ -37683,7 +37683,7 @@
    "points_per_game_rank": 32,
    "points_per_game_rank_type": 13,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -5,
+   "price_change_hourly_rate": -7,
    "price_change_locked_until": null,
    "price_change_percent": "3.0",
    "price_change_projections": [
@@ -37695,12 +37695,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "2.9"
+     "projected_percent": "2.8"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "2.8"
+     "projected_percent": "2.7"
     }
    ],
    "recoveries": 11,
@@ -37937,7 +37937,7 @@
    "points_per_game_rank": 88,
    "points_per_game_rank_type": 7,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -7,
+   "price_change_hourly_rate": -6,
    "price_change_locked_until": null,
    "price_change_percent": "37.3",
    "price_change_projections": [
@@ -38064,7 +38064,7 @@
    "points_per_game_rank": 470,
    "points_per_game_rank_type": 32,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-58.3",
    "price_change_projections": [
@@ -38076,12 +38076,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-58.1"
+     "projected_percent": "-58.3"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-57.9"
+     "projected_percent": "-58.3"
     }
    ],
    "recoveries": 0,
@@ -38445,7 +38445,7 @@
    "points_per_game_rank": 104,
    "points_per_game_rank_type": 43,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": -3,
    "price_change_locked_until": null,
    "price_change_percent": "0.2",
    "price_change_projections": [
@@ -38460,9 +38460,9 @@
      "projected_percent": "0.1"
     },
     {
-     "likelihood": 0,
+     "likelihood": 1,
      "offset": 2,
-     "projected_percent": "0.0"
+     "projected_percent": "0.1"
     }
    ],
    "recoveries": 30,
@@ -39080,7 +39080,7 @@
    "points_per_game_rank": 85,
    "points_per_game_rank_type": 33,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -5,
+   "price_change_hourly_rate": -6,
    "price_change_locked_until": null,
    "price_change_percent": "44.4",
    "price_change_projections": [
@@ -39461,7 +39461,7 @@
    "points_per_game_rank": 113,
    "points_per_game_rank_type": 45,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "11.4",
    "price_change_projections": [
@@ -39842,24 +39842,24 @@
    "points_per_game_rank": 92,
    "points_per_game_rank_type": 36,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -24,
+   "price_change_hourly_rate": -19,
    "price_change_locked_until": null,
    "price_change_percent": "-67.7",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-67.8"
+     "projected_percent": "-67.7"
     },
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-69.1"
+     "projected_percent": "-68.8"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-70.5"
+     "projected_percent": "-69.9"
     }
    ],
    "recoveries": 26,
@@ -40096,7 +40096,7 @@
    "points_per_game_rank": 516,
    "points_per_game_rank_type": 220,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 2,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "2.5",
    "price_change_projections": [
@@ -40350,7 +40350,7 @@
    "points_per_game_rank": 518,
    "points_per_game_rank_type": 54,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -10,
+   "price_change_hourly_rate": -5,
    "price_change_locked_until": null,
    "price_change_percent": "-11.3",
    "price_change_projections": [
@@ -40362,12 +40362,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-11.5"
+     "projected_percent": "-11.4"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-11.8"
+     "projected_percent": "-11.6"
     }
    ],
    "recoveries": 0,
@@ -40479,7 +40479,7 @@
    "price_change_calibrating": false,
    "price_change_hourly_rate": -27,
    "price_change_locked_until": null,
-   "price_change_percent": "-89.3",
+   "price_change_percent": "-89.4",
    "price_change_projections": [
     {
      "likelihood": -3,
@@ -40985,7 +40985,7 @@
    "points_per_game_rank": 539,
    "points_per_game_rank_type": 231,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "2.0",
    "price_change_projections": [
@@ -41493,7 +41493,7 @@
    "points_per_game_rank": 175,
    "points_per_game_rank_type": 75,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 2,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "1.5",
    "price_change_projections": [
@@ -41505,12 +41505,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "1.6"
+     "projected_percent": "1.5"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "1.6"
+     "projected_percent": "1.5"
     }
    ],
    "recoveries": 20,
@@ -42128,9 +42128,9 @@
    "points_per_game_rank": 96,
    "points_per_game_rank_type": 41,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -19,
+   "price_change_hourly_rate": -15,
    "price_change_locked_until": null,
-   "price_change_percent": "-55.5",
+   "price_change_percent": "-55.6",
    "price_change_projections": [
     {
      "likelihood": -3,
@@ -42140,12 +42140,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-56.1"
+     "projected_percent": "-56.0"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-56.6"
+     "projected_percent": "-56.4"
     }
    ],
    "recoveries": 20,
@@ -42509,7 +42509,7 @@
    "points_per_game_rank": 210,
    "points_per_game_rank_type": 81,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -3,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "-44.8",
    "price_change_projections": [
@@ -42521,12 +42521,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-45.6"
+     "projected_percent": "-45.2"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-46.4"
+     "projected_percent": "-45.5"
     }
    ],
    "recoveries": 22,
@@ -42763,7 +42763,7 @@
    "points_per_game_rank": 137,
    "points_per_game_rank_type": 57,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -8,
+   "price_change_hourly_rate": -7,
    "price_change_locked_until": null,
    "price_change_percent": "53.0",
    "price_change_projections": [
@@ -43271,24 +43271,24 @@
    "points_per_game_rank": 29,
    "points_per_game_rank_type": 8,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -82,
+   "price_change_hourly_rate": -74,
    "price_change_locked_until": null,
    "price_change_percent": "-21.6",
    "price_change_projections": [
     {
      "likelihood": -2,
      "offset": 0,
-     "projected_percent": "-21.7"
+     "projected_percent": "-21.6"
     },
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-22.5"
+     "projected_percent": "-22.4"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-23.4"
+     "projected_percent": "-23.2"
     }
    ],
    "recoveries": 27,
@@ -43779,7 +43779,7 @@
    "points_per_game_rank": 224,
    "points_per_game_rank_type": 102,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -5,
+   "price_change_hourly_rate": -3,
    "price_change_locked_until": null,
    "price_change_percent": "26.9",
    "price_change_projections": [
@@ -43791,12 +43791,12 @@
     {
      "likelihood": 2,
      "offset": 1,
-     "projected_percent": "26.8"
+     "projected_percent": "26.9"
     },
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "26.7"
+     "projected_percent": "26.8"
     }
    ],
    "recoveries": 26,
@@ -44414,7 +44414,7 @@
    "points_per_game_rank": 97,
    "points_per_game_rank_type": 11,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "22.7",
    "price_change_projections": [
@@ -44802,7 +44802,7 @@
    "points_per_game_rank": 566,
    "points_per_game_rank_type": 59,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "0.0",
    "price_change_projections": [
@@ -45183,7 +45183,7 @@
    "points_per_game_rank": 361,
    "points_per_game_rank_type": 123,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -5,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "-51.0",
    "price_change_projections": [
@@ -45195,12 +45195,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-51.3"
+     "projected_percent": "-51.2"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-51.6"
+     "projected_percent": "-51.5"
     }
    ],
    "recoveries": 1,
@@ -45437,7 +45437,7 @@
    "points_per_game_rank": 46,
    "points_per_game_rank_type": 4,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -23,
+   "price_change_hourly_rate": -20,
    "price_change_locked_until": null,
    "price_change_percent": "-14.9",
    "price_change_projections": [
@@ -45454,7 +45454,7 @@
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-15.7"
+     "projected_percent": "-15.6"
     }
    ],
    "recoveries": 132,
@@ -45564,24 +45564,24 @@
    "points_per_game_rank": 389,
    "points_per_game_rank_type": 183,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "-94.0",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-94.0"
+     "projected_percent": "-93.9"
     },
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-94.0"
+     "projected_percent": "-88.7"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-94.0"
+     "projected_percent": "-83.6"
     }
    ],
    "recoveries": 1,
@@ -45818,7 +45818,7 @@
    "points_per_game_rank": 344,
    "points_per_game_rank_type": 119,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "0.1",
    "price_change_projections": [
@@ -45945,7 +45945,7 @@
    "points_per_game_rank": 44,
    "points_per_game_rank_type": 15,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -8,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "-13.0",
    "price_change_projections": [
@@ -45957,12 +45957,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-13.4"
+     "projected_percent": "-13.2"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-13.7"
+     "projected_percent": "-13.4"
     }
    ],
    "recoveries": 16,
@@ -46961,7 +46961,7 @@
    "points_per_game_rank": 255,
    "points_per_game_rank_type": 96,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -14,
+   "price_change_hourly_rate": -9,
    "price_change_locked_until": null,
    "price_change_percent": "-46.7",
    "price_change_projections": [
@@ -46973,12 +46973,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-47.0"
+     "projected_percent": "-46.9"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-47.3"
+     "projected_percent": "-47.1"
     }
    ],
    "recoveries": 46,
@@ -47342,7 +47342,7 @@
    "points_per_game_rank": 473,
    "points_per_game_rank_type": 34,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -3,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "-82.3",
    "price_change_projections": [
@@ -47354,12 +47354,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-82.4"
+     "projected_percent": "-82.5"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-82.6"
+     "projected_percent": "-82.7"
     }
    ],
    "recoveries": 0,
@@ -47735,12 +47735,12 @@
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-32.9"
+     "projected_percent": "-32.8"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-33.1"
+     "projected_percent": "-33.0"
     }
    ],
    "recoveries": 42,
@@ -47850,7 +47850,7 @@
    "points_per_game_rank": 184,
    "points_per_game_rank_type": 70,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -14,
+   "price_change_hourly_rate": -11,
    "price_change_locked_until": null,
    "price_change_percent": "38.5",
    "price_change_projections": [
@@ -47867,7 +47867,7 @@
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "38.0"
+     "projected_percent": "38.1"
     }
    ],
    "recoveries": 23,
@@ -48238,7 +48238,7 @@
     {
      "likelihood": -2,
      "offset": 0,
-     "projected_percent": "-35.6"
+     "projected_percent": "-35.5"
     },
     {
      "likelihood": -2,
@@ -48358,24 +48358,24 @@
    "points_per_game_rank": 156,
    "points_per_game_rank_type": 62,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-85.9",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-86.0"
+     "projected_percent": "-85.9"
     },
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-88.7"
+     "projected_percent": "-85.9"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-91.4"
+     "projected_percent": "-85.9"
     }
    ],
    "recoveries": 10,
@@ -49247,24 +49247,24 @@
    "points_per_game_rank": 124,
    "points_per_game_rank_type": 13,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -8,
+   "price_change_hourly_rate": -7,
    "price_change_locked_until": null,
    "price_change_percent": "-12.1",
    "price_change_projections": [
     {
      "likelihood": -1,
      "offset": 0,
-     "projected_percent": "-12.2"
+     "projected_percent": "-12.1"
     },
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-12.5"
+     "projected_percent": "-12.4"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-12.8"
+     "projected_percent": "-12.7"
     }
    ],
    "recoveries": 10,
@@ -49755,7 +49755,7 @@
    "points_per_game_rank": 324,
    "points_per_game_rank_type": 35,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "4.1",
    "price_change_projections": [
@@ -49772,7 +49772,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "4.1"
+     "projected_percent": "4.0"
     }
    ],
    "recoveries": 3,
@@ -49882,7 +49882,7 @@
    "points_per_game_rank": 381,
    "points_per_game_rank_type": 40,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": -3,
    "price_change_locked_until": null,
    "price_change_percent": "-90.7",
    "price_change_projections": [
@@ -49894,12 +49894,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-91.0"
+     "projected_percent": "-90.9"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-91.3"
+     "projected_percent": "-91.1"
     }
    ],
    "recoveries": 1,
@@ -50136,7 +50136,7 @@
    "points_per_game_rank": 370,
    "points_per_game_rank_type": 177,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 4,
+   "price_change_hourly_rate": 3,
    "price_change_locked_until": null,
    "price_change_percent": "2.0",
    "price_change_projections": [
@@ -50148,7 +50148,7 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "2.1"
+     "projected_percent": "2.0"
     },
     {
      "likelihood": 1,
@@ -51025,7 +51025,7 @@
    "points_per_game_rank": 173,
    "points_per_game_rank_type": 68,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 3,
+   "price_change_hourly_rate": 2,
    "price_change_locked_until": null,
    "price_change_percent": "4.1",
    "price_change_projections": [
@@ -51042,7 +51042,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "4.2"
+     "projected_percent": "4.1"
     }
    ],
    "recoveries": 33,
@@ -51279,7 +51279,7 @@
    "points_per_game_rank": 159,
    "points_per_game_rank_type": 65,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "0.9",
    "price_change_projections": [
@@ -51291,12 +51291,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "0.9"
+     "projected_percent": "1.0"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "0.9"
+     "projected_percent": "1.0"
     }
    ],
    "recoveries": 69,
@@ -52295,7 +52295,7 @@
    "points_per_game_rank": 34,
    "points_per_game_rank_type": 14,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 5,
+   "price_change_hourly_rate": 4,
    "price_change_locked_until": null,
    "price_change_percent": "68.1",
    "price_change_projections": [
@@ -52549,7 +52549,7 @@
    "points_per_game_rank": 23,
    "points_per_game_rank_type": 10,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 25,
+   "price_change_hourly_rate": 18,
    "price_change_locked_until": null,
    "price_change_percent": "23.5",
    "price_change_projections": [
@@ -52561,12 +52561,12 @@
     {
      "likelihood": 2,
      "offset": 1,
-     "projected_percent": "24.0"
+     "projected_percent": "23.8"
     },
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "24.4"
+     "projected_percent": "24.2"
     }
    ],
    "recoveries": 32,
@@ -52676,7 +52676,7 @@
    "points_per_game_rank": 103,
    "points_per_game_rank_type": 42,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -8,
+   "price_change_hourly_rate": -6,
    "price_change_locked_until": null,
    "price_change_percent": "-70.2",
    "price_change_projections": [
@@ -52688,12 +52688,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-70.8"
+     "projected_percent": "-70.6"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-71.3"
+     "projected_percent": "-71.0"
     }
    ],
    "recoveries": 27,
@@ -52803,7 +52803,7 @@
    "points_per_game_rank": 143,
    "points_per_game_rank_type": 57,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 3,
+   "price_change_hourly_rate": 2,
    "price_change_locked_until": null,
    "price_change_percent": "0.9",
    "price_change_projections": [
@@ -53057,24 +53057,24 @@
    "points_per_game_rank": 142,
    "points_per_game_rank_type": 56,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
-   "price_change_percent": "-69.8",
+   "price_change_percent": "-69.9",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-69.8"
+     "projected_percent": "-69.9"
     },
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-69.5"
+     "projected_percent": "-69.9"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-69.2"
+     "projected_percent": "-69.9"
     }
    ],
    "recoveries": 50,
@@ -53953,7 +53953,7 @@
    "points_per_game_rank": 94,
    "points_per_game_rank_type": 10,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -63,
+   "price_change_hourly_rate": -64,
    "price_change_locked_until": null,
    "price_change_percent": "-24.4",
    "price_change_projections": [
@@ -54461,7 +54461,7 @@
    "points_per_game_rank": 28,
    "points_per_game_rank_type": 3,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 62,
+   "price_change_hourly_rate": 48,
    "price_change_locked_until": null,
    "price_change_percent": "87.9",
    "price_change_projections": [
@@ -54473,12 +54473,12 @@
     {
      "likelihood": 3,
      "offset": 1,
-     "projected_percent": "89.0"
+     "projected_percent": "88.8"
     },
     {
      "likelihood": 3,
      "offset": 2,
-     "projected_percent": "90.2"
+     "projected_percent": "89.7"
     }
    ],
    "recoveries": 116,
@@ -55096,7 +55096,7 @@
    "points_per_game_rank": 474,
    "points_per_game_rank_type": 35,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "3.5",
    "price_change_projections": [
@@ -55477,7 +55477,7 @@
    "points_per_game_rank": 72,
    "points_per_game_rank_type": 5,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -2,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "-14.7",
    "price_change_projections": [
@@ -55489,12 +55489,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-14.8"
+     "projected_percent": "-14.9"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-14.9"
+     "projected_percent": "-15.1"
     }
    ],
    "recoveries": 90,
@@ -55604,24 +55604,24 @@
    "points_per_game_rank": 601,
    "points_per_game_rank_type": 70,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "-29.2",
    "price_change_projections": [
     {
      "likelihood": -2,
      "offset": 0,
-     "projected_percent": "-29.2"
+     "projected_percent": "-29.3"
     },
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-29.2"
+     "projected_percent": "-32.7"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-29.2"
+     "projected_percent": "-36.1"
     }
    ],
    "recoveries": 0,
@@ -55748,7 +55748,7 @@
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-81.7"
+     "projected_percent": "-81.6"
     }
    ],
    "recoveries": 0,
@@ -56239,7 +56239,7 @@
    "points_per_game_rank": 65,
    "points_per_game_rank_type": 26,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -59,
+   "price_change_hourly_rate": -56,
    "price_change_locked_until": null,
    "price_change_percent": "-6.0",
    "price_change_projections": [
@@ -56366,7 +56366,7 @@
    "points_per_game_rank": 445,
    "points_per_game_rank_type": 154,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "-0.1",
    "price_change_projections": [
@@ -56383,7 +56383,7 @@
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-0.2"
+     "projected_percent": "-0.3"
     }
    ],
    "recoveries": 9,
@@ -56493,7 +56493,7 @@
    "points_per_game_rank": 218,
    "points_per_game_rank_type": 82,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -6,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "-85.8",
    "price_change_projections": [
@@ -56505,12 +56505,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-86.4"
+     "projected_percent": "-86.2"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-87.1"
+     "projected_percent": "-86.6"
     }
    ],
    "recoveries": 28,
@@ -57001,7 +57001,7 @@
    "points_per_game_rank": 60,
    "points_per_game_rank_type": 23,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 10,
+   "price_change_hourly_rate": 12,
    "price_change_locked_until": null,
    "price_change_percent": "31.2",
    "price_change_projections": [
@@ -57013,12 +57013,12 @@
     {
      "likelihood": 2,
      "offset": 1,
-     "projected_percent": "31.4"
+     "projected_percent": "31.5"
     },
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "31.6"
+     "projected_percent": "31.7"
     }
    ],
    "recoveries": 33,
@@ -57128,24 +57128,24 @@
    "points_per_game_rank": 463,
    "points_per_game_rank_type": 165,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "-4.3",
    "price_change_projections": [
     {
      "likelihood": -1,
      "offset": 0,
-     "projected_percent": "-4.3"
+     "projected_percent": "-4.2"
     },
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-4.3"
+     "projected_percent": "-1.3"
     },
     {
-     "likelihood": -1,
+     "likelihood": 0,
      "offset": 2,
-     "projected_percent": "-4.3"
+     "projected_percent": "0.0"
     }
    ],
    "recoveries": 0,
@@ -57509,7 +57509,7 @@
    "points_per_game_rank": 56,
    "points_per_game_rank_type": 24,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 57,
+   "price_change_hourly_rate": 50,
    "price_change_locked_until": null,
    "price_change_percent": "50.1",
    "price_change_projections": [
@@ -57521,12 +57521,12 @@
     {
      "likelihood": 3,
      "offset": 1,
-     "projected_percent": "51.1"
+     "projected_percent": "51.0"
     },
     {
      "likelihood": 3,
      "offset": 2,
-     "projected_percent": "52.2"
+     "projected_percent": "51.9"
     }
    ],
    "recoveries": 42,
@@ -57636,7 +57636,7 @@
    "points_per_game_rank": 41,
    "points_per_game_rank_type": 18,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -13,
+   "price_change_hourly_rate": -9,
    "price_change_locked_until": null,
    "price_change_percent": "32.5",
    "price_change_projections": [
@@ -57653,7 +57653,7 @@
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "32.0"
+     "projected_percent": "32.2"
     }
    ],
    "recoveries": 26,
@@ -57763,7 +57763,7 @@
    "points_per_game_rank": 109,
    "points_per_game_rank_type": 44,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 10,
+   "price_change_hourly_rate": 6,
    "price_change_locked_until": null,
    "price_change_percent": "3.9",
    "price_change_projections": [
@@ -57780,7 +57780,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "4.2"
+     "projected_percent": "4.1"
     }
    ],
    "recoveries": 37,
@@ -57890,7 +57890,7 @@
    "points_per_game_rank": 358,
    "points_per_game_rank_type": 175,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -7,
+   "price_change_hourly_rate": -5,
    "price_change_locked_until": null,
    "price_change_percent": "2.5",
    "price_change_projections": [
@@ -57907,7 +57907,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "2.2"
+     "projected_percent": "2.3"
     }
    ],
    "recoveries": 10,
@@ -58288,7 +58288,7 @@
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-20.5"
+     "projected_percent": "-20.4"
     }
    ],
    "recoveries": 49,
@@ -58913,7 +58913,7 @@
    "points_per_game_rank": 171,
    "points_per_game_rank_type": 73,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 2,
    "price_change_locked_until": null,
    "price_change_percent": "-38.4",
    "price_change_projections": [
@@ -58925,12 +58925,12 @@
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-38.4"
+     "projected_percent": "-37.9"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-38.4"
+     "projected_percent": "-37.5"
     }
    ],
    "recoveries": 16,
@@ -59040,24 +59040,24 @@
    "points_per_game_rank": 526,
    "points_per_game_rank_type": 224,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "-97.8",
    "price_change_projections": [
     {
      "likelihood": -4,
      "offset": 0,
-     "projected_percent": "-97.8"
+     "projected_percent": "-97.9"
     },
     {
      "likelihood": -4,
      "offset": 1,
-     "projected_percent": "-97.8"
+     "projected_percent": "-99.0"
     },
     {
-     "likelihood": -4,
+     "likelihood": -5,
      "offset": 2,
-     "projected_percent": "-97.8"
+     "projected_percent": "-100.0"
     }
    ],
    "recoveries": 0,
@@ -59167,7 +59167,7 @@
    "points_per_game_rank": 6,
    "points_per_game_rank_type": 3,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 88,
+   "price_change_hourly_rate": 87,
    "price_change_locked_until": null,
    "price_change_percent": "12.6",
    "price_change_projections": [
@@ -59548,7 +59548,7 @@
    "points_per_game_rank": 564,
    "points_per_game_rank_type": 58,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "2.9",
    "price_change_projections": [
@@ -59802,7 +59802,7 @@
    "points_per_game_rank": 62,
    "points_per_game_rank_type": 24,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 24,
+   "price_change_hourly_rate": 18,
    "price_change_locked_until": null,
    "price_change_percent": "7.2",
    "price_change_projections": [
@@ -59819,7 +59819,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "7.5"
+     "projected_percent": "7.4"
     }
    ],
    "recoveries": 30,
@@ -59929,7 +59929,7 @@
    "points_per_game_rank": 148,
    "points_per_game_rank_type": 61,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 6,
+   "price_change_hourly_rate": 7,
    "price_change_locked_until": null,
    "price_change_percent": "30.8",
    "price_change_projections": [
@@ -59946,7 +59946,7 @@
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "31.0"
+     "projected_percent": "31.1"
     }
    ],
    "recoveries": 27,
@@ -60056,7 +60056,7 @@
    "points_per_game_rank": 209,
    "points_per_game_rank_type": 93,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -13,
+   "price_change_hourly_rate": -11,
    "price_change_locked_until": null,
    "price_change_percent": "0.3",
    "price_change_projections": [
@@ -60066,14 +60066,14 @@
      "projected_percent": "0.3"
     },
     {
-     "likelihood": 0,
+     "likelihood": 1,
      "offset": 1,
-     "projected_percent": "0.0"
+     "projected_percent": "0.1"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-0.6"
+     "projected_percent": "-0.4"
     }
    ],
    "recoveries": 24,
@@ -60183,7 +60183,7 @@
    "points_per_game_rank": 101,
    "points_per_game_rank_type": 40,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -10,
+   "price_change_hourly_rate": -7,
    "price_change_locked_until": null,
    "price_change_percent": "-76.0",
    "price_change_projections": [
@@ -60195,12 +60195,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-76.4"
+     "projected_percent": "-76.3"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-76.7"
+     "projected_percent": "-76.5"
     }
    ],
    "recoveries": 45,
@@ -60310,7 +60310,7 @@
    "points_per_game_rank": 132,
    "points_per_game_rank_type": 13,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -14,
+   "price_change_hourly_rate": -11,
    "price_change_locked_until": null,
    "price_change_percent": "-4.2",
    "price_change_projections": [
@@ -60327,7 +60327,7 @@
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-4.6"
+     "projected_percent": "-4.5"
     }
    ],
    "recoveries": 66,
@@ -60691,7 +60691,7 @@
    "points_per_game_rank": 77,
    "points_per_game_rank_type": 34,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -148,
+   "price_change_hourly_rate": -127,
    "price_change_locked_until": null,
    "price_change_percent": "-75.5",
    "price_change_projections": [
@@ -60703,12 +60703,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-76.6"
+     "projected_percent": "-76.5"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-77.7"
+     "projected_percent": "-77.4"
     }
    ],
    "recoveries": 28,
@@ -60945,7 +60945,7 @@
    "points_per_game_rank": 189,
    "points_per_game_rank_type": 73,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 4,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "10.2",
    "price_change_projections": [
@@ -60957,12 +60957,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "10.3"
+     "projected_percent": "10.2"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "10.3"
+     "projected_percent": "10.2"
     }
    ],
    "recoveries": 32,
@@ -61072,7 +61072,7 @@
    "points_per_game_rank": 63,
    "points_per_game_rank_type": 25,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -229,
+   "price_change_hourly_rate": -222,
    "price_change_locked_until": null,
    "price_change_percent": "-12.3",
    "price_change_projections": [
@@ -61089,7 +61089,7 @@
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-13.6"
+     "projected_percent": "-13.5"
     }
    ],
    "recoveries": 35,
@@ -61582,22 +61582,22 @@
    "price_change_calibrating": false,
    "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
-   "price_change_percent": "-39.0",
+   "price_change_percent": "-39.1",
    "price_change_projections": [
     {
      "likelihood": -2,
      "offset": 0,
-     "projected_percent": "-39.0"
+     "projected_percent": "-39.1"
     },
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-39.0"
+     "projected_percent": "-39.1"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-39.0"
+     "projected_percent": "-39.1"
     }
    ],
    "recoveries": 1,
@@ -61834,7 +61834,7 @@
    "points_per_game_rank": 30,
    "points_per_game_rank_type": 9,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -26,
+   "price_change_hourly_rate": -27,
    "price_change_locked_until": null,
    "price_change_percent": "-82.8",
    "price_change_projections": [
@@ -61846,7 +61846,7 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-83.1"
+     "projected_percent": "-83.2"
     },
     {
      "likelihood": -3,
@@ -61961,7 +61961,7 @@
    "points_per_game_rank": 208,
    "points_per_game_rank_type": 92,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -8,
+   "price_change_hourly_rate": -6,
    "price_change_locked_until": null,
    "price_change_percent": "51.6",
    "price_change_projections": [
@@ -61978,7 +61978,7 @@
     {
      "likelihood": 3,
      "offset": 2,
-     "projected_percent": "51.3"
+     "projected_percent": "51.4"
     }
    ],
    "recoveries": 11,
@@ -62088,9 +62088,9 @@
    "points_per_game_rank": 16,
    "points_per_game_rank_type": 4,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 29,
+   "price_change_hourly_rate": 24,
    "price_change_locked_until": null,
-   "price_change_percent": "-57.8",
+   "price_change_percent": "-57.9",
    "price_change_projections": [
     {
      "likelihood": -3,
@@ -62100,12 +62100,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-57.3"
+     "projected_percent": "-57.4"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-56.8"
+     "projected_percent": "-57.0"
     }
    ],
    "recoveries": 18,
@@ -62215,7 +62215,7 @@
    "points_per_game_rank": 74,
    "points_per_game_rank_type": 30,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 8,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "79.1",
    "price_change_projections": [
@@ -62227,12 +62227,12 @@
     {
      "likelihood": 3,
      "offset": 1,
-     "projected_percent": "79.2"
+     "projected_percent": "79.1"
     },
     {
      "likelihood": 3,
      "offset": 2,
-     "projected_percent": "79.4"
+     "projected_percent": "79.0"
     }
    ],
    "recoveries": 15,
@@ -63231,7 +63231,7 @@
    "points_per_game_rank": 5,
    "points_per_game_rank_type": 2,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "16.6",
    "price_change_projections": [
@@ -63243,12 +63243,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "16.7"
+     "projected_percent": "16.6"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "16.7"
+     "projected_percent": "16.6"
     }
    ],
    "recoveries": 17,
@@ -63612,24 +63612,24 @@
    "points_per_game_rank": 426,
    "points_per_game_rank_type": 208,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "-38.5",
    "price_change_projections": [
     {
      "likelihood": -2,
      "offset": 0,
-     "projected_percent": "-38.5"
+     "projected_percent": "-38.6"
     },
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-38.5"
+     "projected_percent": "-39.8"
     },
     {
-     "likelihood": -2,
+     "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-38.5"
+     "projected_percent": "-40.9"
     }
    ],
    "recoveries": 10,
@@ -63739,24 +63739,24 @@
    "points_per_game_rank": 449,
    "points_per_game_rank_type": 218,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "-41.3",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-41.3"
+     "projected_percent": "-41.2"
     },
     {
-     "likelihood": -3,
+     "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-41.3"
+     "projected_percent": "-39.1"
     },
     {
-     "likelihood": -3,
+     "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-41.3"
+     "projected_percent": "-37.1"
     }
    ],
    "recoveries": 2,
@@ -63866,7 +63866,7 @@
    "points_per_game_rank": 366,
    "points_per_game_rank_type": 128,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "1.3",
    "price_change_projections": [
@@ -63878,12 +63878,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "1.2"
+     "projected_percent": "1.3"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "1.2"
+     "projected_percent": "1.3"
     }
    ],
    "recoveries": 1,
@@ -64259,12 +64259,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-6.6"
+     "projected_percent": "-6.5"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-7.0"
+     "projected_percent": "-6.9"
     }
    ],
    "recoveries": 45,
@@ -64374,7 +64374,7 @@
    "points_per_game_rank": 270,
    "points_per_game_rank_type": 121,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -3,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "2.1",
    "price_change_projections": [
@@ -64501,7 +64501,7 @@
    "points_per_game_rank": 306,
    "points_per_game_rank_type": 140,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-73.8",
    "price_change_projections": [
@@ -64513,12 +64513,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-75.3"
+     "projected_percent": "-73.8"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-76.7"
+     "projected_percent": "-73.8"
     }
    ],
    "recoveries": 18,
@@ -64755,7 +64755,7 @@
    "points_per_game_rank": 257,
    "points_per_game_rank_type": 20,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -12,
+   "price_change_hourly_rate": -13,
    "price_change_locked_until": null,
    "price_change_percent": "-55.6",
    "price_change_projections": [
@@ -64772,7 +64772,7 @@
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-56.2"
+     "projected_percent": "-56.3"
     }
    ],
    "recoveries": 77,
@@ -65136,14 +65136,14 @@
    "points_per_game_rank": 115,
    "points_per_game_rank_type": 46,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 2,
    "price_change_locked_until": null,
-   "price_change_percent": "-0.4",
+   "price_change_percent": "-0.3",
    "price_change_projections": [
     {
      "likelihood": -1,
      "offset": 0,
-     "projected_percent": "-0.4"
+     "projected_percent": "-0.3"
     },
     {
      "likelihood": 0,
@@ -65151,9 +65151,9 @@
      "projected_percent": "0.0"
     },
     {
-     "likelihood": 0,
+     "likelihood": 1,
      "offset": 2,
-     "projected_percent": "0.0"
+     "projected_percent": "0.1"
     }
    ],
    "recoveries": 7,
@@ -65263,7 +65263,7 @@
    "points_per_game_rank": 604,
    "points_per_game_rank_type": 211,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "0.4",
    "price_change_projections": [
@@ -65275,12 +65275,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "0.5"
+     "projected_percent": "0.4"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "0.5"
+     "projected_percent": "0.4"
     }
    ],
    "recoveries": 0,
@@ -65390,7 +65390,7 @@
    "points_per_game_rank": 311,
    "points_per_game_rank_type": 112,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -2,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "-9.9",
    "price_change_projections": [
@@ -65402,12 +65402,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-10.1"
+     "projected_percent": "-10.2"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-10.2"
+     "projected_percent": "-10.5"
     }
    ],
    "recoveries": 44,
@@ -65517,7 +65517,7 @@
    "points_per_game_rank": 310,
    "points_per_game_rank_type": 111,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -36,
+   "price_change_hourly_rate": -26,
    "price_change_locked_until": null,
    "price_change_percent": "-21.1",
    "price_change_projections": [
@@ -65529,12 +65529,12 @@
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-21.9"
+     "projected_percent": "-21.7"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-22.6"
+     "projected_percent": "-22.2"
     }
    ],
    "recoveries": 44,
@@ -66159,14 +66159,14 @@
    "points_per_game_rank": 222,
    "points_per_game_rank_type": 84,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -17,
+   "price_change_hourly_rate": -18,
    "price_change_locked_until": null,
    "price_change_percent": "-67.8",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-67.8"
+     "projected_percent": "-67.9"
     },
     {
      "likelihood": -3,
@@ -66286,7 +66286,7 @@
    "points_per_game_rank": 462,
    "points_per_game_rank_type": 164,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "0.0",
    "price_change_projections": [
@@ -66301,9 +66301,9 @@
      "projected_percent": "0.0"
     },
     {
-     "likelihood": -1,
+     "likelihood": 0,
      "offset": 2,
-     "projected_percent": "-0.1"
+     "projected_percent": "0.0"
     }
    ],
    "recoveries": 0,
@@ -66540,7 +66540,7 @@
    "points_per_game_rank": 43,
    "points_per_game_rank_type": 20,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -30,
+   "price_change_hourly_rate": -22,
    "price_change_locked_until": null,
    "price_change_percent": "-4.3",
    "price_change_projections": [
@@ -66552,12 +66552,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-4.5"
+     "projected_percent": "-4.4"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-4.6"
+     "projected_percent": "-4.5"
     }
    ],
    "recoveries": 35,
@@ -66667,7 +66667,7 @@
    "points_per_game_rank": 57,
    "points_per_game_rank_type": 25,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -77,
+   "price_change_hourly_rate": -62,
    "price_change_locked_until": null,
    "price_change_percent": "-84.2",
    "price_change_projections": [
@@ -66679,12 +66679,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-85.0"
+     "projected_percent": "-84.8"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-85.7"
+     "projected_percent": "-85.4"
     }
    ],
    "recoveries": 21,
@@ -66794,7 +66794,7 @@
    "points_per_game_rank": 58,
    "points_per_game_rank_type": 26,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "-28.1",
    "price_change_projections": [
@@ -66811,7 +66811,7 @@
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-28.3"
+     "projected_percent": "-28.2"
     }
    ],
    "recoveries": 26,
@@ -67055,7 +67055,7 @@
     {
      "likelihood": -1,
      "offset": 0,
-     "projected_percent": "-16.2"
+     "projected_percent": "-16.3"
     },
     {
      "likelihood": -1,
@@ -67065,7 +67065,7 @@
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-4.7"
+     "projected_percent": "-4.8"
     }
    ],
    "recoveries": 12,
@@ -67319,7 +67319,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "0.4"
+     "projected_percent": "0.3"
     }
    ],
    "recoveries": 59,
@@ -68064,7 +68064,7 @@
    "points_per_game_rank": 530,
    "points_per_game_rank_type": 226,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -2,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "-92.9",
    "price_change_projections": [
@@ -68076,12 +68076,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-94.1"
+     "projected_percent": "-93.7"
     },
     {
-     "likelihood": -4,
+     "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-95.2"
+     "projected_percent": "-94.5"
     }
    ],
    "recoveries": 0,
@@ -68191,24 +68191,24 @@
    "points_per_game_rank": 281,
    "points_per_game_rank_type": 30,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -2,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "-82.4",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-82.4"
+     "projected_percent": "-82.5"
     },
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-82.6"
+     "projected_percent": "-82.7"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-82.7"
+     "projected_percent": "-83.0"
     }
    ],
    "recoveries": 5,
@@ -68330,12 +68330,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-88.9"
+     "projected_percent": "-88.8"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-90.1"
+     "projected_percent": "-89.8"
     }
    ],
    "recoveries": 6,
@@ -68699,7 +68699,7 @@
    "points_per_game_rank": 595,
    "points_per_game_rank_type": 69,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -2,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "-3.5",
    "price_change_projections": [
@@ -68711,12 +68711,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-3.7"
+     "projected_percent": "-3.6"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-3.9"
+     "projected_percent": "-3.8"
     }
    ],
    "recoveries": 0,
@@ -69080,9 +69080,9 @@
    "points_per_game_rank": 269,
    "points_per_game_rank_type": 101,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -5,
+   "price_change_hourly_rate": -7,
    "price_change_locked_until": null,
-   "price_change_percent": "-42.3",
+   "price_change_percent": "-42.4",
    "price_change_projections": [
     {
      "likelihood": -3,
@@ -69092,12 +69092,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-43.1"
+     "projected_percent": "-43.3"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-43.7"
+     "projected_percent": "-44.3"
     }
    ],
    "recoveries": 22,
@@ -69207,24 +69207,24 @@
    "points_per_game_rank": 225,
    "points_per_game_rank_type": 86,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -2,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "-31.1",
    "price_change_projections": [
     {
      "likelihood": -2,
      "offset": 0,
-     "projected_percent": "-31.2"
+     "projected_percent": "-31.1"
     },
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-33.4"
+     "projected_percent": "-32.2"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-35.6"
+     "projected_percent": "-33.3"
     }
    ],
    "recoveries": 9,
@@ -69334,7 +69334,7 @@
    "points_per_game_rank": 100,
    "points_per_game_rank_type": 42,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "6.8",
    "price_change_projections": [
@@ -69351,7 +69351,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "6.6"
+     "projected_percent": "6.7"
     }
    ],
    "recoveries": 17,
@@ -69461,7 +69461,7 @@
    "points_per_game_rank": 203,
    "points_per_game_rank_type": 79,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": -3,
    "price_change_locked_until": null,
    "price_change_percent": "1.9",
    "price_change_projections": [
@@ -69588,7 +69588,7 @@
    "points_per_game_rank": 53,
    "points_per_game_rank_type": 21,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -66,
+   "price_change_hourly_rate": -65,
    "price_change_locked_until": null,
    "price_change_percent": "-13.9",
    "price_change_projections": [
@@ -69600,12 +69600,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-14.4"
+     "projected_percent": "-14.3"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-14.8"
+     "projected_percent": "-14.7"
     }
    ],
    "recoveries": 67,
@@ -69722,7 +69722,7 @@
     {
      "likelihood": -1,
      "offset": 0,
-     "projected_percent": "-0.4"
+     "projected_percent": "-0.3"
     },
     {
      "likelihood": -1,
@@ -69732,7 +69732,7 @@
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-10.1"
+     "projected_percent": "-10.0"
     }
    ],
    "recoveries": 4,
@@ -69969,7 +69969,7 @@
    "points_per_game_rank": 64,
    "points_per_game_rank_type": 28,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -44,
+   "price_change_hourly_rate": -42,
    "price_change_locked_until": null,
    "price_change_percent": "-89.6",
    "price_change_projections": [
@@ -69986,7 +69986,7 @@
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-92.2"
+     "projected_percent": "-92.1"
     }
    ],
    "recoveries": 37,
@@ -70350,24 +70350,24 @@
    "points_per_game_rank": 243,
    "points_per_game_rank_type": 113,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "-40.3",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-40.3"
+     "projected_percent": "-40.2"
     },
     {
-     "likelihood": -3,
+     "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-40.3"
+     "projected_percent": "-38.6"
     },
     {
-     "likelihood": -3,
+     "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-40.3"
+     "projected_percent": "-37.0"
     }
    ],
    "recoveries": 18,
@@ -70731,7 +70731,7 @@
    "points_per_game_rank": 158,
    "points_per_game_rank_type": 64,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "11.6",
    "price_change_projections": [
@@ -70748,7 +70748,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "11.6"
+     "projected_percent": "11.5"
     }
    ],
    "recoveries": 17,
@@ -70858,7 +70858,7 @@
    "points_per_game_rank": 302,
    "points_per_game_rank_type": 137,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "-56.7",
    "price_change_projections": [
@@ -70870,12 +70870,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-56.7"
+     "projected_percent": "-54.5"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-56.7"
+     "projected_percent": "-52.3"
     }
    ],
    "recoveries": 8,
@@ -70985,7 +70985,7 @@
    "points_per_game_rank": 312,
    "points_per_game_rank_type": 144,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 2,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "0.0",
    "price_change_projections": [
@@ -71000,9 +71000,9 @@
      "projected_percent": "0.0"
     },
     {
-     "likelihood": 1,
+     "likelihood": 0,
      "offset": 2,
-     "projected_percent": "0.1"
+     "projected_percent": "0.0"
     }
    ],
    "recoveries": 15,
@@ -71239,9 +71239,9 @@
    "points_per_game_rank": 254,
    "points_per_game_rank_type": 25,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -47,
+   "price_change_hourly_rate": -38,
    "price_change_locked_until": null,
-   "price_change_percent": "-31.4",
+   "price_change_percent": "-31.5",
    "price_change_projections": [
     {
      "likelihood": -2,
@@ -71251,12 +71251,12 @@
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-32.1"
+     "projected_percent": "-32.0"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-32.7"
+     "projected_percent": "-32.5"
     }
    ],
    "recoveries": 26,
@@ -71747,7 +71747,7 @@
    "points_per_game_rank": 162,
    "points_per_game_rank_type": 15,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -8,
+   "price_change_hourly_rate": -3,
    "price_change_locked_until": null,
    "price_change_percent": "9.9",
    "price_change_projections": [
@@ -71759,12 +71759,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "9.8"
+     "projected_percent": "9.9"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "9.6"
+     "projected_percent": "9.8"
     }
    ],
    "recoveries": 68,
@@ -71874,7 +71874,7 @@
    "points_per_game_rank": 105,
    "points_per_game_rank_type": 44,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -5,
+   "price_change_hourly_rate": -8,
    "price_change_locked_until": null,
    "price_change_percent": "-10.3",
    "price_change_projections": [
@@ -71886,12 +71886,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-10.8"
+     "projected_percent": "-11.0"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-11.3"
+     "projected_percent": "-11.8"
     }
    ],
    "recoveries": 30,
@@ -72509,7 +72509,7 @@
    "points_per_game_rank": 583,
    "points_per_game_rank_type": 65,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "5.7",
    "price_change_projections": [
@@ -72521,12 +72521,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "5.8"
+     "projected_percent": "5.7"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "5.8"
+     "projected_percent": "5.7"
     }
    ],
    "recoveries": 0,
@@ -72890,7 +72890,7 @@
    "points_per_game_rank": 131,
    "points_per_game_rank_type": 14,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 21,
+   "price_change_hourly_rate": 20,
    "price_change_locked_until": null,
    "price_change_percent": "15.9",
    "price_change_projections": [
@@ -73398,7 +73398,7 @@
    "points_per_game_rank": 119,
    "points_per_game_rank_type": 51,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -9,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "-25.4",
    "price_change_projections": [
@@ -73410,12 +73410,12 @@
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-25.7"
+     "projected_percent": "-25.5"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-26.0"
+     "projected_percent": "-25.7"
     }
    ],
    "recoveries": 49,
@@ -73779,7 +73779,7 @@
    "points_per_game_rank": 114,
    "points_per_game_rank_type": 49,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 2,
    "price_change_locked_until": null,
    "price_change_percent": "16.5",
    "price_change_projections": [
@@ -73918,12 +73918,12 @@
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-28.3"
+     "projected_percent": "-28.4"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-28.5"
+     "projected_percent": "-28.7"
     }
    ],
    "recoveries": 25,
@@ -74287,7 +74287,7 @@
    "points_per_game_rank": 458,
    "points_per_game_rank_type": 160,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "1.7",
    "price_change_projections": [
@@ -74795,7 +74795,7 @@
    "points_per_game_rank": 66,
    "points_per_game_rank_type": 29,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -18,
+   "price_change_hourly_rate": -14,
    "price_change_locked_until": null,
    "price_change_percent": "-36.8",
    "price_change_projections": [
@@ -74807,12 +74807,12 @@
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-37.2"
+     "projected_percent": "-37.1"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-37.6"
+     "projected_percent": "-37.4"
     }
    ],
    "recoveries": 33,
@@ -74922,24 +74922,24 @@
    "points_per_game_rank": 428,
    "points_per_game_rank_type": 209,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -2,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
-   "price_change_percent": "-57.4",
+   "price_change_percent": "-57.3",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-57.5"
+     "projected_percent": "-57.3"
     },
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-60.0"
+     "projected_percent": "-57.3"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-62.5"
+     "projected_percent": "-57.3"
     }
    ],
    "recoveries": 3,
@@ -75056,7 +75056,7 @@
     {
      "likelihood": 1,
      "offset": 0,
-     "projected_percent": "2.8"
+     "projected_percent": "2.9"
     },
     {
      "likelihood": 1,
@@ -75818,7 +75818,7 @@
    "points_per_game_rank": 321,
    "points_per_game_rank_type": 147,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-77.6",
    "price_change_projections": [
@@ -75830,12 +75830,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-77.7"
+     "projected_percent": "-77.6"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-77.8"
+     "projected_percent": "-77.6"
     }
    ],
    "recoveries": 8,
@@ -76199,24 +76199,24 @@
    "points_per_game_rank": 422,
    "points_per_game_rank_type": 45,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-60.7",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-60.9"
+     "projected_percent": "-60.7"
     },
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-65.7"
+     "projected_percent": "-60.7"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-70.5"
+     "projected_percent": "-60.7"
     }
    ],
    "recoveries": 2,
@@ -76326,24 +76326,24 @@
    "points_per_game_rank": 141,
    "points_per_game_rank_type": 55,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -3,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "-16.9",
    "price_change_projections": [
     {
      "likelihood": -1,
      "offset": 0,
-     "projected_percent": "-17.0"
+     "projected_percent": "-17.1"
     },
     {
-     "likelihood": -1,
+     "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-19.8"
+     "projected_percent": "-21.5"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-22.6"
+     "projected_percent": "-25.9"
     }
    ],
    "recoveries": 51,
@@ -76453,24 +76453,24 @@
    "points_per_game_rank": 274,
    "points_per_game_rank_type": 102,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "-47.6",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-47.7"
+     "projected_percent": "-47.6"
     },
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-49.3"
+     "projected_percent": "-48.4"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-50.9"
+     "projected_percent": "-49.2"
     }
    ],
    "recoveries": 22,
@@ -76707,9 +76707,9 @@
    "points_per_game_rank": 20,
    "points_per_game_rank_type": 8,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 156,
+   "price_change_hourly_rate": 153,
    "price_change_locked_until": null,
-   "price_change_percent": "16.0",
+   "price_change_percent": "16.1",
    "price_change_projections": [
     {
      "likelihood": 1,
@@ -76724,7 +76724,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "18.2"
+     "projected_percent": "18.1"
     }
    ],
    "recoveries": 35,
@@ -77228,7 +77228,7 @@
    "points_per_game_rank": 123,
    "points_per_game_rank_type": 49,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -2,
+   "price_change_hourly_rate": -3,
    "price_change_locked_until": null,
    "price_change_percent": "16.0",
    "price_change_projections": [
@@ -77482,7 +77482,7 @@
    "points_per_game_rank": 478,
    "points_per_game_rank_type": 39,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 1,
    "price_change_locked_until": null,
    "price_change_percent": "1.1",
    "price_change_projections": [
@@ -77499,7 +77499,7 @@
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "1.1"
+     "projected_percent": "1.2"
     }
    ],
    "recoveries": 0,
@@ -77609,7 +77609,7 @@
    "points_per_game_rank": 83,
    "points_per_game_rank_type": 6,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 13,
+   "price_change_hourly_rate": 16,
    "price_change_locked_until": null,
    "price_change_percent": "36.4",
    "price_change_projections": [
@@ -77621,12 +77621,12 @@
     {
      "likelihood": 2,
      "offset": 1,
-     "projected_percent": "36.6"
+     "projected_percent": "36.7"
     },
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "36.9"
+     "projected_percent": "37.0"
     }
    ],
    "recoveries": 82,
@@ -77736,7 +77736,7 @@
    "points_per_game_rank": 467,
    "points_per_game_rank_type": 30,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -24,
+   "price_change_hourly_rate": -14,
    "price_change_locked_until": null,
    "price_change_percent": "-91.2",
    "price_change_projections": [
@@ -77748,12 +77748,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-91.5"
+     "projected_percent": "-91.4"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-91.8"
+     "projected_percent": "-91.6"
     }
    ],
    "recoveries": 0,
@@ -77863,7 +77863,7 @@
    "points_per_game_rank": 219,
    "points_per_game_rank_type": 83,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "-72.5",
    "price_change_projections": [
@@ -77875,12 +77875,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-72.8"
+     "projected_percent": "-72.6"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-73.0"
+     "projected_percent": "-72.6"
     }
    ],
    "recoveries": 10,
@@ -77990,7 +77990,7 @@
    "points_per_game_rank": 195,
    "points_per_game_rank_type": 76,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": 3,
    "price_change_locked_until": null,
    "price_change_percent": "-0.8",
    "price_change_projections": [
@@ -78002,12 +78002,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-0.8"
+     "projected_percent": "-0.7"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-0.8"
+     "projected_percent": "-0.6"
     }
    ],
    "recoveries": 10,
@@ -78244,7 +78244,7 @@
    "points_per_game_rank": 68,
    "points_per_game_rank_type": 28,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 15,
+   "price_change_hourly_rate": 7,
    "price_change_locked_until": null,
    "price_change_percent": "31.2",
    "price_change_projections": [
@@ -78256,12 +78256,12 @@
     {
      "likelihood": 2,
      "offset": 1,
-     "projected_percent": "31.5"
+     "projected_percent": "31.3"
     },
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "31.7"
+     "projected_percent": "31.5"
     }
    ],
    "recoveries": 24,
@@ -78371,7 +78371,7 @@
    "points_per_game_rank": 122,
    "points_per_game_rank_type": 52,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-1.4",
    "price_change_projections": [
@@ -78383,12 +78383,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-1.5"
+     "projected_percent": "-1.4"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-1.5"
+     "projected_percent": "-1.4"
     }
    ],
    "recoveries": 29,
@@ -78879,7 +78879,7 @@
    "points_per_game_rank": 79,
    "points_per_game_rank_type": 35,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "2.8",
    "price_change_projections": [
@@ -78891,12 +78891,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "2.8"
+     "projected_percent": "2.7"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "2.8"
+     "projected_percent": "2.7"
     }
    ],
    "recoveries": 1,
@@ -79387,7 +79387,7 @@
    "points_per_game_rank": 147,
    "points_per_game_rank_type": 60,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 12,
+   "price_change_hourly_rate": 9,
    "price_change_locked_until": null,
    "price_change_percent": "10.2",
    "price_change_projections": [
@@ -79399,12 +79399,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "10.5"
+     "projected_percent": "10.4"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "10.7"
+     "projected_percent": "10.6"
     }
    ],
    "recoveries": 35,
@@ -79641,7 +79641,7 @@
    "points_per_game_rank": 166,
    "points_per_game_rank_type": 70,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -8,
+   "price_change_hourly_rate": -10,
    "price_change_locked_until": null,
    "price_change_percent": "22.4",
    "price_change_projections": [
@@ -79658,7 +79658,7 @@
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "22.1"
+     "projected_percent": "22.0"
     }
    ],
    "recoveries": 25,
@@ -79895,7 +79895,7 @@
    "points_per_game_rank": 276,
    "points_per_game_rank_type": 124,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "-1.3",
    "price_change_projections": [
@@ -79907,12 +79907,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-1.3"
+     "projected_percent": "-3.2"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-1.3"
+     "projected_percent": "-5.0"
     }
    ],
    "recoveries": 26,
@@ -80276,24 +80276,24 @@
    "points_per_game_rank": 290,
    "points_per_game_rank_type": 130,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "-32.9",
    "price_change_projections": [
     {
      "likelihood": -2,
      "offset": 0,
-     "projected_percent": "-33.1"
+     "projected_percent": "-33.0"
     },
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-37.5"
+     "projected_percent": "-35.2"
     },
     {
-     "likelihood": -3,
+     "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-41.8"
+     "projected_percent": "-37.4"
     }
    ],
    "recoveries": 23,
@@ -80911,7 +80911,7 @@
    "points_per_game_rank": 527,
    "points_per_game_rank_type": 225,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-33.2",
    "price_change_projections": [
@@ -80923,12 +80923,12 @@
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-33.5"
+     "projected_percent": "-33.2"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-33.8"
+     "projected_percent": "-33.2"
     }
    ],
    "recoveries": 0,
@@ -81165,7 +81165,7 @@
    "points_per_game_rank": 253,
    "points_per_game_rank_type": 24,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -8,
+   "price_change_hourly_rate": -4,
    "price_change_locked_until": null,
    "price_change_percent": "35.3",
    "price_change_projections": [
@@ -81177,12 +81177,12 @@
     {
      "likelihood": 2,
      "offset": 1,
-     "projected_percent": "35.2"
+     "projected_percent": "35.3"
     },
     {
      "likelihood": 2,
      "offset": 2,
-     "projected_percent": "35.1"
+     "projected_percent": "35.2"
     }
    ],
    "recoveries": 19,
@@ -81419,7 +81419,7 @@
    "points_per_game_rank": 561,
    "points_per_game_rank_type": 57,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "0.0",
    "price_change_projections": [
@@ -82455,9 +82455,9 @@
    "points_per_game_rank": 185,
    "points_per_game_rank_type": 71,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -2,
+   "price_change_hourly_rate": -3,
    "price_change_locked_until": null,
-   "price_change_percent": "-16.1",
+   "price_change_percent": "-16.2",
    "price_change_projections": [
     {
      "likelihood": -1,
@@ -82467,12 +82467,12 @@
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-16.3"
+     "projected_percent": "-16.4"
     },
     {
      "likelihood": -1,
      "offset": 2,
-     "projected_percent": "-16.5"
+     "projected_percent": "-16.6"
     }
    ],
    "recoveries": 12,
@@ -82709,7 +82709,7 @@
    "points_per_game_rank": 150,
    "points_per_game_rank_type": 62,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-71.4",
    "price_change_projections": [
@@ -82721,12 +82721,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-71.5"
+     "projected_percent": "-71.4"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-71.6"
+     "projected_percent": "-71.4"
     }
    ],
    "recoveries": 28,
@@ -82963,7 +82963,7 @@
    "points_per_game_rank": 223,
    "points_per_game_rank_type": 85,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 1,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-23.5",
    "price_change_projections": [
@@ -82975,12 +82975,12 @@
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-22.5"
+     "projected_percent": "-23.5"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-21.5"
+     "projected_percent": "-23.5"
     }
    ],
    "recoveries": 34,
@@ -83344,7 +83344,7 @@
    "points_per_game_rank": 80,
    "points_per_game_rank_type": 36,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 6,
+   "price_change_hourly_rate": 3,
    "price_change_locked_until": null,
    "price_change_percent": "1.3",
    "price_change_projections": [
@@ -83356,12 +83356,12 @@
     {
      "likelihood": 1,
      "offset": 1,
-     "projected_percent": "1.4"
+     "projected_percent": "1.3"
     },
     {
      "likelihood": 1,
      "offset": 2,
-     "projected_percent": "1.5"
+     "projected_percent": "1.4"
     }
    ],
    "recoveries": 15,
@@ -83598,7 +83598,7 @@
    "points_per_game_rank": 199,
    "points_per_game_rank_type": 77,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "-40.2",
    "price_change_projections": [
@@ -83610,12 +83610,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-40.2"
+     "projected_percent": "-41.3"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-40.2"
+     "projected_percent": "-42.4"
     }
    ],
    "recoveries": 20,
@@ -83725,7 +83725,7 @@
    "points_per_game_rank": 54,
    "points_per_game_rank_type": 22,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 22,
+   "price_change_hourly_rate": 20,
    "price_change_locked_until": null,
    "price_change_percent": "-63.0",
    "price_change_projections": [
@@ -83737,12 +83737,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-61.5"
+     "projected_percent": "-61.6"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-60.1"
+     "projected_percent": "-60.3"
     }
    ],
    "recoveries": 37,
@@ -83979,7 +83979,7 @@
    "points_per_game_rank": 130,
    "points_per_game_rank_type": 51,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -17,
+   "price_change_hourly_rate": -15,
    "price_change_locked_until": null,
    "price_change_percent": "-15.9",
    "price_change_projections": [
@@ -84106,7 +84106,7 @@
    "points_per_game_rank": 214,
    "points_per_game_rank_type": 97,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -1,
    "price_change_locked_until": null,
    "price_change_percent": "0.1",
    "price_change_projections": [
@@ -84489,22 +84489,22 @@
    "price_change_calibrating": false,
    "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
-   "price_change_percent": "-51.4",
+   "price_change_percent": "-51.3",
    "price_change_projections": [
     {
      "likelihood": -3,
      "offset": 0,
-     "projected_percent": "-51.4"
+     "projected_percent": "-51.3"
     },
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-51.4"
+     "projected_percent": "-51.3"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-51.4"
+     "projected_percent": "-51.3"
     }
    ],
    "recoveries": 8,
@@ -84995,7 +84995,7 @@
    "points_per_game_rank": 86,
    "points_per_game_rank_type": 8,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -26,
+   "price_change_hourly_rate": -23,
    "price_change_locked_until": null,
    "price_change_percent": "-46.0",
    "price_change_projections": [
@@ -85007,12 +85007,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-46.6"
+     "projected_percent": "-46.5"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-47.1"
+     "projected_percent": "-47.0"
     }
    ],
    "recoveries": 16,
@@ -85122,7 +85122,7 @@
    "points_per_game_rank": 230,
    "points_per_game_rank_type": 21,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": -4,
+   "price_change_hourly_rate": -5,
    "price_change_locked_until": null,
    "price_change_percent": "-66.1",
    "price_change_projections": [
@@ -85134,12 +85134,12 @@
     {
      "likelihood": -3,
      "offset": 1,
-     "projected_percent": "-67.2"
+     "projected_percent": "-67.4"
     },
     {
      "likelihood": -3,
      "offset": 2,
-     "projected_percent": "-68.2"
+     "projected_percent": "-68.6"
     }
    ],
    "recoveries": 8,
@@ -85376,24 +85376,24 @@
    "points_per_game_rank": 212,
    "points_per_game_rank_type": 95,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 3,
+   "price_change_hourly_rate": 0,
    "price_change_locked_until": null,
    "price_change_percent": "-3.7",
    "price_change_projections": [
     {
      "likelihood": -1,
      "offset": 0,
-     "projected_percent": "-3.6"
+     "projected_percent": "-3.7"
     },
     {
      "likelihood": -1,
      "offset": 1,
-     "projected_percent": "-1.4"
+     "projected_percent": "-3.7"
     },
     {
-     "likelihood": 0,
+     "likelihood": -1,
      "offset": 2,
-     "projected_percent": "0.0"
+     "projected_percent": "-3.7"
     }
    ],
    "recoveries": 7,
@@ -85630,7 +85630,7 @@
    "points_per_game_rank": 384,
    "points_per_game_rank_type": 41,
    "price_change_calibrating": false,
-   "price_change_hourly_rate": 0,
+   "price_change_hourly_rate": -2,
    "price_change_locked_until": null,
    "price_change_percent": "-24.3",
    "price_change_projections": [
@@ -85642,12 +85642,12 @@
     {
      "likelihood": -2,
      "offset": 1,
-     "projected_percent": "-24.3"
+     "projected_percent": "-24.8"
     },
     {
      "likelihood": -2,
      "offset": 2,
-     "projected_percent": "-24.3"
+     "projected_percent": "-25.3"
     }
    ],
    "recoveries": 0,
@@ -87533,7 +87533,7 @@
    "timezone": "UTC"
   },
   "status": {
-   "price_change_last_updated": "2026-11-15T23:05:10.202185Z"
+   "price_change_last_updated": "2026-11-15T23:20:10.769018Z"
   }
  },
  "game_settings": {
@@ -88158,5 +88158,5 @@
    "win": 0
   }
  ],
- "total_players": 11295529
+ "total_players": 11295552
 }

@@ -160,7 +160,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 427,Mbeumo,Man Utd,MID,7.9,82,0,0,0,4,0,1,0,2,0,0,2
 431,Amad,Man Utd,MID,5.7,65,0,0,0,4,0,4,0,9,0,0,2
 445,Thiaw,Newcastle,DEF,4.9,84,0,0,0,1,0,8,0,13,0,0,2
-453,Barnes,Newcastle,MID,6.1,90,0,0,0,1,0,8,0,6,0,0,2
+453,Barnes,Newcastle,MID,6.0,90,0,0,0,1,0,8,0,6,0,0,2
 464,Wissa,Newcastle,FWD,5.9,60,0,0,1,0,0,3,0,7,0,0,2
 465,Osula,Newcastle,FWD,5.8,84,0,0,0,1,0,0,0,13,0,0,2
 467,Sels,Nott'm Forest,GKP,5.0,90,0,0,0,1,2,0,0,12,0,0,2

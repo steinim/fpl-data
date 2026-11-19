@@ -199,36 +199,36 @@ id,event,kickoff_time,home,away,home_score,away_score,finished,fdr_home,fdr_away
 196,20,2027-01-06T19:30:00Z,Ipswich Town,Coventry City,,,False,2,2
 197,20,2027-01-06T20:15:00Z,Leeds,Man City,,,False,4,3
 198,20,2027-01-07T20:00:00Z,Man Utd,Newcastle,,,False,3,3
-201,21,2027-01-16T15:00:00Z,Aston Villa,Man Utd,,,False,3,3
-202,21,2027-01-16T15:00:00Z,Bournemouth,Ipswich Town,,,False,2,4
-203,21,2027-01-16T15:00:00Z,Brentford,Brighton,,,False,4,4
+205,21,2027-01-16T12:30:00Z,Coventry City,Everton,,,False,3,2
 204,21,2027-01-16T15:00:00Z,Chelsea,Sunderland,,,False,2,4
-205,21,2027-01-16T15:00:00Z,Coventry City,Everton,,,False,3,2
 206,21,2027-01-16T15:00:00Z,Hull City,Arsenal,,,False,4,2
 207,21,2027-01-16T15:00:00Z,Liverpool,Crystal Palace,,,False,2,4
 208,21,2027-01-16T15:00:00Z,Man City,Nott'm Forest,,,False,3,5
 209,21,2027-01-16T15:00:00Z,Newcastle,Fulham,,,False,2,3
-210,21,2027-01-16T15:00:00Z,Spurs,Leeds,,,False,3,3
-211,22,2027-01-23T15:00:00Z,Arsenal,Newcastle,,,False,3,5
-212,22,2027-01-23T15:00:00Z,Brighton,Man City,,,False,4,4
-213,22,2027-01-23T15:00:00Z,Crystal Palace,Spurs,,,False,3,2
-214,22,2027-01-23T15:00:00Z,Everton,Brentford,,,False,3,3
+201,21,2027-01-16T17:30:00Z,Aston Villa,Man Utd,,,False,3,3
+202,21,2027-01-17T14:00:00Z,Bournemouth,Ipswich Town,,,False,2,4
+210,21,2027-01-17T16:30:00Z,Spurs,Leeds,,,False,3,3
+203,21,2027-01-18T20:00:00Z,Brentford,Brighton,,,False,4,4
 215,22,2027-01-23T15:00:00Z,Fulham,Aston Villa,,,False,3,3
 216,22,2027-01-23T15:00:00Z,Ipswich Town,Hull City,,,False,2,2
-217,22,2027-01-23T15:00:00Z,Leeds,Chelsea,,,False,4,3
-218,22,2027-01-23T15:00:00Z,Man Utd,Liverpool,,,False,4,3
-219,22,2027-01-23T15:00:00Z,Nott'm Forest,Bournemouth,,,False,3,2
-220,22,2027-01-23T15:00:00Z,Sunderland,Coventry City,,,False,2,3
+211,22,2027-01-23T17:30:00Z,Arsenal,Newcastle,,,False,3,5
+212,22,2027-01-23T20:00:00Z,Brighton,Man City,,,False,4,4
+213,22,2027-01-24T14:00:00Z,Crystal Palace,Spurs,,,False,3,2
+214,22,2027-01-24T14:00:00Z,Everton,Brentford,,,False,3,3
+219,22,2027-01-24T14:00:00Z,Nott'm Forest,Bournemouth,,,False,3,2
+220,22,2027-01-24T14:00:00Z,Sunderland,Coventry City,,,False,2,3
+218,22,2027-01-24T16:30:00Z,Man Utd,Liverpool,,,False,4,3
+217,22,2027-01-25T20:00:00Z,Leeds,Chelsea,,,False,4,3
+227,23,2027-01-30T12:30:00Z,Liverpool,Everton,,,False,3,4
 221,23,2027-01-30T15:00:00Z,Aston Villa,Ipswich Town,,,False,2,3
-222,23,2027-01-30T15:00:00Z,Bournemouth,Fulham,,,False,2,4
-223,23,2027-01-30T15:00:00Z,Brentford,Man Utd,,,False,3,4
-224,23,2027-01-30T15:00:00Z,Chelsea,Nott'm Forest,,,False,3,4
-225,23,2027-01-30T15:00:00Z,Coventry City,Leeds,,,False,3,2
-226,23,2027-01-30T15:00:00Z,Hull City,Crystal Palace,,,False,2,2
-227,23,2027-01-30T15:00:00Z,Liverpool,Everton,,,False,3,4
-228,23,2027-01-30T15:00:00Z,Man City,Arsenal,,,False,4,5
 229,23,2027-01-30T15:00:00Z,Newcastle,Brighton,,,False,4,3
-230,23,2027-01-30T15:00:00Z,Spurs,Sunderland,,,False,2,3
+224,23,2027-01-30T17:30:00Z,Chelsea,Nott'm Forest,,,False,3,4
+222,23,2027-01-31T14:00:00Z,Bournemouth,Fulham,,,False,2,4
+225,23,2027-01-31T14:00:00Z,Coventry City,Leeds,,,False,3,2
+226,23,2027-01-31T14:00:00Z,Hull City,Crystal Palace,,,False,2,2
+230,23,2027-01-31T14:00:00Z,Spurs,Sunderland,,,False,2,3
+228,23,2027-01-31T16:30:00Z,Man City,Arsenal,,,False,4,5
+223,23,2027-02-01T20:00:00Z,Brentford,Man Utd,,,False,3,4
 231,24,2027-02-06T15:00:00Z,Arsenal,Liverpool,,,False,4,5
 232,24,2027-02-06T15:00:00Z,Brighton,Hull City,,,False,2,4
 233,24,2027-02-06T15:00:00Z,Crystal Palace,Coventry City,,,False,2,2

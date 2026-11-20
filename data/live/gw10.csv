@@ -5,7 +5,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 366,Wirtz,Liverpool,MID,7.2,90,1,1,0,1,0,10,3,49,0,0,13
 504,Vuskovic,Brighton,DEF,5.3,90,0,1,1,0,0,6,3,37,0,0,12
 15,Ødegaard,Arsenal,MID,6.7,90,1,0,1,0,0,2,3,44,0,0,11
-166,N.Jackson,Aston Villa,FWD,7.1,85,1,1,0,2,0,2,2,44,0,0,11
+166,N.Jackson,Aston Villa,FWD,7.2,85,1,1,0,2,0,2,2,44,0,0,11
 415,Dorgu,Man Utd,MID,5.7,24,1,1,0,0,0,5,2,44,0,0,11
 542,E.Le Fée,Sunderland,MID,5.7,87,1,0,1,0,0,8,3,33,0,0,11
 45,McGinn,Aston Villa,MID,5.5,70,1,1,0,2,0,5,0,36,0,0,10
@@ -79,7 +79,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 449,Hall,Newcastle,DEF,5.2,90,0,0,0,1,0,12,0,20,0,0,4
 472,Murillo,Nott'm Forest,DEF,5.5,90,0,0,0,1,0,11,0,8,0,0,4
 552,Brobbey,Sunderland,FWD,5.7,66,0,1,1,0,0,5,0,5,1,0,4
-570,Palacios,Fulham,MID,5.3,18,0,1,0,1,0,2,0,12,0,0,4
+570,Palacios,Fulham,MID,5.2,18,0,1,0,1,0,2,0,12,0,0,4
 592,Ouattara,Ipswich Town,DEF,4.0,90,0,1,0,2,0,1,0,11,0,0,4
 613,Ahoka,Sunderland,MID,4.4,86,0,0,1,0,0,14,0,18,1,0,4
 619,Palacios,Ipswich Town,MID,5.0,90,0,0,0,2,0,14,0,17,0,0,4
@@ -219,7 +219,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 190,Tchaouna,Coventry City,MID,5.3,4,0,0,0,0,0,0,0,2,0,0,1
 194,Thomas-Asante,Coventry City,FWD,5.0,17,0,0,0,1,0,2,0,2,0,0,1
 202,Richards,Crystal Palace,DEF,4.9,90,0,0,0,3,0,6,0,0,0,0,1
-204,Mitchell,Crystal Palace,DEF,4.5,90,0,0,0,3,0,6,0,7,0,0,1
+204,Mitchell,Crystal Palace,DEF,4.4,90,0,0,0,3,0,6,0,7,0,0,1
 207,Mingueza,Crystal Palace,DEF,4.2,86,0,0,0,2,0,5,0,7,0,0,1
 209,Johnson,Everton,MID,5.8,17,0,0,0,0,0,0,0,5,0,0,1
 211,Yeremy,Crystal Palace,MID,5.5,86,0,0,0,2,0,5,0,11,1,0,1
@@ -461,7 +461,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 314,Ogbene,Ipswich Town,MID,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 317,Hirst,Ipswich Town,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 319,Szmodics,Ipswich Town,MID,5.0,0,0,0,0,0,0,0,0,0,0,0,0
-321,Walle Egeli,Ipswich Town,FWD,4.5,0,0,0,0,0,0,0,0,0,0,0,0
+321,Walle Egeli,Ipswich Town,FWD,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 322,Al-Hamadi,Ipswich Town,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 323,McAteer,Ipswich Town,MID,4.3,0,0,0,0,0,0,0,0,0,0,0,0
 324,Mehmeti,Ipswich Town,MID,4.7,0,0,0,0,0,0,0,0,0,0,0,0

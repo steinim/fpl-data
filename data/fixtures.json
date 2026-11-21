@@ -38093,16 +38093,16 @@
       "value": 3
      },
      {
-      "element": 331,
-      "value": 3
-     },
-     {
       "element": 335,
       "value": 3
      },
      {
       "element": 641,
       "value": 3
+     },
+     {
+      "element": 331,
+      "value": 1
      }
     ],
     "h": [
@@ -38132,7 +38132,7 @@
      },
      {
       "element": 164,
-      "value": 7
+      "value": 9
      },
      {
       "element": 156,
@@ -38161,10 +38161,6 @@
      {
       "element": 583,
       "value": 1
-     },
-     {
-      "element": 149,
-      "value": -1
      },
      {
       "element": 151,
@@ -38234,15 +38230,15 @@
       "value": 11
      },
      {
+      "element": 149,
+      "value": 7
+     },
+     {
       "element": 157,
       "value": 7
      },
      {
       "element": 40,
-      "value": 6
-     },
-     {
-      "element": 149,
       "value": 6
      },
      {
@@ -38263,7 +38259,7 @@
      },
      {
       "element": 164,
-      "value": 3
+      "value": 4
      },
      {
       "element": 583,
@@ -39048,10 +39044,10 @@
   "code": 2645303,
   "event": 11,
   "finished": false,
-  "finished_provisional": false,
+  "finished_provisional": true,
   "id": 109,
   "kickoff_time": "2026-11-21T17:30:00Z",
-  "minutes": 89,
+  "minutes": 90,
   "provisional_start_time": false,
   "pulse_id": 0,
   "started": true,
@@ -39126,6 +39122,10 @@
      {
       "element": 16,
       "value": 1
+     },
+     {
+      "element": 25,
+      "value": 1
      }
     ],
     "h": [
@@ -39171,15 +39171,16 @@
       "value": 3
      },
      {
-      "element": 15,
-      "value": 2
-     },
-     {
       "element": 16,
       "value": 2
      }
     ],
-    "h": [],
+    "h": [
+     {
+      "element": 453,
+      "value": 1
+     }
+    ],
     "identifier": "bonus"
    },
    {
@@ -39189,12 +39190,12 @@
       "value": 34
      },
      {
-      "element": 15,
-      "value": 25
+      "element": 16,
+      "value": 29
      },
      {
-      "element": 16,
-      "value": 25
+      "element": 15,
+      "value": 24
      },
      {
       "element": 26,
@@ -39209,15 +39210,15 @@
       "value": 12
      },
      {
-      "element": 1,
-      "value": 5
-     },
-     {
       "element": 4,
-      "value": 5
+      "value": 6
      },
      {
       "element": 5,
+      "value": 6
+     },
+     {
+      "element": 1,
       "value": 5
      },
      {
@@ -39225,34 +39226,42 @@
       "value": 5
      },
      {
-      "element": 557,
+      "element": 2,
       "value": 4
      },
      {
-      "element": 2,
-      "value": 3
+      "element": 8,
+      "value": 4
      },
      {
-      "element": 8,
+      "element": 17,
       "value": 3
      },
      {
       "element": 452,
       "value": 3
+     },
+     {
+      "element": 557,
+      "value": 3
+     },
+     {
+      "element": 25,
+      "value": -2
      }
     ],
     "h": [
      {
       "element": 453,
-      "value": 22
+      "value": 25
+     },
+     {
+      "element": 445,
+      "value": 20
      },
      {
       "element": 465,
       "value": 19
-     },
-     {
-      "element": 445,
-      "value": 16
      },
      {
       "element": 460,
@@ -39263,16 +39272,20 @@
       "value": 13
      },
      {
-      "element": 456,
-      "value": 7
-     },
-     {
       "element": 567,
       "value": 7
      },
      {
       "element": 448,
-      "value": 4
+      "value": 5
+     },
+     {
+      "element": 456,
+      "value": 5
+     },
+     {
+      "element": 447,
+      "value": 3
      },
      {
       "element": 454,
@@ -39281,6 +39294,10 @@
      {
       "element": 457,
       "value": 3
+     },
+     {
+      "element": 450,
+      "value": 2
      },
      {
       "element": 462,
@@ -39305,6 +39322,10 @@
      },
      {
       "element": 16,
+      "value": 7
+     },
+     {
+      "element": 4,
       "value": 6
      },
      {
@@ -39320,10 +39341,6 @@
       "value": 5
      },
      {
-      "element": 4,
-      "value": 4
-     },
-     {
       "element": 8,
       "value": 4
      },
@@ -39332,22 +39349,26 @@
       "value": 4
      },
      {
+      "element": 557,
+      "value": 4
+     },
+     {
+      "element": 7,
+      "value": 3
+     },
+     {
       "element": 15,
       "value": 3
      },
      {
-      "element": 557,
-      "value": 3
-     },
-     {
-      "element": 7,
+      "element": 5,
       "value": 2
      }
     ],
     "h": [
      {
       "element": 448,
-      "value": 11
+      "value": 12
      },
      {
       "element": 460,
@@ -39358,12 +39379,16 @@
       "value": 8
      },
      {
-      "element": 465,
+      "element": 445,
+      "value": 7
+     },
+     {
+      "element": 453,
       "value": 6
      },
      {
-      "element": 445,
-      "value": 4
+      "element": 465,
+      "value": 6
      },
      {
       "element": 449,
@@ -39374,7 +39399,7 @@
       "value": 4
      },
      {
-      "element": 453,
+      "element": 454,
       "value": 3
      },
      {
@@ -39390,7 +39415,11 @@
       "value": 2
      },
      {
-      "element": 454,
+      "element": 447,
+      "value": 1
+     },
+     {
+      "element": 450,
       "value": 1
      }
     ],

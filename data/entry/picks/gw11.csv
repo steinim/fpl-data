@@ -1,7 +1,7 @@
 slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_points,bps,bonus
 1,Verbruggen,Brighton,GKP,1,False,False,0,0,0,0,0
 2,Thomas,Coventry City,DEF,1,False,False,90,3,3,12,0
-3,Calafiori,Arsenal,DEF,1,False,False,90,1,1,3,0
+3,Calafiori,Arsenal,DEF,1,False,False,90,1,1,4,0
 4,Van Hecke,Spurs,DEF,1,False,False,90,6,6,24,0
 5,E.Le Fée,Sunderland,MID,1,False,False,90,3,3,21,0
 6,Mbeumo,Man Utd,MID,1,False,False,0,0,0,0,0

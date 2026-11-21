@@ -99,13 +99,13 @@ id,event,kickoff_time,home,away,home_score,away_score,finished,fdr_home,fdr_away
 96,10,2026-11-08T14:00:00Z,Ipswich Town,Bournemouth,1,2,True,3,2
 100,10,2026-11-08T14:00:00Z,Sunderland,Chelsea,1,0,True,4,3
 98,10,2026-11-08T16:30:00Z,Man Utd,Aston Villa,4,4,True,3,3
-108,11,2026-11-21T12:30:00Z,Man City,Fulham,,,False,2,5
-101,11,2026-11-21T15:00:00Z,Aston Villa,Sunderland,,,False,2,3
-102,11,2026-11-21T15:00:00Z,Bournemouth,Nott'm Forest,,,False,3,4
-104,11,2026-11-21T15:00:00Z,Chelsea,Leeds,,,False,3,4
-105,11,2026-11-21T15:00:00Z,Coventry City,Crystal Palace,,,False,2,2
-110,11,2026-11-21T15:00:00Z,Spurs,Ipswich Town,,,False,2,3
-109,11,2026-11-21T17:30:00Z,Newcastle,Arsenal,,,False,4,3
+108,11,2026-11-21T12:30:00Z,Man City,Fulham,1,1,False,2,5
+101,11,2026-11-21T15:00:00Z,Aston Villa,Sunderland,0,0,False,2,3
+102,11,2026-11-21T15:00:00Z,Bournemouth,Nott'm Forest,2,0,False,3,4
+104,11,2026-11-21T15:00:00Z,Chelsea,Leeds,1,4,False,3,4
+105,11,2026-11-21T15:00:00Z,Coventry City,Crystal Palace,3,2,False,2,2
+110,11,2026-11-21T15:00:00Z,Spurs,Ipswich Town,2,0,False,2,3
+109,11,2026-11-21T17:30:00Z,Newcastle,Arsenal,2,2,False,4,3
 106,11,2026-11-22T14:00:00Z,Hull City,Brighton,,,False,4,2
 107,11,2026-11-22T16:30:00Z,Liverpool,Man Utd,,,False,3,4
 103,11,2026-11-23T20:00:00Z,Brentford,Everton,,,False,3,4

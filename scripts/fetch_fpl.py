@@ -70,6 +70,33 @@ def write_csv(rows, fields, *parts):
 
 POS = {1: "GKP", 2: "DEF", 3: "MID", 4: "FWD"}
 
+# Plasser i den totale tabellen vi vil kjenne poenggrensen for. 50 lag per side i APIet.
+RANK_GRENSER = [1, 1_000, 10_000, 100_000, 250_000, 500_000, 1_000_000, 2_000_000]
+
+
+def rank_grenser(entry, current):
+    """Poengsum ved faste plasser i Overall-ligaen. Lagrer bare plass og poeng, ikke hvem."""
+    liga = next((l for l in (entry or {}).get("leagues", {}).get("classic", [])
+                 if l.get("name") == "Overall"), None)
+    if not liga:
+        print("  fant ikke Overall-ligaen i entry.json")
+        return
+    rader = []
+    for rank in RANK_GRENSER:
+        side = (rank - 1) // 50 + 1
+        d = get(f"leagues-classic/{liga['id']}/standings/?page_standings={side}")
+        res = (d or {}).get("standings", {}).get("results", [])
+        rad = next((r for r in res if r.get("rank") == rank), None)
+        if rad is None and res:
+            rad = min(res, key=lambda r: abs(r.get("rank", 0) - rank))
+        if rad:
+            rader.append({"gw": current, "rank": rad["rank"], "total_points": rad["total"],
+                          "event_total": rad["event_total"]})
+        time.sleep(1)
+    felt = ["gw", "rank", "total_points", "event_total"]
+    write_csv(rader, felt, "rank_grenser.csv")
+    write_csv(rader, felt, "rank", f"gw{current}.csv")
+
 
 def main():
     print("bootstrap-static")
@@ -165,12 +192,15 @@ def main():
 
     # ---- manager
     print(f"entry {ENTRY_ID}")
+    entry = None
     for path, name in [(f"entry/{ENTRY_ID}/", "entry.json"),
                        (f"entry/{ENTRY_ID}/history/", "history.json"),
                        (f"entry/{ENTRY_ID}/transfers/", "transfers.json")]:
         d = get(path)
         if d:
             write_json(d, "entry", name)
+            if name == "entry.json":
+                entry = d
             if name == "history.json":
                 write_csv([{
                     "gw": r["event"],
@@ -259,6 +289,9 @@ def main():
                     "bonus": s.get("bonus"),
                 })
             write_csv(rows, list(rows[0].keys()), "entry", "picks", f"gw{gw}.csv")
+
+    print("rank-grenser")
+    rank_grenser(entry, current)
 
     write_json({
         "fetched_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),

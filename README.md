@@ -22,6 +22,7 @@ committer siste snapshot til `data/`. Git-historikken er versjonsarkivet.
 | `data/entry/history.csv` | Rundepoeng, rank, overall rank, lagverdi, bank, hits |
 | `data/entry/transfers.csv` | Alle bytter med kjøps- og salgspris |
 | `data/entry/picks/gwN.csv` | Egen tropp runde N med multiplier og effektive poeng |
+| `data/rank_grenser.csv` | Poengsum ved faste plasser i Overall (1, 1k, 10k, 100k, 250k, 500k, 1M, 2M). Bare plass og poeng. Per runde i `data/rank/gwN.csv` |
 | `data/snapshot.json` | Tidspunkt for siste henting, current/next runde |
 
 Full JSON ligger ved siden av: `bootstrap-static.json`, `fixtures.json`,

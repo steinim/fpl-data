@@ -39191,11 +39191,11 @@
     "a": [
      {
       "element": 14,
-      "value": 34
+      "value": 35
      },
      {
       "element": 16,
-      "value": 29
+      "value": 32
      },
      {
       "element": 15,
@@ -39207,22 +39207,22 @@
      },
      {
       "element": 31,
-      "value": 13
+      "value": 15
      },
      {
       "element": 13,
       "value": 12
      },
      {
-      "element": 4,
-      "value": 6
-     },
-     {
       "element": 5,
-      "value": 6
+      "value": 8
      },
      {
       "element": 1,
+      "value": 5
+     },
+     {
+      "element": 4,
       "value": 5
      },
      {
@@ -39265,7 +39265,7 @@
      },
      {
       "element": 465,
-      "value": 19
+      "value": 18
      },
      {
       "element": 460,
@@ -39292,16 +39292,16 @@
       "value": 3
      },
      {
+      "element": 450,
+      "value": 3
+     },
+     {
       "element": 454,
       "value": 3
      },
      {
       "element": 457,
       "value": 3
-     },
-     {
-      "element": 450,
-      "value": 2
      },
      {
       "element": 462,
@@ -39312,8 +39312,12 @@
       "value": 2
      },
      {
+      "element": 449,
+      "value": -1
+     },
+     {
       "element": 593,
-      "value": -3
+      "value": -4
      }
     ],
     "identifier": "bps"
@@ -39322,10 +39326,14 @@
     "a": [
      {
       "element": 13,
-      "value": 11
+      "value": 12
      },
      {
       "element": 16,
+      "value": 9
+     },
+     {
+      "element": 31,
       "value": 7
      },
      {
@@ -39334,10 +39342,6 @@
      },
      {
       "element": 26,
-      "value": 6
-     },
-     {
-      "element": 31,
       "value": 6
      },
      {
@@ -39353,15 +39357,15 @@
       "value": 4
      },
      {
+      "element": 15,
+      "value": 4
+     },
+     {
       "element": 557,
       "value": 4
      },
      {
       "element": 7,
-      "value": 3
-     },
-     {
-      "element": 15,
       "value": 3
      },
      {

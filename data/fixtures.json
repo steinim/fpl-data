@@ -39957,7 +39957,7 @@
      },
      {
       "element": 432,
-      "value": 15
+      "value": 17
      },
      {
       "element": 412,
@@ -40042,12 +40042,12 @@
       "value": 24
      },
      {
-      "element": 362,
+      "element": 377,
       "value": 24
      },
      {
-      "element": 377,
-      "value": 24
+      "element": 362,
+      "value": 23
      },
      {
       "element": 379,
@@ -40059,7 +40059,7 @@
      },
      {
       "element": 627,
-      "value": 9
+      "value": 11
      },
      {
       "element": 375,

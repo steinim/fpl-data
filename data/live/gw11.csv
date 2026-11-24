@@ -10,8 +10,8 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 499,Pedro Porro,Spurs,DEF,5.3,90,0,1,1,0,0,3,2,44,0,0,11
 529,Roefs,Sunderland,GKP,4.8,90,0,0,1,0,8,0,3,41,0,0,11
 14,Eze,Arsenal,MID,6.2,69,1,0,0,2,0,4,3,35,0,0,10
-98,Janelt,Brentford,MID,5.0,81,1,0,1,0,0,4,2,37,0,0,10
-105,Anthony,Brentford,MID,5.9,80,0,2,1,0,0,2,1,31,0,0,10
+98,Janelt,Brentford,MID,5.0,81,1,0,1,0,0,6,2,38,0,0,10
+105,Anthony,Brentford,MID,5.9,80,0,2,1,0,0,3,1,32,0,0,10
 183,Rudoni,Coventry City,MID,5.0,90,0,2,0,2,0,4,2,41,0,0,10
 222,Strand Larsen,Crystal Palace,FWD,5.9,78,1,1,0,2,0,1,1,38,0,0,10
 481,Anderson,Man City,MID,6.2,90,1,0,0,1,0,9,3,44,0,0,10
@@ -43,8 +43,8 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 61,Truffert,Bournemouth,DEF,5.4,90,0,0,1,0,0,8,0,26,0,0,6
 64,Smith,Bournemouth,DEF,4.5,86,0,0,1,0,0,3,0,30,0,0,6
 79,Evanilson,Bournemouth,FWD,6.6,90,1,0,1,0,0,2,0,32,0,0,6
-82,Kelleher,Brentford,GKP,5.0,90,0,0,1,0,2,0,0,27,0,0,6
-85,Van den Berg,Brentford,DEF,4.9,90,0,0,1,0,0,5,0,29,0,0,6
+82,Kelleher,Brentford,GKP,5.0,90,0,0,1,0,2,0,0,29,0,0,6
+85,Van den Berg,Brentford,DEF,4.9,90,0,0,1,0,0,5,0,28,0,0,6
 87,Ajer,Brentford,DEF,4.5,90,0,0,1,0,0,2,0,26,0,0,6
 88,Kayode,Brentford,DEF,4.5,90,0,0,1,0,0,2,0,16,0,0,6
 100,Carvalho,Brentford,MID,5.0,9,1,0,0,0,0,3,0,24,0,0,6
@@ -76,10 +76,10 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 613,Ahoka,Sunderland,MID,4.4,90,0,0,1,0,0,16,0,12,0,0,5
 627,Barcola,Liverpool,MID,8.1,71,0,1,1,0,0,7,0,11,1,0,5
 43,Tielemans,Man Utd,MID,5.6,64,0,0,0,2,0,12,0,18,0,0,4
-97,Jensen,Brentford,MID,5.4,16,0,1,0,0,0,5,0,20,0,0,4
+97,Jensen,Brentford,MID,5.4,16,0,1,0,0,0,5,0,18,0,0,4
 124,Groß,Brighton,MID,6.3,90,0,0,0,2,0,12,0,24,0,0,4
 194,Thomas-Asante,Coventry City,FWD,5.0,20,0,1,0,0,0,1,0,11,0,0,4
-239,Garner,Everton,MID,6.0,84,0,0,0,3,0,22,0,22,0,0,4
+239,Garner,Everton,MID,6.0,84,0,0,0,3,0,20,0,22,0,0,4
 256,Tete,Fulham,DEF,4.4,90,0,0,0,1,0,14,0,15,0,0,4
 260,Wilson,Leeds,MID,6.1,1,0,1,0,0,0,0,0,15,0,0,4
 265,Berge,Fulham,MID,4.8,90,0,0,0,1,0,14,0,19,0,0,4
@@ -99,8 +99,8 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 75,Christie,Bournemouth,MID,5.0,68,0,0,1,0,0,4,0,13,0,0,3
 91,Pinnock,Coventry City,DEF,4.5,90,0,0,0,2,0,13,0,5,0,0,3
 95,O.Dango,Brentford,MID,6.2,65,0,0,1,0,0,3,0,7,0,0,3
-96,Damsgaard,Brentford,MID,5.2,90,0,0,1,0,0,9,0,28,0,0,3
-102,Yarmoliuk,Brentford,MID,4.7,73,0,0,1,0,0,10,0,21,0,0,3
+96,Damsgaard,Brentford,MID,5.2,90,0,0,1,0,0,8,0,27,0,0,3
+102,Yarmoliuk,Brentford,MID,4.7,73,0,0,1,0,0,11,0,21,0,0,3
 127,Gomez,Brighton,MID,5.1,79,0,0,1,0,0,8,0,14,0,0,3
 129,Ayari,Brighton,MID,5.5,66,0,0,1,0,0,5,0,12,0,0,3
 173,Thomas,Coventry City,DEF,4.0,90,0,0,0,2,0,14,0,12,0,0,3
@@ -132,11 +132,11 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 198,Henderson,Crystal Palace,GKP,4.9,90,0,0,0,3,4,0,0,8,0,0,2
 214,Kamada,Crystal Palace,MID,5.0,90,0,0,0,3,0,7,0,13,0,0,2
 230,Branthwaite,Everton,DEF,5.5,90,0,0,0,4,0,17,0,-4,0,0,2
-232,O'Brien,Everton,DEF,4.8,90,0,0,0,4,0,12,0,-4,0,0,2
-236,Dewsbury-Hall,Everton,MID,6.7,68,0,0,0,3,0,8,0,6,0,0,2
+232,O'Brien,Everton,DEF,4.8,90,0,0,0,4,0,11,0,-4,0,0,2
+236,Dewsbury-Hall,Everton,MID,6.7,68,0,0,0,3,0,8,0,7,0,0,2
 237,Ndiaye,Man City,MID,5.7,77,0,0,0,1,0,4,0,14,0,0,2
-244,Armstrong,Everton,MID,5.0,90,0,0,0,4,0,8,0,11,0,0,2
-246,Röhl,Everton,MID,4.9,68,0,0,0,3,0,11,0,11,0,0,2
+244,Armstrong,Everton,MID,5.0,90,0,0,0,4,0,9,0,12,0,0,2
+246,Röhl,Everton,MID,4.9,68,0,0,0,3,0,11,0,13,0,0,2
 249,Barry,Everton,FWD,5.7,68,0,0,0,3,0,5,0,3,0,0,2
 250,Leno,Fulham,GKP,4.5,90,0,0,0,1,2,0,0,14,0,0,2
 268,King,Fulham,MID,5.4,69,0,0,0,1,0,8,0,8,0,0,2

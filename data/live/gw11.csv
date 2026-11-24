@@ -12,7 +12,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 14,Eze,Arsenal,MID,6.2,69,1,0,0,2,0,4,3,35,0,0,10
 98,Janelt,Brentford,MID,5.0,81,1,0,1,0,0,4,2,37,0,0,10
 105,Anthony,Brentford,MID,5.9,80,0,2,1,0,0,2,1,31,0,0,10
-183,Rudoni,Coventry City,MID,4.9,90,0,2,0,2,0,4,2,41,0,0,10
+183,Rudoni,Coventry City,MID,5.0,90,0,2,0,2,0,4,2,41,0,0,10
 222,Strand Larsen,Crystal Palace,FWD,5.9,78,1,1,0,2,0,1,1,38,0,0,10
 481,Anderson,Man City,MID,6.2,90,1,0,0,1,0,9,3,44,0,0,10
 572,Tzolakis,Hull City,GKP,4.7,90,0,0,1,0,7,0,2,44,0,0,10
@@ -20,7 +20,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 346,Calvert-Lewin,Leeds,FWD,6.0,90,1,1,0,1,0,5,0,25,0,0,9
 368,Szoboszlai,Liverpool,MID,6.7,90,1,0,1,0,0,10,1,43,0,0,9
 16,Madueke,Arsenal,MID,6.2,90,1,0,0,2,0,9,2,32,1,0,8
-68,Tavernier,Bournemouth,MID,6.7,90,0,1,1,0,0,7,2,39,0,0,8
+68,Tavernier,Bournemouth,MID,6.8,90,0,1,1,0,0,7,2,39,0,0,8
 170,Emegha,Chelsea,FWD,4.9,63,1,0,0,3,0,0,2,31,0,0,8
 271,Muniz,Fulham,FWD,5.3,82,1,0,0,1,0,1,2,36,0,0,8
 498,Senesi,Spurs,DEF,5.7,90,0,0,1,0,0,13,0,33,0,0,8
@@ -264,7 +264,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 478,Netz,Nott'm Forest,DEF,4.4,18,0,0,0,0,0,0,0,4,0,0,1
 483,Ndoye,Nott'm Forest,MID,5.5,45,0,0,0,2,0,2,0,1,0,0,1
 489,Yates,Nott'm Forest,MID,4.4,45,0,0,0,2,0,6,0,8,0,0,1
-490,Wood,Nott'm Forest,FWD,5.7,18,0,0,0,0,0,0,0,3,0,0,1
+490,Wood,Nott'm Forest,FWD,5.6,18,0,0,0,0,0,0,0,3,0,0,1
 491,Igor Jesus,Nott'm Forest,FWD,5.6,45,0,0,0,0,0,3,0,2,0,0,1
 502,Robertson,Spurs,DEF,4.3,11,0,0,0,0,0,0,0,3,0,0,1
 520,Bergvall,Spurs,MID,5.3,26,0,0,0,0,0,4,0,6,0,0,1
@@ -436,7 +436,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 274,Butland,Hull City,GKP,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 275,Cartwright,Hull City,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 276,Lo-Tutala,Hull City,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
-277,Egan,Hull City,DEF,4.1,0,0,0,0,0,0,0,0,0,0,0,0
+277,Egan,Hull City,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 278,Hughes,Hull City,DEF,3.9,0,0,0,0,0,0,0,0,0,0,0,0
 281,Drameh,Hull City,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 283,Jacob,Hull City,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -483,7 +483,7 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 348,Piroe,Leeds,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
 349,Mateo Joseph,Leeds,FWD,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 351,Mamardashvili,Liverpool,GKP,4.8,0,0,0,0,0,0,0,0,0,0,0,0
-352,Woodman,Liverpool,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+352,Woodman,Liverpool,GKP,3.9,0,0,0,0,0,0,0,0,0,0,0,0
 353,Pecsi,Liverpool,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 354,Jaros,Liverpool,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 355,Davies,Liverpool,GKP,4.0,0,0,0,0,0,0,0,0,0,0,0,0

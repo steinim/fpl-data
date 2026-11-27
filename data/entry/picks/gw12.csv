@@ -1,0 +1,16 @@
+slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_points,bps,bonus
+1,Trafford,Leeds,GKP,1,False,False,0,0,0,0,0
+2,Silva,Bournemouth,DEF,1,False,False,0,0,0,0,0
+3,De Cuyper,Brighton,DEF,1,False,False,0,0,0,0,0
+4,Justin,Leeds,DEF,1,False,False,0,0,0,0,0
+5,Groß,Brighton,MID,1,False,False,0,0,0,0,0
+6,Gibbs-White,Nott'm Forest,MID,2,True,False,64,7,14,21,0
+7,E.Le Fée,Sunderland,MID,1,False,False,0,0,0,0,0
+8,Tavernier,Bournemouth,MID,1,False,False,0,0,0,0,0
+9,Evanilson,Bournemouth,FWD,1,False,False,0,0,0,0,0
+10,Barry,Everton,FWD,1,False,True,0,0,0,0,0
+11,Haaland,Man City,FWD,1,False,False,0,0,0,0,0
+12,Tzolakis,Hull City,GKP,0,False,False,0,0,0,0,0
+13,B.Fernandes,Man Utd,MID,0,False,False,0,0,0,0,0
+14,Van Hecke,Spurs,DEF,0,False,False,0,0,0,0,0
+15,Thomas,Coventry City,DEF,0,False,False,0,0,0,0,0

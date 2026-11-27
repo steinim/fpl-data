@@ -4,7 +4,7 @@ slot,web_name,team,pos,multiplier,captain,vice,minutes,raw_points,effective_poin
 3,De Cuyper,Brighton,DEF,1,False,False,0,0,0,0,0
 4,Justin,Leeds,DEF,1,False,False,0,0,0,0,0
 5,Groß,Brighton,MID,1,False,False,0,0,0,0,0
-6,Gibbs-White,Nott'm Forest,MID,2,True,False,64,7,14,21,0
+6,Gibbs-White,Nott'm Forest,MID,2,True,False,90,13,26,39,1
 7,E.Le Fée,Sunderland,MID,1,False,False,0,0,0,0,0
 8,Tavernier,Bournemouth,MID,1,False,False,0,0,0,0,0
 9,Evanilson,Bournemouth,FWD,1,False,False,0,0,0,0,0

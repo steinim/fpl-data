@@ -1,27 +1,32 @@
 id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,saves,defensive_contribution,bonus,bps,yellow_cards,red_cards,total_points
-491,Igor Jesus,Nott'm Forest,FWD,5.6,64,1,0,0,1,0,5,3,37,0,0,9
-170,Emegha,Chelsea,FWD,4.9,19,1,0,0,1,0,0,2,29,0,0,7
-480,Gibbs-White,Nott'm Forest,MID,7.8,64,1,0,0,1,0,3,0,21,0,0,7
-167,Delap,Nott'm Forest,FWD,5.3,64,0,1,0,1,0,4,1,22,0,0,6
-156,Neto,Chelsea,MID,6.6,64,0,1,0,2,0,1,0,16,0,0,5
-201,Muñoz,Nott'm Forest,DEF,5.2,64,0,1,0,1,0,1,0,12,0,0,5
-159,Caicedo,Chelsea,MID,5.3,64,0,0,0,2,0,13,0,19,0,0,4
-28,Martinez,Chelsea,GKP,4.9,64,0,0,0,2,4,0,0,10,0,0,2
-40,Rogers,Chelsea,MID,8.3,64,0,0,0,2,0,3,0,7,0,0,2
-154,Palmer,Chelsea,MID,9.8,64,0,0,0,2,0,5,0,10,0,0,2
-161,Lavia,Chelsea,MID,5.0,64,0,0,0,2,0,9,0,10,0,0,2
-467,Sels,Nott'm Forest,GKP,5.0,64,0,0,0,1,0,0,0,2,0,0,2
-469,N.Williams,Nott'm Forest,DEF,4.8,64,0,0,0,1,0,4,0,6,0,0,2
-471,Milenković,Nott'm Forest,DEF,5.4,64,0,0,0,1,0,7,0,4,0,0,2
-472,Murillo,Nott'm Forest,DEF,5.5,64,0,0,0,1,0,8,0,16,0,0,2
-474,Jair Cunha,Nott'm Forest,DEF,4.4,64,0,0,0,1,0,5,0,14,0,0,2
-486,McAtee,Nott'm Forest,MID,5.5,64,0,0,0,1,0,9,0,21,0,0,2
-558,Schlager,Nott'm Forest,MID,4.9,64,0,0,0,1,0,5,0,6,0,0,2
-101,Henderson,Chelsea,MID,4.9,64,0,0,0,2,0,5,0,8,1,0,1
+480,Gibbs-White,Nott'm Forest,MID,7.8,90,2,0,0,2,0,4,1,39,0,0,13
+170,Emegha,Chelsea,FWD,4.9,45,2,0,0,2,0,0,3,55,0,0,12
+156,Neto,Chelsea,MID,6.6,90,0,2,0,3,0,4,2,42,1,0,9
+491,Igor Jesus,Nott'm Forest,FWD,5.6,71,1,0,0,1,0,7,0,38,0,0,6
+558,Schlager,Nott'm Forest,MID,4.9,83,0,1,0,1,0,7,0,20,0,0,5
+159,Caicedo,Chelsea,MID,5.3,90,0,0,0,3,0,18,0,21,0,0,4
+161,Lavia,Chelsea,MID,5.0,90,0,0,0,3,0,12,0,14,0,0,4
+167,Delap,Nott'm Forest,FWD,5.3,83,0,1,0,1,0,6,0,19,1,0,4
+201,Muñoz,Nott'm Forest,DEF,5.2,90,0,1,0,2,0,2,0,8,0,0,4
+486,McAtee,Nott'm Forest,MID,5.5,90,0,0,0,2,0,13,0,27,0,0,4
+472,Murillo,Nott'm Forest,DEF,5.5,90,0,0,0,2,0,10,0,10,0,0,3
+28,Martinez,Chelsea,GKP,4.9,90,0,0,0,3,4,0,0,10,0,0,2
+40,Rogers,Chelsea,MID,8.3,90,0,0,0,3,0,4,0,10,0,0,2
+154,Palmer,Chelsea,MID,9.8,90,0,0,0,3,0,6,0,16,0,0,2
+101,Henderson,Chelsea,MID,4.9,84,0,0,0,3,0,6,0,10,1,0,1
 136,Welbeck,Chelsea,FWD,5.8,45,0,0,0,1,0,0,0,2,0,0,1
-149,Colwill,Chelsea,DEF,4.8,8,0,0,0,0,0,0,0,3,0,0,1
-151,Acheampong,Chelsea,DEF,4.5,64,0,0,0,2,0,6,0,7,0,0,1
-583,Chavarria,Chelsea,DEF,4.9,64,0,0,0,2,0,2,0,4,0,0,1
+149,Colwill,Chelsea,DEF,4.8,34,0,0,0,1,0,2,0,4,0,0,1
+151,Acheampong,Chelsea,DEF,4.5,84,0,0,0,3,0,8,0,9,0,0,1
+152,Palestra,Chelsea,DEF,5.3,5,0,0,0,0,0,0,0,3,0,0,1
+164,Quenda,Chelsea,MID,5.2,5,0,0,0,0,0,1,0,5,0,0,1
+467,Sels,Nott'm Forest,GKP,5.0,90,0,0,0,2,1,0,0,2,0,0,1
+469,N.Williams,Nott'm Forest,DEF,4.8,90,0,0,0,2,0,6,0,2,0,0,1
+471,Milenković,Nott'm Forest,DEF,5.4,90,0,0,0,2,0,9,0,8,0,0,1
+474,Jair Cunha,Nott'm Forest,DEF,4.4,90,0,0,0,2,0,8,0,14,0,0,1
+483,Ndoye,Nott'm Forest,MID,5.5,18,0,0,0,1,0,5,0,4,0,0,1
+489,Yates,Nott'm Forest,MID,4.4,1,0,0,0,0,0,0,0,3,0,0,1
+490,Wood,Nott'm Forest,FWD,5.6,6,0,0,0,1,0,2,0,3,0,0,1
+583,Chavarria,Chelsea,DEF,4.9,90,0,0,0,3,0,5,0,1,0,0,1
 1,Raya,Arsenal,GKP,6.2,0,0,0,0,0,0,0,0,0,0,0,0
 2,Arrizabalaga,Arsenal,GKP,4.9,0,0,0,0,0,0,0,0,0,0,0,0
 3,Meslier,Arsenal,GKP,4.9,0,0,0,0,0,0,0,0,0,0,0,0
@@ -166,7 +171,6 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 147,Tosin,Spurs,DEF,4.3,0,0,0,0,0,0,0,0,0,0,0,0
 148,Hato,Chelsea,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 150,M.Sarr,Chelsea,DEF,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-152,Palestra,Chelsea,DEF,5.3,0,0,0,0,0,0,0,0,0,0,0,0
 153,Disasi,Crystal Palace,DEF,4.4,0,0,0,0,0,0,0,0,0,0,0,0
 155,Enzo,Man City,MID,6.9,0,0,0,0,0,0,0,0,0,0,0,0
 157,Estêvão,Chelsea,MID,6.3,0,0,0,0,0,0,0,0,0,0,0,0
@@ -174,7 +178,6 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 160,Garnacho,Aston Villa,MID,5.7,0,0,0,0,0,0,0,0,0,0,0,0
 162,Andrey Santos,Man Utd,MID,4.6,0,0,0,0,0,0,0,0,0,0,0,0
 163,D.Essugo,Chelsea,MID,4.5,0,0,0,0,0,0,0,0,0,0,0,0
-164,Quenda,Chelsea,MID,5.2,0,0,0,0,0,0,0,0,0,0,0,0
 165,João Pedro,Chelsea,FWD,7.6,0,0,0,0,0,0,0,0,0,0,0,0
 166,N.Jackson,Aston Villa,FWD,7.3,0,0,0,0,0,0,0,0,0,0,0,0
 168,Marc Guiu,Chelsea,FWD,5.0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -484,13 +487,10 @@ id,web_name,team,pos,price,minutes,goals,assists,clean_sheets,goals_conceded,sav
 479,Bindon,Nott'm Forest,DEF,4.0,0,0,0,0,0,0,0,0,0,0,0,0
 481,Anderson,Man City,MID,6.2,0,0,0,0,0,0,0,0,0,0,0,0
 482,Hudson-Odoi,Nott'm Forest,MID,5.7,0,0,0,0,0,0,0,0,0,0,0,0
-483,Ndoye,Nott'm Forest,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 484,Hutchinson,Nott'm Forest,MID,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 485,Bakwa,Nott'm Forest,MID,5.5,0,0,0,0,0,0,0,0,0,0,0,0
 487,Dominguez,Nott'm Forest,MID,4.8,0,0,0,0,0,0,0,0,0,0,0,0
-488,I.Sangaré,Nott'm Forest,MID,4.7,0,0,0,0,0,0,0,0,0,0,0,0
-489,Yates,Nott'm Forest,MID,4.4,0,0,0,0,0,0,0,0,0,0,0,0
-490,Wood,Nott'm Forest,FWD,5.6,0,0,0,0,0,0,0,0,0,0,0,0
+488,I.Sangaré,Nott'm Forest,MID,4.7,6,0,0,0,1,0,1,0,-1,1,0,0
 492,Awoniyi,Coventry City,FWD,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 493,Kalimuendo,Nott'm Forest,FWD,5.4,0,0,0,0,0,0,0,0,0,0,0,0
 494,Vicario,Spurs,GKP,4.5,0,0,0,0,0,0,0,0,0,0,0,0
